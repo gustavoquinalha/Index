@@ -1,5 +1,5 @@
 
-**Seja bem vindo ao Ciência Hacker!**
+**Seja bem vindo ao Ciência Hacker!**<br/>
 *Neste arquivo você encontrará algumas perguntas e respostas frequentes.*
 
 * Grupo FB > https://www.fb.com/groups/cienciahacker
@@ -9,7 +9,6 @@
 
 
 Ementa
-:-----:
         1) - Dicas de perguntas
         2) - Perguntas e respostas frequentes
                 2.1     –     Por onde começar?
@@ -34,7 +33,6 @@ Ementa
 
 ## 1. Dicas de Perguntas
 ========================
-
 1)Antes de começarmos irei apresentar algumas dicas de como formular perguntas
 de forma adequada.
  
