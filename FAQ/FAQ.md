@@ -30,7 +30,7 @@ Ementa
                 Back|Track  
  ```
 ## 1. Dicas de Perguntas  
-######*1. - Antes de começarmos irei apresentar algumas dicas de como formular perguntas de forma adequada.*
+######*1. - Antes de começarmos, irei apresentar algumas dicas de como formular perguntas de forma adequada.*
 
 ------------------------------------------------------------------------------
 ######*1.1 - Não iremos fazer o trabalho de vocês, portanto não postem exercícios de faculdade e esperem aprovação ou respostas.*
@@ -38,7 +38,7 @@ Ementa
 
 ######*1.2 - Na hora de formular perguntas tente ser o mais objetivo, breve e detalhista possível. As pessoas não gostam de ler textos imensos e muito menos não entender o que o autor quis dizer ao final deles.*
 ------------------------------------------------------------------------------
-## 2. Perguntas e respostar
+## 2. Perguntas e respostas
 #####2.1 - Sou iniciante neste mundo, por onde começar?
  
 R: Tudo depende de seu intuito uma vez que a palavra "hackear" é muito
@@ -65,14 +65,14 @@ na sétima camada. Utilize a ferramenta Slowloris.pl (google it)
 ------------------------------------------------------------------------------
 #####2.3 - Como invadir redes WI-FI  
  
-As ferramentas mais famosas para estas tarefas são: Reaver e Aircrack-ng. De
-uma pesquisada sobre elas
+As ferramentas mais famosas para estas tarefas são: Reaver e Aircrack-ng. Dê
+uma pesquisada sobre elas.
  
 ------------------------------------------------------------------------------
 #####2.4 - Como quebrar senhas (hashes)
  
 R: Quebra de senhas é uma arte vai muito além de programas, porém sem
-programas o processo seria infinitamente mais demorado .
+programas o processo seria infinitamente mais demorado.
 Vocês podem utilizar o google, sites especializados, e ferramentas com foco
 no cracking(quebra) de senhas.  
  
@@ -106,8 +106,8 @@ R: Busque ajuda com o provedor do serviço
 ------------------------------------------------------------------------------
 #####2.8 - Como camuflar o IP  
  
-R: Procure uma utilização de uma Vpn ou proxy free. Para a utilização de uma
-Vpn recomendamos o Cyberghost ou SecurityKiss pelo fato de não guardarem
+R: Procure a utilização de uma VPN ou proxy free. Para a utilização de uma
+VPN, recomendamos o Cyberghost ou SecurityKiss pelo fato de não guardarem
 informações como sites acessados, tempo de conexão, etc. Lembre-se de ler o
 contrato de prestação de serviço antes de utilizar.  
 Eu em particular acho que o melhor método de anonimato ainda é a rede TOR.  
@@ -132,27 +132,31 @@ Windows utilizem o Tmac
 ***Link:https://docs.google.com/document/d/1wZXvpL5EEDKiznAvHrMACFE7SM14t0SsX-cUlZZow2Y/edit**-
  
 ------------------------------------------------------------------------------
-#####2,11 - Programação. Como começar?  
-R: Caso esteja em dúvida sobre qual linguagem escolher olhe alguns códigos de
-diferentes liguagens e veja qual lhe parece mais simpática e lhe agrada mais.  
-Feito isso vá até este post e verifique os sites que possuem material sobre programação.  
+#####2.11 - Programação. Como começar?  
+
+R: Caso esteja em dúvida sobre qual linguagem escolher, olhe alguns códigos de
+diferentes linguagens e veja qual lhe parece mais simpática e lhe agrada mais.  
+Feito isso, vá até o link a seguir e verifique os sites que possuem material sobre programação
+da linguagem escolhida por você.  
  
 ***Link: http://pastebin.com/6UWaP7zN***
  
 ------------------------------------------------------------------------------
-#####2,12 - Preciso do Kali para poder realizar testes de penetração?  
+#####2.12 - Preciso do Kali para poder realizar testes de penetração?  
  
-R: Não. Você pode realizar testes de penetração em toda e qualquer distribuição Linux e até mesmo Windows  
- 
-------------------------------------------------------------------------------
-#####2,13 - Backtrack ou Kali?  
- 
-R: Kali linux é o sucessor do Backtrack, por isso dê preferencia ao kali uma vez que ele conta com kernel e ferramentas atualizados.
+R: Não. Você pode realizar testes de penetração em toda e qualquer distribuição Linux
+e até mesmo no ambiente Windows  
  
 ------------------------------------------------------------------------------
-#####2,14 - Qual o melhor Linux?  
+#####2.13 - Backtrack ou Kali?  
+ 
+R: Kali linux é o sucessor do Backtrack, por isso dê preferencia ao Kali uma vez que ele conta com kernel e ferramentas atualizados.
+ 
+------------------------------------------------------------------------------
+#####2.14 - Qual o melhor Linux?  
  
 R: A definição de melhor distro é subjetiva pois depende do propósito do usuário e do desempenho do computador do usuário.  
+
 Certamente seu propósito é hacking e, falando superficialmente, qualquer distro pode ser útil com hacking, basta você saber armá-las; adicionar outro repositório ao sistema de pacotes etc., mas se o desempenho de seu computador for baixo, terá que procurar algo mais específico ou pelo menos uma interface específica dentro da distro escolhida.  
  
 Falando de Kali e Parrot, para mim, eles não são muito diferentes, a diferença é questão de facilidade ou até vaidade.  
@@ -161,21 +165,9 @@ Se Platão conhecesse linux, ele diria que a melhor distro está somente no camp
  
 
 # 3. Links Mais pedidos
-=======================
+--------------------------
 Wordlist = **http://hashkiller.co.uk/downloads.aspx**  
 Kali Linux = **http://www.kali.org/downloads/**  
 Back|Track =(32 bits) **https://thepiratebay.se/torrent/7529596/BackTrack_5_R3_Gnome_32bit**  
             (64 bits) **https://thepiratebay.se/torrent/7529601/BackTrack_5_R3_Gnome_64bit**  
-
-```sh
-$ npm i -g gulp
-```
-
-```sh
-$ git clone [git-repo-url] dillinger
-$ cd dillinger
-$ npm i -d
-$ mkdir -p public/files/{md,html,pdf}
-$ gulp build --prod
-$ NODE_ENV=production node app
 ```
