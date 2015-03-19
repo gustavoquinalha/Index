@@ -8,29 +8,28 @@
 * Vimeo > www.vimeo.com/cienciahacker
 
 
-Ementa
-        1) - Dicas de perguntas
-        2) - Perguntas e respostas frequentes
-                2.1     –     Por onde começar?
-                2.2     –     Como invadir/derrubar um site?
-                2.3     –     Como invadir redes WI-FI
-                2.4     –     Como quebrar senhas (hashes)
-                2.5     –     Posso hackear utilizando o Android?
-                2.6     –     Como hackear Facebook?
-                2.7     –     Me hackearam! O que fazer?
-                2.8     –     Como camuflar o IP?
-                2.9     –     Como camuflar o endereço MAC
-                2.10    –     Duvidas sobre Deep Web e como navegar
-                2.11    –     Programação. Como começar?
-                2,12    –     Preciso do Kali para poder realizar testes de penetração?
-                2.13    –     Backtrack ou Kali?
-                2.14    –     Qual o melhor Linux?
-        3) - Links mais pedidos
-                Wordlist
-                Kali Linux
-                Back|Track
+Ementa  
+        1) - Dicas de perguntas  
+        2) - Perguntas e respostas frequentes  
+                2.1     –     Por onde começar?  
+                2.2     –     Como invadir/derrubar um site?  
+                2.3     –     Como invadir redes WI-FI  
+                2.4     –     Como quebrar senhas (hashes)  
+                2.5     –     Posso hackear utilizando o Android?  
+                2.6     –     Como hackear Facebook?  
+                2.7     –     Me hackearam! O que fazer?  
+                2.8     –     Como camuflar o IP?  
+                2.9     –     Como camuflar o endereço MAC  
+                2.10    –     Duvidas sobre Deep Web e como navegar  
+                2.11    –     Programação. Como começar?  
+                2,12    –     Preciso do Kali para poder realizar testes de penetração?  
+                2.13    –     Backtrack ou Kali?  
+                2.14    –     Qual o melhor Linux?  
+        3) - Links mais pedidos  
+                Wordlist  
+                Kali Linux  
+                Back|Track  
  
-
 ## 1. Dicas de Perguntas
 ========================
 1)Antes de começarmos irei apresentar algumas dicas de como formular perguntas
@@ -44,12 +43,9 @@ faculdade e esperem aprovação ou respostas.
 1.2) Na hora de formular perguntas tente ser o mais objetivo, breve e
 detalhista possível. As pessoas não gostam de ler textos imensos e muito
 menos não entender o que o autor quis dizer ao final deles.
- 
-
 
 ## 2. Perguntas e respostar
 ===========================
-
 2.1) Sou iniciante neste mundo, por onde começar?
  
 R: Tudo depende de seu intuito uma vez que a palavra "hackear" é muito
@@ -173,7 +169,6 @@ Se Platão conhecesse linux, ele diria que a melhor distro está somente no camp
 
 # 3. Links Mais pedidos
 =======================
- 
 Wordlist = **http://hashkiller.co.uk/downloads.aspx**
 Kali Linux = **http://www.kali.org/downloads/**
 Back|Track =(32 bits) **https://thepiratebay.se/torrent/7529596/BackTrack_5_R3_Gnome_32bit**
