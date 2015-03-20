@@ -58,6 +58,11 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
         
     [PHP - https://php.net/manual/pt_BR/index.php]
     
+        ~ Inglês ~
+        http://www.nusphere.com/php/php_tutorial.htm <~~ NuSphere PHP Tutorial
+        http://www.php5-tutorial.com/ <~~ O Tutorial completo de PHP
+        http://tut.php-quake.net/en/index.html <~~ Tutorial PHP + MySQL
+        
         ~ Português ~  
         http://www.codecademy.com/pt-BR/tracks/php  <~~ É um ótimo ambiente de aprendizado, claro e dinâmico. 
         http://www.cursoemvideo.com/course/curso-php-iniciante/  <~~ Vídeo aulas com uma didática incrível.
@@ -175,5 +180,5 @@ https://leanpub.com/lisphackers/read  <~~ Esse é pra quem já sabe Lisp e quer 
 *        Pbrincker  <~~ http://minhateca.com.br/pbrincker  
 *        Augusto  <~~ http://minhateca.com.br/faugustof  
 
-*        Créditos: Ao pessoal que juntou todo o conteúdo em um só lugar ^^  
+*        Créditos: Ao pessoal que juntou todo o conteúdo em um só lugar ^^ e ao site http://hackr.io  
 ----------------------------------------------------------------------------------
