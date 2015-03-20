@@ -1,9 +1,9 @@
-## Organon
+## Organon - Package Manager
 *Este programa foca em automatizar o download, resolução de dependências e instalação de programas com foco em análise de vulnerabilidades e pentest.*  
 
 Repositório: https://github.com/maximozsec/organon  
 
-## Cangibrina
+## Cangibrina - Dashboard Finder (admin finder)
 *Um rápido e poderoso Dashboad Finder (admin finder) feito em Python. Utiliza diversas técnicas para atingir o objetivo em questão.*  
 
 Repositório: https://github.com/fnk0c/cangibrina  
