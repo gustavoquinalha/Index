@@ -80,6 +80,14 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
         http://learnxinyminutes.com/docs/python/  <~~ Um guia de referência.
         http://learnpythonthehardway.org/book/  <~~ Livro bem explicativo, tem versão em vídeo, mas é paga.
         http://opentechschool.github.io/python-beginners/en/index.html  <~~ Feito pela comunidade.
+        http://learnpythonbreakpython.com/ <~~ Um guia de programação para iniciantes
+        http://www.swaroopch.com/notes/python/ <~~ Um pouco de Python
+        http://openbookproject.net/thinkcs/python/english3e/ <~~ Como pensar como um cientista da computação - Aprendendo com Python 3
+        https://developers.google.com/edu/python/ <~~ Aulas de Python da Google
+        http://chimera.labs.oreilly.com/books/1234000000754/index.html <~~ Desenvolvimento com Python
+        http://anandology.com/python-practice-book/ <~~ Livro 'Python na Prática'
+        http://www.diveintopython.net/toc/index.html <~~ Livro 'Drive Into Python'
+        https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/index.html <~~ Tutoriais fundamentais de Python
         
         ~ Português ~  
         http://www.codecademy.com/pt-BR/tracks/python <~~ Ela de novo.
