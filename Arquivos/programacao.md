@@ -37,6 +37,18 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
   
         ~ Inglês ~  
         http://www.w3schools.com/js/default.asp  <~~ Boas práticas e muitos exemplos.
+        http://survivejs.com/ <~~ Guia do desenvolvedor Web (Introdução)
+        http://chimera.labs.oreilly.com/books/1234000000262/index.html <~~ Programando Aplicações JavaScript
+        http://www.javascriptenlightenment.com/ <~~ JavaScript - Esclarecimento
+        http://gitbookio.gitbooks.io/javascript/content/en/index.html <~~ Introdução a JavaScript
+        http://dailyjs.com/files/build-a-javascript-framework.pdf <~~ Construindo um Framework JavaScript
+        http://read.humanjavascript.com/ <~~ e-book 'Human Javascript'
+        http://slides.com/concise/js#/ <~~ Slides - Resumo Javascript
+        http://addyosmani.com/resources/essentialjsdesignpatterns/book/ <~~ Aprendendo padrões de design em Javascript
+        http://javascript.info/ <~~ Javascript - O Tutorial
+        http://www.kirupa.com/html5/learn_javascript.htm <~~ JavaScript | Kuripa
+        http://speakingjs.com/es5/index.html <~~ Livro 'Falando em JavaScript'
+        http://eloquentjavascript.net/ <~~ Livro 'JavaScript Eloquente - Uma moderna introdução a JavaScript'
            
         ~ Português ~  
         http://www.codecademy.com/pt-BR/tracks/javascript  <~~ q-q.
