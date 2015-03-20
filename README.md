@@ -2,10 +2,10 @@
 
 ***Neste arquivo vocês encontraram links referentes ao F.A.Q, regras, compilado de programação entre outros.***
 
-* F.A.Q                 => http://goo.gl/Soihqx 
-* Regras                => http://goo.gl/1Y3Ia0
-* Compilado Programação =>
-* Biblioteca            =>
-* Página Facebook       =>
-* Grupo Facebook        =>
-* Projetos de Membros   =>
+* F.A.Q                 => http://goo.gl/gUzSa0 
+* Regras                => http://goo.gl/7n9CeV
+* Compilado Programação => http://goo.gl/ANacIx
+* Biblioteca            => http://goo.gl/blY1d4
+* Página Facebook       => fb.com/cienciahacker
+* Grupo Facebook        => fb.com/groups/cienciahacker
+* Projetos de Membros   => 
