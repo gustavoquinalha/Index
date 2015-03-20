@@ -102,6 +102,10 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
     http://ruby-hacking-guide.github.io/  <~~ Inclui uma didática voltado para hackers.
     https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp  <~~ Vídeo aulas ainda em desenvolvimento.
     http://learnrubythehardway.org/book/  <~~ Mais uma edição do The Hard Way
+    http://mrdougwright.gitbooks.io/rubykin/content/ <~~ RubyKid - Ensinando Leigos a programar
+    http://mislav.uniqpath.com/poignant-guide/book/ <~~ Guia Mordaz de Ruby
+    http://www.humblelittlerubybook.com/book/html/index.html <~~ Pequeno e Humilde livro de Ruby
+    
     
     ~ Português ~  
     http://www.codecademy.com/pt-BR/tracks/ruby  <~~ Sem comentários.
