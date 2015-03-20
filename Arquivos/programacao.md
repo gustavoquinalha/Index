@@ -6,7 +6,7 @@ Também encontrará várias bibliotecas com diversos conteúdos para download.
  
 OBS: Todo o material aqui disponível, está atualizado e com links ativos, qualquer problema ou observação, entre em contato conosco em algumas das nossas redes sociais abaixo  
  
-Última atualização: 05/03/2015 - 16:50  
+Última atualização: 20/03/2015 - 16:10  
  
 ##C.I.Ê.N.C.I.A     H.A.C.K.E.R
 *                   site > www.cienciahacker.com.br  
@@ -16,6 +16,8 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
 *                   Vimeo > www.vimeo.com/cienciahacker  
 
 **<--   Conteúdo analisado e organizado por: Methz  -->**
+
+**<--   Usualmente atualizado por: Fnk0c | MaximozSec | Methz**
 
 ----------------------------------------------------------------------------------  
 ##<-- Linguagens de Programação Web -->                       
@@ -68,31 +70,49 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
         http://www.cursoemvideo.com/course/curso-php-iniciante/  <~~ Vídeo aulas com uma didática incrível.
         http://br.phptherightway.com/  <~~ Esse é pro pessoal (bem) mais avançado.
         
+ ---------------------------------------------------------------------------------
+       
+    [Ruby on Rails - http://guides.rubyonrails.org/]
+    
+        ~ Inglês ~
+        http://railscasts.com/ <~~ Ruby on Rails screencasts
+        http://www.theodinproject.com/ruby-on-rails <~~ Introdução a Rails - The Odin Project
+        http://www.thinkful.com/learn/ruby-on-rails-tutorial/ <~~ Aprenda como você modifica um Clone Craigslist em Ruby on Rails
+        http://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application <~~ Construa uma simples aplicação em Ruby on Rails
+        http://www.peoplecancode.com/en/paths#ror_path <~~ Ruby on Rails - People Can Code
+        https://www.railstutorial.org/book <~~ Aprenda desenvolvimento Web com Ruby on Rails
+        
+        ~ Português ~
+        http://www.rubyonrails.com.br/ <~~ Site Ruby on Rails PT-BR
+        http://www.caelum.com.br/apostila-ruby-on-rails/ <~~  Desenvolvimento Ágil para Web com Ruby on Rails
+        http://www.maujor.com/railsgirlsguide/ <~~ Ruby on Rails - Seus primeiros passos
+        http://www.codecademy.com/pt-BR/learn/make-a-rails-app <~~ Codecademy contra-ataca 'Crie uma aplicação Rails'
+        
 ----------------------------------------------------------------------------------          
 ##<-- Linguagens de Programação Desktop -->
 ----------------------------------------------------------------------------------     
 
     [Python - https://www.python.org/doc/versions/]
     
-        ~ Inglês ~  
-        http://inventwithpython.com/hacking/chapters/  <~~ Python para hackers. MUITO LINDO.
-        https://mega.co.nz/#!E0RmhQDC!5QD0TH1infATtN5nhfenYz7nh7_K7cz9hDaD6W7rRMA  <~~ Para computação Forense.
-        http://learnxinyminutes.com/docs/python/  <~~ Um guia de referência.
-        http://learnpythonthehardway.org/book/  <~~ Livro bem explicativo, tem versão em vídeo, mas é paga.
-        http://opentechschool.github.io/python-beginners/en/index.html  <~~ Feito pela comunidade.
-        http://learnpythonbreakpython.com/ <~~ Um guia de programação para iniciantes
-        http://www.swaroopch.com/notes/python/ <~~ Um pouco de Python
-        http://openbookproject.net/thinkcs/python/english3e/ <~~ Como pensar como um cientista da computação - Aprendendo com Python 3
-        https://developers.google.com/edu/python/ <~~ Aulas de Python da Google
-        http://chimera.labs.oreilly.com/books/1234000000754/index.html <~~ Desenvolvimento com Python
-        http://anandology.com/python-practice-book/ <~~ Livro 'Python na Prática'
-        http://www.diveintopython.net/toc/index.html <~~ Livro 'Drive Into Python'
-        https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/index.html <~~ Tutoriais fundamentais de Python
-        
-        ~ Português ~  
-        http://www.codecademy.com/pt-BR/tracks/python <~~ Ela de novo.
-        https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc  <~~ Considerado o melhor conteúdo BR.
-        http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf  <~~ Livro legal, cores e exemplos.
+    ~ Inglês ~  
+    http://inventwithpython.com/hacking/chapters/  <~~ Python para hackers. MUITO LINDO.
+    https://mega.co.nz/#!E0RmhQDC!5QD0TH1infATtN5nhfenYz7nh7_K7cz9hDaD6W7rRMA  <~~ Para computação Forense.
+    http://learnxinyminutes.com/docs/python/  <~~ Um guia de referência.
+    http://learnpythonthehardway.org/book/  <~~ Livro bem explicativo, tem versão em vídeo, mas é paga.
+    http://opentechschool.github.io/python-beginners/en/index.html  <~~ Feito pela comunidade.
+    http://learnpythonbreakpython.com/ <~~ Um guia de programação para iniciantes
+    http://www.swaroopch.com/notes/python/ <~~ Um pouco de Python
+    http://openbookproject.net/thinkcs/python/english3e/ <~~ Como pensar como um cientista da computação - Aprendendo com Python 3
+    https://developers.google.com/edu/python/ <~~ Aulas de Python da Google
+    http://chimera.labs.oreilly.com/books/1234000000754/index.html <~~ Desenvolvimento com Python
+    http://anandology.com/python-practice-book/ <~~ Livro 'Python na Prática'
+    http://www.diveintopython.net/toc/index.html <~~ Livro 'Drive Into Python'
+    https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/index.html <~~ Tutoriais fundamentais de Python
+    
+    ~ Português ~  
+    http://www.codecademy.com/pt-BR/tracks/python <~~ Ela de novo.
+    https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc  <~~ Considerado o melhor conteúdo BR.
+    http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf  <~~ Livro legal, cores e exemplos.
         
 ----------------------------------------------------------------------------------
     
@@ -111,7 +131,7 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
     http://www.codecademy.com/pt-BR/tracks/ruby  <~~ Sem comentários.
     http://why.carlosbrando.com/  <~~ Divertido a leitura haha, muito famoso.
     http://aprendaaprogramar.rubyonrails.com.br/  <~~ Aqui é um bom começo.
-
+    
 ----------------------------------------------------------------------------------
 
     [C - http://en.cppreference.com/w/c]
@@ -141,14 +161,17 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
     http://orion.lcg.ufrj.br/C++/curso/#  <~~ Material público da UFRJ. É razoável..
     https://www.youtube.com/user/excriptvideo/playlists <~~ 24 Vídeo Aula e em desenvolvimento no momento.
     
-    
 ----------------------------------------------------------------------------------  
 
     [Perl - http://doc.perl6.org/]  
     
     ~ Inglês ~  
-    http://www.perl.org/books/beginning-perl/  <~~ Todos PDF's online.
+    http://www.perl.org/books/library.html  <~~ Biblioteca Perl.
     http://www.greenteapress.com/perl/  <~~ The Hard Way de volta.
+    http://modernperlbooks.com/books/modern_perl_2014/ <~~ Perl Moderno 2014
+    http://perl-tutorial.org/ <~~ Perl Tutoriais
+    http://qntm.org/files/perl/perl.html <~~ Aprenda Perl em 2h 30min
+    www.tutorialspoint.com/perl/ <~~ Conteúdo abrangente sobre Perl
     
     ~ Português ~  
     Galera, material em pt-br pra Perl é complicado. Muitos desatualizados e como ninguém se interessa muito, está em falta.
@@ -157,17 +180,38 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
 ----------------------------------------------------------------------------------          
 ##<-- BÔNUS -->
 ----------------------------------------------------------------------------------   
+[Tutorials Point - www.tutorialspoint.com]
 
-[Lisp - http://lispdoc.com/index]  
+Acervo enorme de conteúdo de diversas linguagens.
+Imagine uma linguagem. Imaginou? Então, muito provavelmente tem o tutorial dela do Tutorials Point.
+Dê uma olhada lá.
 
-~ Português ~  
-Também sofre com falta de materiais em pt-br, pelo menos bons e atualizados. Façam suas próprias pesquisas.
+###<-- Linguagens de Programação Funcional -->                       
 
-~ Inglês ~  
-http://www.franz.com/resources/educational_resources/cooper.book.pdf  <~~ Livro bem completo, mas é muito teórico.
-http://learnlispthehardway.org/book/  <~~ Conteúdo atualizado e em desenvolvimento. 
-https://leanpub.com/lisphackers/read  <~~ Esse é pra quem já sabe Lisp e quer aprimorar no mundo 'hacker'.
+    [Lisp - http://lispdoc.com/index]  
+    
+    ~ Português ~  
+    Também sofre com falta de materiais em pt-br, pelo menos bons e atualizados. Façam suas próprias pesquisas.
+    
+    ~ Inglês ~  
+    http://www.franz.com/resources/educational_resources/cooper.book.pdf  <~~ Livro bem completo, mas é muito teórico.
+    http://learnlispthehardway.org/book/  <~~ Conteúdo atualizado e em desenvolvimento. 
+    https://leanpub.com/lisphackers/read  <~~ Esse é pra quem já sabe Lisp e quer aprimorar no mundo 'hacker'.
+    
+----------------------------------------------------------------------------------
 
+   [Haskell - https://www.haskell.org/]
+   
+   ~ Português ~
+   http://haskell.tailorfontela.com.br/chapters <~~ Livro 'Aprender Haskell será um grande bem para você!'
+   https://pt.wikibooks.org/wiki/Haskell <~~ Wiki em português
+   http://learnxinyminutes.com/docs/pt-br/haskell-pt/
+   http://www.portugal-a-programar.pt/forum/88-haskell/
+   http://wiki.portugal-a-programar.pt/tag:haskell?do=showtag&tag=haskell
+   
+   ~ Inglês ~
+   https://www.haskell.org/documentation <~~ Somente este link dá acesso a vários outros. Bom proveito!
+   
 ----------------------------------------------------------------------------------          
 ##<-- Bibliotecas 'Hacker' --> 
 ----------------------------------------------------------------------------------          
