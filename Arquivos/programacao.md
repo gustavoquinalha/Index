@@ -227,7 +227,7 @@ Dê uma olhada lá.
 *        Biblioteca 01  <~~ http://goo.gl/c5r3GC  
 *        Biblioteca 02  <~~ http://goo.gl/7DGxLq  
 *        Biblioteca 03  <~~ http://goo.gl/FtyXIe  
-*        Créditos: ment0r.
+**        Créditos: ment0r.**
 
 
 ----------------------------------------------------------------------------------          
@@ -242,6 +242,4 @@ Dê uma olhada lá.
 *        Caca do Código  <~~ http://minhateca.com.br/CacaDoCodigo  
 *        Pbrincker  <~~ http://minhateca.com.br/pbrincker  
 *        Augusto  <~~ http://minhateca.com.br/faugustof  
-
-*        Créditos: Ao pessoal que juntou todo o conteúdo em um só lugar ^^ e ao site http://hackr.io  
-----------------------------------------------------------------------------------
+** Créditos: Ao pessoal que juntou todo o conteúdo em um só lugar ^^ e ao site http://hackr.io  **
