@@ -176,7 +176,14 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
     ~ Português ~  
     Galera, material em pt-br pra Perl é complicado. Muitos desatualizados e como ninguém se interessa muito, está em falta.
     Fico devendo no momento, mas depois dou umas vasculhada na rede pra vocês.
+
+----------------------------------------------------------------------------------           
+
+    [Shell Script - No Documentation Found]
     
+    ~ Português ~  
+    http://www.devin.com.br/shell_script/ <~~ Tutorial Shell Scipt
+
 ----------------------------------------------------------------------------------          
 ##<-- BÔNUS -->
 ----------------------------------------------------------------------------------   
