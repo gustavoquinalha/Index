@@ -96,7 +96,7 @@ o mundo hacker é muito maior que isso. Porém certo dia acordamos felizes e de
 bem com a vida, foi quando nosso canal enviou um vídeo sobre este assunto.
 Mas que fique claro que esta foi um EXCESSÃO.  
 
-***VIDEO AULA > http://youtu.be/37Sgx5r94kM?list=UUZPg5KlsbPsbxX3YQ_y_kRQ***
+***VIDEO AULA > https://youtu.be/37Sgx5r93kM***
 
 ------------------------------------------------------------------------------
 #####2.7 - Me hackearam no (face, gmail, lol, caralho a 4), me ajudem!  
