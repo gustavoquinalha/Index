@@ -1,7 +1,7 @@
 #Ciência Hacker
 
 ***Neste arquivo vocês encontraram links referentes ao F.A.Q, regras, compilado de programação entre outros.***
-[**bundler**](http://bundler.io/)
+
 * [**F.A.Q**](http://goo.gl/gUzSa0)
 * [**Regras**](http://goo.gl/7n9CeV)
 * [**Compilado Programação**](http://goo.gl/ANacIx)
