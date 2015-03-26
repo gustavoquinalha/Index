@@ -65,7 +65,7 @@ na sétima camada. Utilize a ferramenta Slowloris.pl (google it)
 ------------------------------------------------------------------------------
 #####2.3 - Como invadir redes WI-FI  
  
-As ferramentas mais famosas para estas tarefas são: Reaver e Aircrack-ng. Dê
+As ferramentas mais famosas para estas tarefas são: Reaver ou Bully e Aircrack-ng. Dê
 uma pesquisada sobre elas.
  
 ------------------------------------------------------------------------------
