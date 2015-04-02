@@ -182,7 +182,8 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
     [Shell Script - No Documentation Found]
     
     ~ Português ~  
-    http://www.devin.com.br/shell_script/ <~~ Tutorial Shell Scipt
+    http://www.devin.com.br/shell_script/ <~~ Tutorial Shell Script
+    http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778 <~~ Introdução ao Shell Script
 
 ----------------------------------------------------------------------------------          
 ##<-- BÔNUS -->
