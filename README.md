@@ -11,3 +11,4 @@
 * [**Projetos de Membros**](http://goo.gl/wjlk09)
 * [**Página Facebook**](https://fb.com/cienciahacker)
 * [**Grupo Facebook**](https://fb.com/groups/cienciahacker)
+* [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
