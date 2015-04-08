@@ -166,8 +166,12 @@ Se Platão conhecesse linux, ele diria que a melhor distro está somente no camp
 
 # 3. Links Mais pedidos
 --------------------------
-Wordlist = **http://hashkiller.co.uk/downloads.aspx**  
-Kali Linux = **http://www.kali.org/downloads/**  
-Back|Track =(32 bits) **https://thepiratebay.se/torrent/7529596/BackTrack_5_R3_Gnome_32bit**  
-            (64 bits) **https://thepiratebay.se/torrent/7529601/BackTrack_5_R3_Gnome_64bit**  
+####Wordlist
+        http://hashkiller.co.uk/downloads.aspx  
+        https://downloads.skullsecurity.org/passwords/  
+####Kali Linux
+        http://www.kali.org/downloads/ 
+####Back|Track
+        (32 bits) https://thepiratebay.se/torrent/7529596/BackTrack_5_R3_Gnome_32bit  
+        (64 bits) https://thepiratebay.se/torrent/7529601/BackTrack_5_R3_Gnome_64bit  
 ```
