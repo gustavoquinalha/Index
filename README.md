@@ -18,3 +18,4 @@
 
 #####Noticias sobre o mundo da tecnologia
 * [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
+* [**Filmes Hackers**](https://github.com/cienciahacker/index/blob/master/Arquivos/Filmes.md)
