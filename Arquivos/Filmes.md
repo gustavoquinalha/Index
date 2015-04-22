@@ -14,6 +14,6 @@
 
 * Millennium: Os Homens que Não Amavam as Mulheres [2009]
 
-*Duro de Matar 4.0 [2007]
+* Duro de Matar 4.0 [2007]
 
-*Jogos de guerra [1983]
+* Jogos de guerra [1983]
