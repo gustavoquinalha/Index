@@ -17,4 +17,4 @@
 * [**Projetos de Membros**](http://goo.gl/wjlk09)
 
 #####Noticias sobre o mundo da tecnologia
-[**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
+* [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
