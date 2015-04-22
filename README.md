@@ -15,6 +15,7 @@
 * [**Compilado Programação**](http://goo.gl/ANacIx)
 * [**Biblioteca**](http://goo.gl/blY1d4)
 * [**Projetos de Membros**](http://goo.gl/wjlk09)
+* [**Vídeos**](https://github.com/cienciahacker/index/blob/master/Arquivos/videos.md)
 
 #####Noticias sobre o mundo da tecnologia
 * [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
