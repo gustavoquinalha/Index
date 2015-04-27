@@ -3,7 +3,7 @@
 
 ####YouTube
 
-######Invasão Android + Streaming de vídeo com Metasploit (invasão cameras celular)
+######[Invasão Android + Streaming de vídeo com Metasploit (invasão cameras celular)](https://www.youtube.com/watch?v=KYCy2knEKEQ)
 ---------
 * Neste vídeo utilizaremos o msfvenon para criar uma conexão reversa com a vítima e obter um link para a transmissão de vídeo proveniente do celular 
 
@@ -23,7 +23,7 @@
 ----------
 * Essa vídeo aula é para aqueles que querem manter conexão com a vítima mesmo quando se perder seja por um evento randômico ou proposital. Podendo então setar configurações para se manter conectado com a vítima toda vez que se conectar a internet ou der boot em seu sistema.
 
-######Cangibrina - Dashboard finder (achar painel de administração) 
+######[Cangibrina - Dashboard finder (achar painel de administração)](https://www.youtube.com/watch?v=XEOjA3DUTNA)
 ----------
 * Cangibrina é uma ferramenta multiplataforma que visa a obtenção do painel de administração (Cpanel) de sites utilizando brute-force baseado em wordlist, Google, DuckDuckGo, nmap e robots.txt.
 
@@ -31,7 +31,7 @@
 ------------
 * É abordade conceitos do Google Hacking (pesquisa avançada)
 
-######Bypass Antivirus com msfencode (Burlar Antivirus)
+######[Bypass Antivirus com msfencode (Burlar Antivirus)](https://www.youtube.com/watch?v=oYOsx_yX4xI)
 -----------
 * Nesta vídeo aula é abordado o método de bypass em antivirus através da ferramenta msfencode.
 
@@ -51,7 +51,7 @@
 ------
 * Nessa vídeo aula foi trata alguns conceitos e ideias sobre as leis de cibercrimes.
 
-######Invasão e roubo de databases do WhatsApp (Android)
+######[Invasão e roubo de databases do WhatsApp (Android)](https://www.youtube.com/watch?v=7n00CKNMcCs)
 --------
 * Para realizar essa vídeo aula recomendamos ver a anterior sobre invasão de Android que é continuação dela
 
@@ -59,7 +59,7 @@
 --------
 * O título é auto-explicativo
 
-######Invadindo sistema Android com Metasploit
+######[Invadindo sistema Android com Metasploit](https://www.youtube.com/watch?v=8PFTiFAzydo)
 --------
 * O título é auto-explicativo
 
@@ -79,7 +79,7 @@
 --------
 * O título é auto-explicativo
 
-######Instalação do TOR no Linux e no Windows
+######[Instalação do TOR no Linux e no Windows](https://www.youtube.com/watch?v=v39VYpjJDk8)
 --------
 * O título é auto-explicativo
 
@@ -87,7 +87,7 @@
 -------
 * Esteganografia é a arte de esconder informações dentro de arquivos
 
-######Identificando e quebrando Hashs (senhas)
+######[Identificando e quebrando Hashs (senhas)](https://www.youtube.com/watch?v=N7kR0ttcrxY)
 ------
 * Neste vídeo foram utilizados o HashID e o FindMyHash
 
