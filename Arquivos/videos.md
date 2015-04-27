@@ -19,7 +19,8 @@
 ----------
 * Como testar vulnerabilidade em sites com programa Acunetix.
 
-######Mantendo conexão com a vítima (Manutenção de Acesso)
+######[Mantendo conexão com a vítima (Manutenção de Acesso)](https://youtu.be/hpBo2klb8hk)
+
 ----------
 * Essa vídeo aula é para aqueles que querem manter conexão com a vítima mesmo quando se perder seja por um evento randômico ou proposital. Podendo então setar configurações para se manter conectado com a vítima toda vez que se conectar a internet ou der boot em seu sistema.
 
@@ -27,7 +28,7 @@
 ----------
 * Cangibrina é uma ferramenta multiplataforma que visa a obtenção do painel de administração (Cpanel) de sites utilizando brute-force baseado em wordlist, Google, DuckDuckGo, nmap e robots.txt.
 
-######Conceito de Google Hacking - Explorando falhas em serviços computacionais
+######[Conceito de Google Hacking - Explorando falhas em serviços computacionais](https://youtu.be/EOTWWDaMsV8)
 ------------
 * É abordade conceitos do Google Hacking (pesquisa avançada)
 
@@ -47,7 +48,7 @@
 --------
 * Criar um compartilhamento de arquivo entre duas máquinas virtuais
 
-######Conceitos e Leis sobre Cibercrimes - Lei Carolina Dieckmann 12.737/12
+######[Conceitos e Leis sobre Cibercrimes - Lei Carolina Dieckmann 12.737/12](https://youtu.be/uy-LfDZdcvQ)
 ------
 * Nessa vídeo aula foi trata alguns conceitos e ideias sobre as leis de cibercrimes.
 
@@ -71,7 +72,7 @@
 --------
 * O título é auto-explicativo
 
-######Quebrando arquivos compactados com senhas no Windows (RAR e ZIP)
+######[Quebrando arquivos compactados com senhas no Windows (RAR e ZIP)](https://youtu.be/cd0wGxhUNn0)
 --------
 * O título é auto-explicativo
 
@@ -83,7 +84,7 @@
 --------
 * O título é auto-explicativo
 
-######Esteganografia - Conceito e prática com as ferramentas OpenPuff e Steghide
+######[Esteganografia - Conceito e prática com as ferramentas OpenPuff e Steghide](https://youtu.be/z2W2xweGwuU)
 -------
 * Esteganografia é a arte de esconder informações dentro de arquivos
 
@@ -91,57 +92,17 @@
 ------
 * Neste vídeo foram utilizados o HashID e o FindMyHash
 
-######Navegando de forma anonima e segura pelo Tails (Segurança Cibernética)
+######[Navegando de forma anonima e segura pelo Tails (Segurança Cibernética)](https://youtu.be/XCdz7lUUazY)
 -------
 * Bom pessoa hoje a aula é sobre o sistema Tails, como utilizar ele e navegar de forma segura tanto na Surface quanto na Deep Web. Para quem não sabe foi utilizado pelo E. Snowden durante o escândalo da NSA e recomendado por ele para quem quer navegar de forma segurança na internet evitando ser espionado por um sistema de vigilância garantindo o anonimato na rede.
 
-######Camuflar MAC Address no Linux e Windows
--------
-* Como troca seu endereço MAC tanto no Linux quanto no Windows, fácil e rápido.
-
-######Instalação do Whonix(Torbox) no Kali
--------
-* Demonstração de como fica anônimo na rede com o TOR, utilizando o Whonix que é conhecido como Torbox.
-
-######Invadindo Windows 7 e 8 utilizando uma Backdoor
-----------
-* Através desse exploit conseguimos criar uma conexão com nossa vitima, tendo privilegio sobre seu sistema.
-
-######Invadindo computador com Excel (Exploit)
----------
-* Efetuando uma invasão em computador utilizando um arquivo em Excel, esse arquivo é gerado e quando a vitima abre ele executa uma conexão reversa.
-
-######Coletando email de provedora via Exploit (Email Collector)
-----------
-* Demonstração de como coletar email de provedoras via exploit.
-
-######Como instalar o Kali Linux no VirtualBox
---------
-* Passo a passo de como instalar o Kali linux no VirtualBox.
-
-######Derrubando servidores com Slowloris e como se proteger
+######[Derrubando servidores com Slowloris e como se proteger](https://www.youtube.com/watch?v=4oAmUnnSwJs)
 ------
 * Slowloris é uma ferramenta de ataque de negação de serviço, explorando a vulnerabilidade da camada da aplicação
 
-######Invadindo site explorando a falha do Ocomon (Invasão de Website) 
+######[Invadindo site explorando a falha do Ocomon (Invasão de Website)](https://www.youtube.com/watch?v=yaIecU7Z5rk)
 ----------
 * Nessa vídeo aula estarei falando sobre a falha do Ocomon onde é possível injetar string em seu banco de dados, ganhando acesso sobre o painel administrativo.
-
-######Invadindo site ultilizando a falha SQLi com Havij (Método GET)
----------
-* Esse método de ataque utiliza a falha SQLi onde o atacante consegue ter acesso a privilégios de informações no banco de dado.
-
-######Invadindo site ultilizando a falha SQLi com SQLMAP - Metodo GET
---------
-* Esse método de ataque utiliza a falha SQLi onde o atacante consegue ter acesso a privilégios de informações no banco de dado.
-
-######Capturando senhas em uma rede com sniffer Cain
----------
-* Cain é um poderoso sniffer que captura captura dados na rede, sendo focado em pegar pacotes específico de senhas como TELNET, FTP, HTTP( sites como Hotmail e Facebook..) , entre outros.
-
-######Efetuando invasão no Windows XP com Backtrack
----------
-* Invadindo Windows XP com a falha de conexão reversa (conhecida como REVERSE TCP) com Backtrack e adquirindo domínio total sobre o computador podendo ter acesso a tela remota, webcam, entre outros recursos operacionais.
 
 ####Vimeo
 
