@@ -3,11 +3,15 @@
 
 ####YouTube
 
+######[Phishing + Backdoor com SET e Metasploit (Pagina falsa + vírus)](http://youtu.be/b0e5j6xgUq0?a)
+--------
+* Uma das formas de conseguir acesso a uma máquina na rede local, é através de uma backdoor em que você pode estar se aproveitando da falta de conhecimento em segurança do usuário forcando-o a acreditar que ele necessita baixar algum programa para ter acesso a uma rede social.
+
 ######[Invasão Android + Streaming de vídeo com Metasploit (invasão cameras celular)](https://www.youtube.com/watch?v=KYCy2knEKEQ)
 ---------
 * Neste vídeo utilizaremos o msfvenon para criar uma conexão reversa com a vítima e obter um link para a transmissão de vídeo proveniente do celular 
 
-######Capturando emails com Metasploit
+######[Capturando emails com Metasploit](http://youtu.be/rKLtoo7UA8o?a)
 ----------
 * Captura de email utilizando o Metasploit
 
