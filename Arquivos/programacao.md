@@ -6,21 +6,21 @@ Também encontrará várias bibliotecas com diversos conteúdos para download.
  
 OBS: Todo o material aqui disponível, está atualizado e com links ativos, qualquer problema ou observação, entre em contato conosco em algumas das nossas redes sociais abaixo  
  
-Última atualização: 20/03/2015 - 16:10  
+Última atualização: 04/05/2015 - 00:40
  
 ##C.I.Ê.N.C.I.A     H.A.C.K.E.R
-*                   site > www.cienciahacker.com.br  
-*                   Grupo FB > http://goo.gl/AvDf7U  
-*                   Página > https://www.fb.com/CienciaHacker  
-*                   Youtube > www.youtube.com/cienciahacker  
-*                   Vimeo > www.vimeo.com/cienciahacker  
+* **Site** - www.cienciahacker.com.br
+* **Grupo FB** - http://goo.gl/AvDf7U
+* **Página** - https://www.fb.com/CienciaHacker
+* **Youtube** - www.youtube.com/cienciahacker
+* **Vimeo** - www.vimeo.com/cienciahacker
 
-**<--   Conteúdo analisado e organizado por: Methz  -->**
+**Conteúdo analisado e organizado por: Methz**
 
-**<--   Usualmente atualizado por: Fnk0c | MaximozSec | Methz**
+**Usualmente atualizado por: Fnk0c | MaximozSec | Methz**
 
 ----------------------------------------------------------------------------------  
-##<-- Linguagens de Programação Web -->                       
+##Linguagens de Programação Web
 ######Sabemos que HTML é exceção...
 ----------------------------------------------------------------------------------           
             
@@ -89,7 +89,7 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
         http://www.codecademy.com/pt-BR/learn/make-a-rails-app <~~ Codecademy contra-ataca 'Crie uma aplicação Rails'
         
 ----------------------------------------------------------------------------------          
-##<-- Linguagens de Programação Desktop -->
+##Linguagens de Programação Desktop
 ----------------------------------------------------------------------------------     
 
     [Python - https://www.python.org/doc/versions/]
@@ -186,15 +186,16 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
     http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778 <~~ Introdução ao Shell Script
 
 ----------------------------------------------------------------------------------          
-##<-- BÔNUS -->
+##BÔNUS
 ----------------------------------------------------------------------------------   
-[Tutorials Point - www.tutorialspoint.com]
+    [Tutorials Point - www.tutorialspoint.com]
+    
+    Acervo enorme de conteúdo de diversas linguagens.
+    Imagine uma linguagem. Imaginou? Então, muito provavelmente tem o tutorial dela do Tutorials Point.
+    Dê uma olhada lá.
+----------------------------------------------------------------------------------
 
-Acervo enorme de conteúdo de diversas linguagens.
-Imagine uma linguagem. Imaginou? Então, muito provavelmente tem o tutorial dela do Tutorials Point.
-Dê uma olhada lá.
-
-###<-- Linguagens de Programação Funcional -->                       
+###Linguagens de Programação Funcional
 
     [Lisp - http://lispdoc.com/index]  
     
@@ -208,31 +209,31 @@ Dê uma olhada lá.
     
 ----------------------------------------------------------------------------------
 
-   [Haskell - https://www.haskell.org/]
-   
-   ~ Português ~
-   http://haskell.tailorfontela.com.br/chapters <~~ Livro 'Aprender Haskell será um grande bem para você!'
-   https://pt.wikibooks.org/wiki/Haskell <~~ Wiki em português
-   http://learnxinyminutes.com/docs/pt-br/haskell-pt/
-   http://www.portugal-a-programar.pt/forum/88-haskell/
-   http://wiki.portugal-a-programar.pt/tag:haskell?do=showtag&tag=haskell
-   
-   ~ Inglês ~
-   https://www.haskell.org/documentation <~~ Somente este link dá acesso a vários outros. Bom proveito!
-   
+    [Haskell - https://www.haskell.org/]
+    
+    ~ Português ~
+    http://haskell.tailorfontela.com.br/chapters <~~ Livro 'Aprender Haskell será um grande bem para você!'
+    https://pt.wikibooks.org/wiki/Haskell <~~ Wiki em português
+    http://learnxinyminutes.com/docs/pt-br/haskell-pt/
+    http://www.portugal-a-programar.pt/forum/88-haskell/
+    http://wiki.portugal-a-programar.pt/tag:haskell?do=showtag&tag=haskell
+    
+    ~ Inglês ~
+    https://www.haskell.org/documentation <~~ Somente este link dá acesso a vários outros. Bom proveito!
+    
 ----------------------------------------------------------------------------------          
-##<-- Bibliotecas 'Hacker' --> 
+##Bibliotecas 'Hacker'
 ----------------------------------------------------------------------------------          
 *        Algumas coleções de conteúdos relacionados com Programação e Redes.  
 *        Também sendo possível encontrar vários materias diversos como Design Matemática, Administração, Inglês, Engenharia, Hardware, Teorias...  
 *        Biblioteca 01  <~~ http://goo.gl/c5r3GC  
 *        Biblioteca 02  <~~ http://goo.gl/7DGxLq  
 *        Biblioteca 03  <~~ http://goo.gl/FtyXIe  
-**        Créditos: ment0r.**
+**Créditos: ment0r.**
 
 
 ----------------------------------------------------------------------------------          
-##<-- Minhateca Collection --> 
+##Minhateca Collection
 ----------------------------------------------------------------------------------          
 *        Usuários que contém uma grande coleção organizada de conteúdos.  
 *        Livros, apostilas, vídeos aulas, distros, ferramentas e tudo mais.  
@@ -243,4 +244,4 @@ Dê uma olhada lá.
 *        Caca do Código  <~~ http://minhateca.com.br/CacaDoCodigo  
 *        Pbrincker  <~~ http://minhateca.com.br/pbrincker  
 *        Augusto  <~~ http://minhateca.com.br/faugustof  
-** Créditos: Ao pessoal que juntou todo o conteúdo em um só lugar ^^ e ao site http://hackr.io  **
+**Créditos: Ao pessoal que juntou todo o conteúdo em um só lugar ^^ e ao site http://hackr.io**
