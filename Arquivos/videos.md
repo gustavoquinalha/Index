@@ -15,11 +15,11 @@
 ----------
 * Captura de email utilizando o Metasploit
 
-######Invasão de sites em Wordpress com WpScan
+######[Invasão de sites em Wordpress com WpScan](https://youtu.be/PCLruSwPyKE)
 ---------
 * Neste vídeo abordamos uma introdução a ferramenta WpScan e tem como foco análise de vulnerabilidades e brute force
 
-######Testando vulnerabilidade em sites com Acunetix (Scanning)
+######[Testando vulnerabilidade em sites com Acunetix (Scanning)](https://youtu.be/etrz0d12tWo)
 ----------
 * Como testar vulnerabilidade em sites com programa Acunetix.
 
@@ -40,15 +40,15 @@
 -----------
 * Nesta vídeo aula é abordado o método de bypass em antivirus através da ferramenta msfencode.
 
-######Quebrando login do Gmail com o Hydra
+######[Quebrando login do Gmail com o Hydra](https://youtu.be/1F3CHyNCQIc)
 -----------
 * O título é auto-explicativo
 
-######Criando wordlist com o Crunch
+######[Criando wordlist com o Crunch](https://youtu.be/4hPLMIwfm5A)
 -----------
 * O título é auto-explicativo
 
-######Compartilhamento entre Linux e Windows
+######[Compartilhamento entre Linux e Windows](https://youtu.be/YxKVJlDwdwk)
 --------
 * Criar um compartilhamento de arquivo entre duas máquinas virtuais
 
@@ -60,19 +60,19 @@
 --------
 * Para realizar essa vídeo aula recomendamos ver a anterior sobre invasão de Android que é continuação dela
 
-######Como efetuar invasão e ter acesso a webcam em tempo real (Metasploit)
+######[Como efetuar invasão e ter acesso a webcam em tempo real (Metasploit)](https://youtu.be/IG95ZttcEDA)
 --------
 * O título é auto-explicativo
 
-######[Invadindo sistema Android com Metasploit](https://www.youtube.com/watch?v=8PFTiFAzydo)
+######[Invadindo sistema Android com Metasploit](https://youtu.be/8PFTiFAzydo)
 --------
 * O título é auto-explicativo
 
-######Como instalar Figlet e Cmatrix - Personalização no Linux
+######[Como instalar Figlet e Cmatrix - Personalização no Linux](https://youtu.be/pLncr7E7QhA)
 ---------
 * Pra dar aquela personalizada no terminal
 
-######Como logar em qualquer usuario Windows (bypass login admin)
+######[Como logar em qualquer usuario Windows (bypass login admin)](https://youtu.be/LuQMtxmoIeY)
 --------
 * O título é auto-explicativo
 
@@ -80,7 +80,7 @@
 --------
 * O título é auto-explicativo
 
-######Como fazer bypass sistema Linux sendo root (resetar senha de root)
+######[Como fazer bypass sistema Linux sendo root (resetar senha de root)](https://youtu.be/oepbpLCLPa4)
 --------
 * O título é auto-explicativo
 
@@ -110,18 +110,18 @@
 
 ####Vimeo
 
-######Aula 1 - Instalando Code Block: Introdução a Programção C/C++
+######[Aula 1 - Instalando Code Block: Introdução a Programção C/C++](https://vimeo.com/111950459)
 -----------
 * Nessa vídeo aula ensinaremos como instalar o compilador Code Block no ambiente Linux.
 
-######Aula 2 - Começando a programar o primeiro "Hello World"
+######[Aula 2 - Começando a programar o primeiro "Hello World"](https://vimeo.com/117006557)
 ----------
 * Começando a programar o primeiro "Hello World"
 
-######Aula 03 - Variáveis int
+######[Aula 03 - Variáveis int](https://vimeo.com/124822942)
 -----------
 * Variáveis int
 
-######Identificando senhas dos usuarios com John the Ripper
+######[Identificando senhas dos usuarios com John the Ripper](https://vimeo.com/115620209)
 ---------
 * O título é auto-explicativo
