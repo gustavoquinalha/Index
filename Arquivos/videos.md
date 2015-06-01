@@ -3,6 +3,10 @@
 
 ####YouTube
 
+######[Explorando falha de SQLi com Sqlmap (Invasão de Sites)](https://www.youtube.com/watch?v=VE9vCqFdjR4)
+--------
+* Neste vídeo utilizamos o Sqlmap para explorar e explicamos a falha SQL injection
+
 ######[Phishing + Backdoor com SET e Metasploit (Pagina falsa + vírus)](http://youtu.be/b0e5j6xgUq0?a)
 --------
 * Uma das formas de conseguir acesso a uma máquina na rede local, é através de uma backdoor em que você pode estar se aproveitando da falta de conhecimento em segurança do usuário forcando-o a acreditar que ele necessita baixar algum programa para ter acesso a uma rede social.
