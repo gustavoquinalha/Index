@@ -18,7 +18,7 @@
 * [**Projetos de Membros**](http://goo.gl/wjlk09)
 * [**Vídeos**](https://github.com/cienciahacker/index/blob/master/Arquivos/videos.md)
 * [**Apostilas**](https://github.com/cienciahacker/index/blob/master/Arquivos/Apostilas.md)
-* [**Artigos**](https://github.com/cienciahacker/index/blob/master/Arquivo    s/artigos.md)
+* [**Artigos**](https://github.com/cienciahacker/index/blob/master/artigos.md)
 
 #####Noticias sobre o mundo da tecnologia
 * [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
