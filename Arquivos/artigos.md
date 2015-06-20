@@ -1,5 +1,5 @@
 ##Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
-** Ordem: Mais novo >> Mais velho **
+**Ordem: Mais novo >> Mais velho**
 
 ###[Como “dibrar” a espionagem da Microsoft.](http://cienciahacker.com.br/como-dibrar-a-espionagem-da-microsoft/)  
 Sempre que ligamos o Windows, um teste de conexão é feito automaticamente através do NCSI (Network Connectivity Status Indicator). O computador faz uma requisição de um arquivo de texto no servidor do NSCI em que o Windows pode identificar quando o computador está conectado em uma rede, quando precisa de senha para alguns tipos de rede sem fio e quanto está conectado à internet.  
