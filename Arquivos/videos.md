@@ -3,6 +3,10 @@
 
 ####YouTube
 
+######[Como instalar ferramentas para PenTest usando Organon](https://www.youtube.com/watch?v=lpPauu2uY4E)
+-------
+* Organon é uma ferramenta que visa auxiliar a instalação de ferramentas para pentest a partir de seu código fonte. Organon suporta Debian, Ubuntu, Mint e Arch.  
+
 ######[Explorando falha de SQLi com Sqlmap (Invasão de Sites)](https://www.youtube.com/watch?v=VE9vCqFdjR4)
 --------
 * Neste vídeo utilizamos o Sqlmap para explorar e explicamos a falha SQL injection
