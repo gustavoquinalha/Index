@@ -2,7 +2,7 @@
 
 ##### https://fb.com/groups/cienciahacker
 
-[Boas Práticas em Segurança da Informação 4°ed 2012](https://www.facebook.com/download/108242706182781/Guia_Boas_Praticas_SGI-TCU.pdf)
+[Boas Práticas em Segurança da Informação 4°ed 2012](https://www.facebook.com/download/108242706182781/Guia_Boas_Praticas_SGI-TCU.pdf)  
 [Nmap Guia de referencia](https://www.facebook.com/groups/cienciahacker/1097804103567808/)  
 [Teste de Intrusão em Redes Corporativas](https://www.facebook.com/groups/cienciahacker/1060132220668330/)  
 [Web Penetration Testing with Kali Linux(Português)](https://www.facebook.com/groups/cienciahacker/1060131940668358/)  
