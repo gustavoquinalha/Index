@@ -1,6 +1,12 @@
 ##Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**
 
+###[Explorando falhas de Local File Download (LFD)](http://cienciahacker.com.br/explorando-falhas-de-local-file-download-lfd/)  
+O LFD  (Local File Download) é uma vulnerabilidade de ocorre em aplicações Web PHP. Com essa vulnerabilidade, é possível obter (fazer o download) arquivos de configuração, usuários e senhas de banco de dados, entre outros dados. As quais podem comprometer não só o website, mas sim o servidor por completo.  
+
+###[Inibindo a Espionagem Comercial com Detekt](http://cienciahacker.com.br/inibindo-a-espionagem-comercial-com-detekt/)  
+Depois do escândalo do Snowden surgiram muitas organizações voltadas ao combate da espionagem cibernética, um exemplo foi o programa desenvolvido por quatro grupos internacionais de defesa dos direitos civis conhecidos como Anistia Internacional.  A ferramenta que desenvolveram, nomeado como Detekt, tem objetivo de identificar softwares maliciosos usados em espionagem comercial.  
+
 ###[Como “dibrar” a espionagem da Microsoft.](http://cienciahacker.com.br/como-dibrar-a-espionagem-da-microsoft/)  
 Sempre que ligamos o Windows, um teste de conexão é feito automaticamente através do NCSI (Network Connectivity Status Indicator). O computador faz uma requisição de um arquivo de texto no servidor do NSCI em que o Windows pode identificar quando o computador está conectado em uma rede, quando precisa de senha para alguns tipos de rede sem fio e quanto está conectado à internet.  
 
