@@ -1,6 +1,9 @@
 ##Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**
 
+###[Linux – Comandos básicos](http://cienciahacker.com.br/linux-comandos-basicos/)  
+Aprenderemos neste tutorial alguns comandos básicos que serão de grande utilidade para iniciantes em Linux. Os comandos que serão apresentados aqui darão um “empurrão” e auxiliarão o usuário na obtenção de novos conhecimentos.  
+
 ###[Explorando falhas de Local File Download (LFD)](http://cienciahacker.com.br/explorando-falhas-de-local-file-download-lfd/)  
 O LFD  (Local File Download) é uma vulnerabilidade de ocorre em aplicações Web PHP. Com essa vulnerabilidade, é possível obter (fazer o download) arquivos de configuração, usuários e senhas de banco de dados, entre outros dados. As quais podem comprometer não só o website, mas sim o servidor por completo.  
 
