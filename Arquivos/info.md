@@ -7,9 +7,10 @@
 *                   Página > https://www.fb.com/CienciaHacker  
 *                   Youtube > https://www.youtube.com/cienciahacker  
 *                   Vimeo > https://www.vimeo.com/cienciahacker  
+                   
 - - -
                                 [Linux]
-- - -
+
 >* **Diolinux ~>**  http://www.diolinux.com.br/  
 * **BR-Linux ~>** http://br-linux.org/  
 * **Under-Linux ~>** https://under-linux.org/  
