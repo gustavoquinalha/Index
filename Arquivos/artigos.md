@@ -1,6 +1,15 @@
 ##Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**
 
+###[Freenet: o real anonimato na internet (Configuração + Uso)](http://cienciahacker.com.br/freenet-o-real-anonimato-na-internet-configuracao-uso/)  
+Se você acha a rede Tor “segura”, você precisa conhecer a Freenet, uma rede realmente segura, o lugar perfeito para manter conversas, transferências de arquivos, e até grupos de conversa totalmente seguro de hackers e espiões. 
+
+###[Criptografia Assimétrica e Gerenciando Chaves com GnuPG](http://cienciahacker.com.br/criptografia-assimetrica-e-gerenciando-chaves-com-gnupg/)  
+Não é de hoje que prezamos por segurança ao compartilhar informações, desde a Roma antiga já tinham pensado em uma forma de manter suas mensagens seguras caso fossem interceptadas, dando assim origem ao que conhecemos hoje como a técnica de criptografia, Cifra de César.
+
+###[Criando uma simples backdoor no htaccess](http://cienciahacker.com.br/criando-uma-simples-backdoor-no-htaccess/)  
+O .htaccess é um arquivo especial para o Apache. Quando um usuário está navegando por alguma página de um website, para todo diretório que ele tentar acessar, o Apache procura primeiro pelo tal do arquivo .htaccess e se encontrar, verifica se existe alguma restrição ou configuração especial. Com htaccess é possível bloquear acessos a diretórios e acessos de apenas determinados IP’s.
+
 ###[Linux – Comandos básicos](http://cienciahacker.com.br/linux-comandos-basicos/)  
 Aprenderemos neste tutorial alguns comandos básicos que serão de grande utilidade para iniciantes em Linux. Os comandos que serão apresentados aqui darão um “empurrão” e auxiliarão o usuário na obtenção de novos conhecimentos.  
 
