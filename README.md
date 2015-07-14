@@ -1,8 +1,9 @@
-#Ciência Hacker
+# Ciência Hacker
 
-***Neste arquivo vocês encontraram links referentes ao F.A.Q, regras, compilado de programação entre outros.***
+***Neste arquivo vocês encontrarão links referentes ao F.A.Q, regras, compilado de programação, dentre outros materiais interessantes.***
 
-#####Social
+##### Social
+
 * [**Site**](http://cienciahacker.com.br)
 * [**Página Facebook**](https://fb.com/cienciahacker)
 * [**Grupo Facebook**](https://fb.com/groups/cienciahacker)
@@ -10,21 +11,24 @@
 * [**Canal Vimeo**](http://goo.gl/Jb1piO)
 * [**Twitter**](https://twitter.com/cienciahacker)
 
-#####Materiais
-* [**F.A.Q**](http://goo.gl/gUzSa0)
-* [**Regras**](http://goo.gl/7n9CeV)
-* [**Compilado Programação**](http://goo.gl/ANacIx)
-* [**Biblioteca**](http://goo.gl/blY1d4)
-* [**Projetos de Membros**](http://goo.gl/wjlk09)
-* [**Vídeos**](https://github.com/cienciahacker/index/blob/master/Arquivos/videos.md)
+##### Materiais
+
 * [**Apostilas**](https://github.com/cienciahacker/index/blob/master/Arquivos/Apostilas.md)
 * [**Artigos**](https://github.com/cienciahacker/index/blob/master/Arquivos/artigos.md)
+* [**Biblioteca**](http://goo.gl/blY1d4)
+* [**Compilado Programação**](http://goo.gl/ANacIx)
+* [**F.A.Q.**](http://goo.gl/gUzSa0)
+* [**Projetos de Membros**](http://goo.gl/wjlk09)
+* [**Regras**](http://goo.gl/7n9CeV)
+* [**Vídeos**](https://github.com/cienciahacker/index/blob/master/Arquivos/videos.md)
 
-#####Noticias sobre o mundo da tecnologia
-* [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
+##### Notícias sobre o mundo da tecnologia
+
 * [**Filmes Hackers**](https://github.com/cienciahacker/index/blob/master/Arquivos/Filmes.md)
+* [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
 
-#####Licença
+##### Licença
+
     Copyright (C) 2015  Ciência Hacker
 
     This program is free software; you can redistribute it and/or modify
