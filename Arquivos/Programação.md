@@ -222,26 +222,4 @@ OBS: Todo o material aqui disponível, está atualizado e com links ativos, qual
     https://www.haskell.org/documentation <~~ Somente este link dá acesso a vários outros. Bom proveito!
     
 ----------------------------------------------------------------------------------          
-##Bibliotecas 'Hacker'
-----------------------------------------------------------------------------------          
-*        Algumas coleções de conteúdos relacionados com Programação e Redes.  
-*        Também sendo possível encontrar vários materias diversos como Design Matemática, Administração, Inglês, Engenharia, Hardware, Teorias...  
-*        Biblioteca 01  <~~ http://goo.gl/c5r3GC  
-*        Biblioteca 02  <~~ http://goo.gl/7DGxLq  
-*        Biblioteca 03  <~~ http://goo.gl/FtyXIe  
-**Créditos: ment0r.**
 
-
-----------------------------------------------------------------------------------          
-##Minhateca Collection
-----------------------------------------------------------------------------------          
-*        Usuários que contém uma grande coleção organizada de conteúdos.  
-*        Livros, apostilas, vídeos aulas, distros, ferramentas e tudo mais.  
-*        Biblioteca TI  <~~ http://minhateca.com.br/bibliotecadeti  
-*        Gunner Brasil  <~~ http://minhateca.com.br/GunnerBrasil  
-*        Rudi Eriel  <~~ http://minhateca.com.br/Rudi.Eriel.Ramos.Duarte  
-*        Dione Neris  <~~ http://minhateca.com.br/dioneneris  
-*        Caca do Código  <~~ http://minhateca.com.br/CacaDoCodigo  
-*        Pbrincker  <~~ http://minhateca.com.br/pbrincker  
-*        Augusto  <~~ http://minhateca.com.br/faugustof  
-**Créditos: Ao pessoal que juntou todo o conteúdo em um só lugar ^^ e ao site http://hackr.io**
