@@ -1,6 +1,15 @@
 ##Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**
 
+###[LILO – Adicionar background](http://cienciahacker.com.br/lilo-adicionar-background/)  
+O Linux Loader, ou simplesmente LILO, é o gerenciador de boot padrão de algumas distros, entre elas, o Slackware. Por fazer parte do mundo Linux, deve obedecer à seguinte regra: “Keep it simple, stupid“. Vamos aprender neste tutorial a adicionar uma imagem de fundo ao LILO.
+
+###[Beef – Invadindo navegadores sem ser notado](http://cienciahacker.com.br/beef-invadindo-navegadores-sem-ser-notado/)  
+Beef é uma ferramenta de código aberto usada na invasão de browsers, a qual realiza testes de penetração em navegadores de forma silenciosa e sem que a vítima baixe nada. Ela é bem comum em sistemas desenvolvidos para pentest como o Kali Linux, Parrot, Backbox entre outros. Isso não significa que todas as pessoas que usam esses sistemas saibam de sua existência e como ela funciona.
+
+###[Ping Sweep (ICMP Sweep) [Fping | Nmap]](http://cienciahacker.com.br/ping-sweep-fping-nmap/)  
+Para entender o ping sweep, é preciso, antes de tudo, entender alguns conceitos para que, ao decorrer da explicação, você não se depare com algum termo desconhecido. Tais conceitos a serem entendidos são os de ping e ICMP. Depois disso, você estará mais familiarizado com o assunto e será mais fácil compreender.
+
 ###[Freenet: o real anonimato na internet (Configuração + Uso)](http://cienciahacker.com.br/freenet-o-real-anonimato-na-internet-configuracao-uso/)  
 Se você acha a rede Tor “segura”, você precisa conhecer a Freenet, uma rede realmente segura, o lugar perfeito para manter conversas, transferências de arquivos, e até grupos de conversa totalmente seguro de hackers e espiões. 
 
