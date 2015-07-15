@@ -18,7 +18,7 @@
 * [**Biblioteca Hacker**](https://github.com/cienciahacker/index/blob/master/Arquivos/Biblioteca.md)
 * [**Compilado Programação**](https://github.com/cienciahacker/index/blob/master/Arquivos/Programação.md)
 * [**F.A.Q.**](http://goo.gl/gUzSa0)
-* [**Projetos de Membros**](http://goo.gl/wjlk09)
+* [**Projetos de Membros**](https://github.com/cienciahacker/index/blob/master/Projetos/projetos.md)
 * [**Regras**](http://goo.gl/7n9CeV)
 * [**Vídeos**](https://github.com/cienciahacker/index/blob/master/Arquivos/Videos.md)
 
