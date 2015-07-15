@@ -14,18 +14,18 @@
 ##### Materiais
 
 * [**Apostilas**](https://github.com/cienciahacker/index/blob/master/Arquivos/Apostilas.md)
-* [**Artigos**](https://github.com/cienciahacker/index/blob/master/Arquivos/artigos.md)
+* [**Artigos**](https://github.com/cienciahacker/index/blob/master/Arquivos/Artigos.md)
 * [**Biblioteca**](http://goo.gl/blY1d4)
-* [**Compilado Programação**](http://goo.gl/ANacIx)
+* [**Compilado Programação**](https://github.com/cienciahacker/index/blob/master/Arquivos/Programação.md)
 * [**F.A.Q.**](http://goo.gl/gUzSa0)
 * [**Projetos de Membros**](http://goo.gl/wjlk09)
 * [**Regras**](http://goo.gl/7n9CeV)
-* [**Vídeos**](https://github.com/cienciahacker/index/blob/master/Arquivos/videos.md)
+* [**Vídeos**](https://github.com/cienciahacker/index/blob/master/Arquivos/Videos.md)
 
 ##### Notícias sobre o mundo da tecnologia
 
 * [**Filmes Hackers**](https://github.com/cienciahacker/index/blob/master/Arquivos/Filmes.md)
-* [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/info.md)
+* [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/Informações.md)
 
 ##### Licença
 
