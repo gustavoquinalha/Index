@@ -38,14 +38,14 @@
 ###### 1.2 - Na hora de formular perguntas tente ser o mais objetivo, breve e detalhista possível. As pessoas não gostam de ler textos imensos e muito menos não entender o que o autor quis dizer ao final deles.
 ------------------------------------------------------------------------------
 ## 2. Perguntas e respostas
-##### 2.1 - Sou iniciante neste mundo, por onde começar?
+##### 2.01 - Sou iniciante neste mundo, por onde começar?
  
 R: Tudo depende de seu intuito uma vez que a palavra "hackear" é muito
 genérica. Hackear pode ir desde invasão à sites até modificação de kernels
 para funcionamento em arquiteturas diferentes das quais foram projetadas. Ache um objetivo e mantenha o foco.
  
 --------------------------------------------------------------------------------
-##### 2.2 - Como invadir/derrubar um site?
+##### 2.02 - Como invadir/derrubar um site?
  
 R: Não existe mistério. Para que você possa assumir o controle de um servidor ou serviço é necessário que o mesmo apresente algumas falha ou vulnerabilidade.  
  
@@ -60,12 +60,12 @@ na sétima camada. Utilize a ferramenta Slowloris.pl (google it)
 *[VIDEO AULA](http://youtu.be/4oAmUnnSwJs?list=UUZPg5KlsbPsbxX3YQ_y_kRQ)*
 
 ------------------------------------------------------------------------------
-##### 2.3 - Como invadir redes WI-FI  
+##### 2.03 - Como invadir redes WI-FI  
  
 As ferramentas mais famosas para estas tarefas são: Reaver ou Bully e Aircrack-ng. Dê uma pesquisada sobre elas.
  
 ------------------------------------------------------------------------------
-##### 2.4 - Como quebrar senhas (hashes)
+##### 2.04 - Como quebrar senhas (hashes)
  
 R: Quebra de senhas é uma arte vai muito além de programas, porém sem programas o processo seria infinitamente mais demorado. Vocês podem utilizar o google, sites especializados, e ferramentas com foco no cracking(quebra) de senhas.  
  
@@ -74,7 +74,7 @@ Ferramentas: John The Ripper, Hashcat, hash-identifier, findmyhash...
 *[VIDEO AULA](http://youtu.be/N7kR0ttcrxY?list=UUZPg5KlsbPsbxX3YQ_u_kRQ)*
 
 ------------------------------------------------------------------------------
-##### 2.5 - Posso hackear utilizando o Android?  
+##### 2.05 - Posso hackear utilizando o Android?  
  
 Os Smartphones, por mais avançados que sejam, ainda são muito limitados e
 por isso mesmo que existam programas para estes fins (hackear wifi por
@@ -84,7 +84,7 @@ um chipset wireless (placa de rede) que dê suporte a esta tarefa.
 Mas, hoje em dia, já é possível emular uma distribuição GNU/Linx por cima do Android. Pesquise sobre isso e seja feliz!
  
 ------------------------------------------------------------------------------
-##### 2.6 - Como hackear Facebook?  
+##### 2.06 - Como hackear Facebook?  
  
 R: NÃO ensinamos a hackear facebook e não aprovamos perguntas como esta.
 o mundo hacker é muito maior que isso. Porém certo dia acordamos felizes e de bem com a vida, foi quando nosso canal enviou um vídeo sobre este assunto.
@@ -93,12 +93,12 @@ Mas que fique claro que esta foi um EXCESSÃO.
 *[VIDEO AULA](https://youtu.be/37Sgx5r93kM)*
 
 ------------------------------------------------------------------------------
-##### 2.7 - Me hackearam no (face, gmail, lol, caralho a 4), me ajudem!  
+##### 2.07 - Me hackearam no (face, gmail, lol, caralho a 4), me ajudem!  
  
 R: Busque ajuda com o provedor do serviço.
  
 ------------------------------------------------------------------------------
-##### 2.8 - Como camuflar o IP  
+##### 2.08 - Como camuflar o IP  
  
 R: Procure a utilização de uma VPN ou proxy free. Para a utilização de uma
 VPN, recomendamos o Cyberghost ou SecurityKiss pelo fato de não guardarem
@@ -115,7 +115,7 @@ Uma boa pedida é usar o `proxychains`. Temos um artigo no site sobre ele: [arti
 *[VIDEO AULA](http://youtu.be/v39VYpjJDK8?list=UUZPg5KlsbPsbxX3YQ_y_kRQ)*
 
 ------------------------------------------------------------------------------
-##### 2.9 - Como camuflar o endereço MAC  
+##### 2.09 - Como camuflar o endereço MAC  
  
 R: No linux basta utilizar o macchanger. Windows utilizem o Tmac.
 
