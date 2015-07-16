@@ -9,7 +9,7 @@ Vídeo: https://www.youtube.com/watch?v=lpPauu2uY4E
 
 *Um rápido e poderoso Dashboad Finder (admin finder) feito em Python. Utiliza diversas técnicas para atingir o objetivo em questão.*  
 
-Repositório: https://github.com/fnk0c/cangibrina
+Repositório: https://github.com/fnk0c/cangibrina  
 Vídeo: https://vimeo.com/127669085
 
 ## ByPass CloudFlare
