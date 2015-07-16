@@ -80,6 +80,8 @@ Os Smartphones, por mais avançados que sejam, ainda são muito limitados e
 por isso mesmo que existam programas para estes fins (hackear wifi por
 exemplo), ele não funcionará corretamente uma vez que seu celular não possui
 um chipset wireless (placa de rede) que dê suporte a esta tarefa.
+
+Mas, hoje em dia, já é possível emular uma distribuição GNU/Linx por cima do Android. Pesquise sobre isso e seja feliz!
  
 ------------------------------------------------------------------------------
 ##### 2.6 - Como hackear Facebook?  
