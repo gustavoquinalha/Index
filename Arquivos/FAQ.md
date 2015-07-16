@@ -155,6 +155,8 @@ Certamente seu propósito é hacking e, falando superficialmente, qualquer distr
 Falando de Kali e Parrot, para mim, eles não são muito diferentes, a diferença é questão de facilidade ou até vaidade.  
  
 Se Platão conhecesse linux, ele diria que a melhor distro está somente no campo das ideias (a distro ideal) e as que podemos usar são somente cópias imperfeitas e subjetivas da perfeita, logo não existe a melhor distro.  
+
+Se quiser ver uma lista de distribuições GNU/Linux e algumas informações sobre elas, fique a vontade para visitar o [Distro Watch](http://distrowatch.com/index.php?language=PT).
  
 
 ## 3. Links Mais pedidos
