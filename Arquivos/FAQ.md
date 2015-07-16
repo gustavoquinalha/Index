@@ -106,6 +106,8 @@ informações como sites acessados, tempo de conexão, etc. Lembre-se de ler o
 contrato de prestação de serviço antes de utilizar.  
 Eu em particular acho que o melhor método de anonimato ainda é a rede TOR.  
  
+Uma boa pedida é usar o `proxychains`. Temos um artigo no site sobre ele: [artigo](http://cienciahacker.com.br/instalando-e-usando-o-proxychains/).
+
 ###### Lista de Proxy Free:  
 * http://www.proxy4free.com/list/webproxy1.html
 * proxylist.hidemyass.com/
