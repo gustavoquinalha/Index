@@ -1,6 +1,4 @@
-## Material upado por membros do grupo
-=======
-## Material Upado por membros do [grupo](https://fb.com/groups/cienciahacker)
+## Material upado por membros do [grupo](https://fb.com/groups/cienciahacker)
 
 [300 Ideias para Programar](https://www.facebook.com/groups/cienciahacker/1046062562075296/)  
 [4Linux Pen Test Técnicas de Intrusão em Redes Corporativas](https://www.facebook.com/groups/cienciahacker/1034992193182333/)  
