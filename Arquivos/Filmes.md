@@ -1,6 +1,8 @@
 #Filmes
 **OBS: Os links 'pt-BR' são referentes as suas páginas no site AdoroCinema.   
- Já os links 'en-EN' são referentes as suas páginas no site iMDb.**
+ Já os links 'en-EN' são referentes as suas páginas no site iMDb.**  
+ 
+ Última atualização feita por **Methz:** 19/07/2015 - 19:14.  
  
 ###Blackhat [2015]
 ####[Trailer](https://www.youtube.com/watch?v=Jsj8ylQLlFg)  
