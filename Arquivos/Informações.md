@@ -1,14 +1,7 @@
-##Alguns sites para acompanhar notícias, dicas e tutoriais.
+##Alguns sites para acompanhar notícias, dicas e tutoriais.  
+
+Última atualização feita por **Methz** - 19/07/2015 - 19:08
 -- -
-                                C.I.Ê.N.C.I.A   H.A.C.K.E.R
-- - -
-*                   Site > https://www.cienciahacker.com.br  
-*                   Grupo FB > https://goo.gl/AvDf7U  
-*                   Página > https://www.fb.com/CienciaHacker  
-*                   Youtube > https://www.youtube.com/cienciahacker  
-*                   Vimeo > https://www.vimeo.com/cienciahacker  
-                   
-- - -
                                 [Linux]
 
 >* **Diolinux ~>**  http://www.diolinux.com.br/  
@@ -52,6 +45,3 @@
 - - -
 
 ###OBS: Essa lista é apenas uma indicação de conteúdo, em nenhum momento afirmamos terem os melhores conteúdos, muito menos que todos contém informações verídicas.   
-
-.  
-####Última atualização feita por **Methz** - 08/07/2015 - 01:10
