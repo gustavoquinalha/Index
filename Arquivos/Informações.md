@@ -1,5 +1,7 @@
 ##Alguns sites para acompanhar notícias, dicas e tutoriais.  
 
+#####OBS: Essa lista é apenas uma indicação de conteúdo, em nenhum momento afirmamos terem os melhores conteúdos, muito menos que todos contém informações verídicas.  
+
 Última atualização feita por **Methz** - 19/07/2015 - 19:08
 -- -
                                 [Linux]
@@ -43,5 +45,3 @@
 * **The Next Web ~>** http://thenextweb.com/  
 
 - - -
-
-###OBS: Essa lista é apenas uma indicação de conteúdo, em nenhum momento afirmamos terem os melhores conteúdos, muito menos que todos contém informações verídicas.   
