@@ -1,5 +1,7 @@
 ### Links para você buscar material de estudo em diversas áreas.
-#####OBS: Os materiais estão mesclados entre pt-BR e en-EN.  
+#####OBS: Os materiais estão mesclados entre pt-BR e en-EN.    
+
+Última atualização feita por **Methz:** 19/07/2015 - 19:14.    
 
 #### Links com diversos conteúdos 
 - - -
