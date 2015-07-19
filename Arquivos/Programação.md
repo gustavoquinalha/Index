@@ -2,7 +2,7 @@
 
 #####OBS: O link referente ao nome da linguagem é a documentação oficial. 
 
-Última atualização feita por **Methz**: 19/07/2015 - 19:00
+Última atualização feita por **Methz**: 19/07/2015 - 19:00  
 Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 - - -
 
