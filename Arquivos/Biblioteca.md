@@ -1,4 +1,4 @@
-### Alguns links e repositórios importantes para você começar seu estudo na área Hacker/Pentester/Forense.
+### Links para você buscar material de estudo em diversas áreas.
 #####OBS: Os materiais estão mesclados entre pt-BR e en-EN.  
 
 #### Links com diversos conteúdos 
