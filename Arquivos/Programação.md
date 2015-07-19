@@ -1,225 +1,193 @@
------------------------------------------------------------------------------------------------
-Aqui contém todo o material que você precisa para iniciar seus estudos.  
-Encontrará sites para aprender linguagens de programação essenciais para ingressar na área 'Hacker'  
+###Links para te auxíliar na busca de conhecimento sobre Programação.
 
-Também encontrará várias bibliotecas com diversos conteúdos para download.  
+#####OBS: O link referente ao nome da linguagem é a documentação oficial. 
+
+#####Última atualização feita por **Methz**: 19/07/2015 - 13:00
+#####Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
+- - -
+
+#Indíce
+
+* [Linguagens Web](#linguagens-web)
+* [Linguagens Desk](#linguagens-desk)
+* [Outras](#outras)
+* [Frameworks](#frameworks)
+
+---------------------------------------------------------------------------------- 
+#Linguagens Web
+---------------------------------------------------------------------------------- 
+##[- HTML -](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
+>#####~ Inglês ~  
+* [W3schools](http://www.w3schools.com/html/default.asp)  
  
-OBS: Todo o material aqui disponível, está atualizado e com links ativos, qualquer problema ou observação, entre em contato conosco em algumas das nossas redes sociais abaixo  
+>#####~ Português ~    
+* [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-de-html5/)
+* [Codecademy](http://www.codecademy.com/pt-BR/tracks/web)
  
-Última atualização: 04/05/2015 - 00:40
- 
-##C.I.Ê.N.C.I.A     H.A.C.K.E.R
-* **Site** - www.cienciahacker.com.br
-* **Grupo FB** - http://goo.gl/AvDf7U
-* **Página** - https://www.fb.com/CienciaHacker
-* **Youtube** - www.youtube.com/cienciahacker
-* **Vimeo** - www.vimeo.com/cienciahacker
+---------------------------------------------------------------------------------- 
+##[- JavaScript -](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Conteúdo analisado e organizado por: Methz**
+>#####~ Inglês ~   
+* [W3schools](http://www.w3schools.com/js/default.asp)
+* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+* [JS Enlightenment](http://www.javascriptenlightenment.com/)
+* [Learn Javascript](http://gitbookio.gitbooks.io/javascript/content/en/index.html)
+* [Build a Framework JS](http://dailyjs.com/files/build-a-javascript-framework.pdf)
+* [Human JS](http://read.humanjavascript.com/)
+* [Concise JS](http://slides.com/concise/js#/)
+* [Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript Tutorial](http://javascript.info/)
+* [Kuripa](http://www.kirupa.com/html5/learn_javascript.htm)
+* [Eloquente JS](http://eloquentjavascript.net/)
+* [Speaking JS](http://speakingjs.com/es5/index.html)           
 
-**Usualmente atualizado por: Fnk0c | MaximozSec | Methz**
-
-----------------------------------------------------------------------------------  
-##Linguagens de Programação Web
-######Sabemos que HTML é exceção...
-----------------------------------------------------------------------------------           
-            
-    [HTML - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5]
-        
-        ~ Inglês ~  
-        http://www.w3schools.com/html/default.asp  <~~ A melhor forma de aprender, cheio de exemplos rodando online.
-        
-        ~ Português ~  
-        http://www.cursoemvideo.com/course/curso-de-html5/  <~~ Desenvolvendo site completo em vídeo. COMEÇE POR AQUI!!
-        http://www.codecademy.com/pt-BR/tracks/web  <~~ Bom e velho conhecido Codecademy.
-        
-----------------------------------------------------------------------------------   
-
-    [JavaScript - https://developer.mozilla.org/en-US/docs/Web/JavaScript]
-  
-        ~ Inglês ~  
-        http://www.w3schools.com/js/default.asp  <~~ Boas práticas e muitos exemplos.
-        http://survivejs.com/ <~~ Guia do desenvolvedor Web (Introdução)
-        http://chimera.labs.oreilly.com/books/1234000000262/index.html <~~ Programando Aplicações JavaScript
-        http://www.javascriptenlightenment.com/ <~~ JavaScript - Esclarecimento
-        http://gitbookio.gitbooks.io/javascript/content/en/index.html <~~ Introdução a JavaScript
-        http://dailyjs.com/files/build-a-javascript-framework.pdf <~~ Construindo um Framework JavaScript
-        http://read.humanjavascript.com/ <~~ e-book 'Human Javascript'
-        http://slides.com/concise/js#/ <~~ Slides - Resumo Javascript
-        http://addyosmani.com/resources/essentialjsdesignpatterns/book/ <~~ Aprendendo padrões de design em Javascript
-        http://javascript.info/ <~~ Javascript - O Tutorial
-        http://www.kirupa.com/html5/learn_javascript.htm <~~ JavaScript | Kuripa
-        http://speakingjs.com/es5/index.html <~~ Livro 'Falando em JavaScript'
-        http://eloquentjavascript.net/ <~~ Livro 'JavaScript Eloquente - Uma moderna introdução a JavaScript'
-           
-        ~ Português ~  
-        http://www.codecademy.com/pt-BR/tracks/javascript  <~~ q-q.
-        https://www.youtube.com/playlist?list=PLcHPNq67CaVlq6_hp77DXwS9xQgZeaKf-  <~~ Universidade XTI.
-        
-----------------------------------------------------------------------------------         
-        
-    [PHP - https://php.net/manual/pt_BR/index.php]
+>#####~ Português ~  
+* [Codecademy](http://www.codecademy.com/pt-BR/tracks/javascript)
+* [Universidade XTI](https://www.youtube.com/playlist?list=PLcHPNq67CaVlq6_hp77DXwS9xQgZeaKf-)
     
-        ~ Inglês ~
-        http://www.nusphere.com/php/php_tutorial.htm <~~ NuSphere PHP Tutorial
-        http://www.php5-tutorial.com/ <~~ O Tutorial completo de PHP
-        http://tut.php-quake.net/en/index.html <~~ Tutorial PHP + MySQL
-        
-        ~ Português ~  
-        http://www.codecademy.com/pt-BR/tracks/php  <~~ É um ótimo ambiente de aprendizado, claro e dinâmico. 
-        http://www.cursoemvideo.com/course/curso-php-iniciante/  <~~ Vídeo aulas com uma didática incrível.
-        http://br.phptherightway.com/  <~~ Esse é pro pessoal (bem) mais avançado.
-        
- ---------------------------------------------------------------------------------
-       
-    [Ruby on Rails - http://guides.rubyonrails.org/]
+---------------------------------------------------------------------------------- 
+##[- PHP -](https://php.net/manual/pt_BR/index.php)
     
-        ~ Inglês ~
-        http://railscasts.com/ <~~ Ruby on Rails screencasts
-        http://www.theodinproject.com/ruby-on-rails <~~ Introdução a Rails - The Odin Project
-        http://www.thinkful.com/learn/ruby-on-rails-tutorial/ <~~ Aprenda como você modifica um Clone Craigslist em Ruby on Rails
-        http://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application <~~ Construa uma simples aplicação em Ruby on Rails
-        http://www.peoplecancode.com/en/paths#ror_path <~~ Ruby on Rails - People Can Code
-        https://www.railstutorial.org/book <~~ Aprenda desenvolvimento Web com Ruby on Rails
+>#####~ Inglês ~
+* [PHP5 Tutorial](http://www.php5-tutorial.com/)
+* [MySQL + PHP Tutorial](http://tut.php-quake.net/en/index.html)
+* [The Right Way](http://www.phptherightway.com/)
         
-        ~ Português ~
-        http://www.rubyonrails.com.br/ <~~ Site Ruby on Rails PT-BR
-        http://www.caelum.com.br/apostila-ruby-on-rails/ <~~  Desenvolvimento Ágil para Web com Ruby on Rails
-        http://www.maujor.com/railsgirlsguide/ <~~ Ruby on Rails - Seus primeiros passos
-        http://www.codecademy.com/pt-BR/learn/make-a-rails-app <~~ Codecademy contra-ataca 'Crie uma aplicação Rails'
-        
+>#####~ Português ~  
+* [Codecademy](http://www.codecademy.com/pt-BR/tracks/php)
+* [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-php-iniciante/)  
+* [PHP Do Jeito Certo](http://br.phptherightway.com/)
+ 
 ----------------------------------------------------------------------------------          
-##Linguagens de Programação Desktop
+#Linguagens Desk
 ----------------------------------------------------------------------------------     
-
-    [Python - https://www.python.org/doc/versions/]
+##[- Python -](https://www.python.org/doc/versions/)
     
-    ~ Inglês ~  
-    http://inventwithpython.com/hacking/chapters/  <~~ Python para hackers. MUITO LINDO.
-    https://mega.co.nz/#!E0RmhQDC!5QD0TH1infATtN5nhfenYz7nh7_K7cz9hDaD6W7rRMA  <~~ Para computação Forense.
-    http://learnxinyminutes.com/docs/python/  <~~ Um guia de referência.
-    http://learnpythonthehardway.org/book/  <~~ Livro bem explicativo, tem versão em vídeo, mas é paga.
-    http://opentechschool.github.io/python-beginners/en/index.html  <~~ Feito pela comunidade.
-    http://learnpythonbreakpython.com/ <~~ Um guia de programação para iniciantes
-    http://www.swaroopch.com/notes/python/ <~~ Um pouco de Python
-    http://openbookproject.net/thinkcs/python/english3e/ <~~ Como pensar como um cientista da computação - Aprendendo com Python 3
-    https://developers.google.com/edu/python/ <~~ Aulas de Python da Google
-    http://chimera.labs.oreilly.com/books/1234000000754/index.html <~~ Desenvolvimento com Python
-    http://anandology.com/python-practice-book/ <~~ Livro 'Python na Prática'
-    http://www.diveintopython.net/toc/index.html <~~ Livro 'Drive Into Python'
-    https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/index.html <~~ Tutoriais fundamentais de Python
+>#####~ Inglês ~  
+* [Learn X in Y Minutes](http://learnxinyminutes.com/docs/python/)
+* [The Hard Way](http://learnpythonthehardway.org/book/)
+* [Python to Beginners](http://opentechschool.github.io/python-beginners/en/index.html)
+* [Learn Break Python](http://learnpythonbreakpython.com/)
+* [A Byte of Python](http://www.swaroopch.com/notes/python/)
+* [How to Think like a Scientist](http://openbookproject.net/thinkcs/python/english3e/)
+* [Google Developer](https://developers.google.com/edu/python/)
+* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [Practice Python](http://anandology.com/python-practice-book/)
+* [Dive Into Python](http://www.diveintopython.net/toc/index.html)
+* [Fundamental Python](https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/index.html)
+* [Tutorial Point](http://www.tutorialspoint.com/python/index.htm)
     
-    ~ Português ~  
-    http://www.codecademy.com/pt-BR/tracks/python <~~ Ela de novo.
-    https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc  <~~ Considerado o melhor conteúdo BR.
-    http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf  <~~ Livro legal, cores e exemplos.
+>#####~ Português ~  
+* [Codecademy](http://www.codecademy.com/pt-BR/tracks/python)
+* [Python para Zumbi](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+* [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
         
 ----------------------------------------------------------------------------------
+##[- Ruby -](http://ruby-doc.org/)
     
-    [Ruby - http://ruby-doc.org/]  
+>#####~ Inglês ~  
+* [Ruby to Hackers](http://ruby-hacking-guide.github.io/)
+* [YouTube](https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp)
+* [The Hard Way](http://learnrubythehardway.org/book/)
+* [Ruby for Kids](http://mrdougwright.gitbooks.io/rubykin/content/)
+* [Poignant Guide](http://mislav.uniqpath.com/poignant-guide/book/)
+* [Tutorial Point](http://www.tutorialspoint.com/ruby/index.htm)
     
-    ~ Inglês ~  
-    http://ruby-hacking-guide.github.io/  <~~ Inclui uma didática voltado para hackers.
-    https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp  <~~ Vídeo aulas ainda em desenvolvimento.
-    http://learnrubythehardway.org/book/  <~~ Mais uma edição do The Hard Way
-    http://mrdougwright.gitbooks.io/rubykin/content/ <~~ RubyKid - Ensinando Leigos a programar
-    http://mislav.uniqpath.com/poignant-guide/book/ <~~ Guia Mordaz de Ruby
-    http://www.humblelittlerubybook.com/book/html/index.html <~~ Pequeno e Humilde livro de Ruby
-    
-    
-    ~ Português ~  
-    http://www.codecademy.com/pt-BR/tracks/ruby  <~~ Sem comentários.
-    http://why.carlosbrando.com/  <~~ Divertido a leitura haha, muito famoso.
-    http://aprendaaprogramar.rubyonrails.com.br/  <~~ Aqui é um bom começo.
+>#####~ Português ~  
+* [Codecademy](http://www.codecademy.com/pt-BR/tracks/ruby)
+* [Why Ruby](http://why.carlosbrando.com/)
+* [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br/)
     
 ----------------------------------------------------------------------------------
-
-    [C - http://en.cppreference.com/w/c]
+##[- C -](http://en.cppreference.com/w/c)
     
-    ~ Inglês ~  
-    http://c.learncodethehardway.org/book/  <~~ Ambiente bem amigável.
-    http://pt.slideshare.net/olvemaudal/deep-c  <~~ 445 Slides, leitura um pouco pesada.
-    http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system  <~~ C no UNIX.
+>#####~ Inglês ~  
+* [The Hard Way](http://c.learncodethehardway.org/book/)
+* [Deep C](http://pt.slideshare.net/olvemaudal/deep-c)
+* [C on The Unix](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
+* [Tutorial Point](http://www.tutorialspoint.com/cprogramming/c_variables.htm)
     
-    ~ Português ~  
-    https://www.youtube.com/user/italogross/playlists  <~~ 98 Video Aula + Assunstos específicos.
-    https://www.youtube.com/user/excriptvideo/playlists <~~ 40 Vídeo Aula e em desenvolvimento no momento.
-    https://fiorix.wordpress.com/?attachment_id=493  <~~ Livro de 2005 porém tem um conteúdo diferenciado.
+>#####~ Português ~  
+* [De Aluno para Aluno](https://www.youtube.com/user/italogross/playlists)
+* [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
+* [Livro](https://fiorix.wordpress.com/?attachment_id=493)
     
 ----------------------------------------------------------------------------------   
-
-----------------------------------------------------------------------------------
-
-    [C++ - http://en.cppreference.com/w/cpp]  
+##[- C++ -](http://en.cppreference.com/w/cpp)
     
-    ~ Inglês ~  
-    http://www.learncpp.com/  <~~ Muito bem explicado e totalmente atualizado.
-    http://www.cplusplus.com/doc/tutorial/  <~~ Bem prático e atualizado.
-    http://pt.slideshare.net/jonbonachon/c-for-hackers <~~ Muitos exemplos e tem umas informações bacanas.
+>#####~ Inglês ~  
+* [Learn CPP](http://www.learncpp.com/)
+* [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/)
+* [C++ to Hackers](http://pt.slideshare.net/jonbonachon/c-for-hackers)
+* [Tutorial Point](http://www.tutorialspoint.com/cplusplus/)
     
-    ~ Português ~  
-    http://orion.lcg.ufrj.br/C++/curso/#  <~~ Material público da UFRJ. É razoável..
-    https://www.youtube.com/user/excriptvideo/playlists <~~ 24 Vídeo Aula e em desenvolvimento no momento.
+>#####~ Português ~  
+* [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#)
+* [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
     
 ----------------------------------------------------------------------------------  
-
-    [Perl - http://doc.perl6.org/]  
+##[- Perl -](http://doc.perl6.org/)
     
-    ~ Inglês ~  
-    http://www.perl.org/books/library.html  <~~ Biblioteca Perl.
-    http://www.greenteapress.com/perl/  <~~ The Hard Way de volta.
-    http://modernperlbooks.com/books/modern_perl_2014/ <~~ Perl Moderno 2014
-    http://perl-tutorial.org/ <~~ Perl Tutoriais
-    http://qntm.org/files/perl/perl.html <~~ Aprenda Perl em 2h 30min
-    www.tutorialspoint.com/perl/ <~~ Conteúdo abrangente sobre Perl
+>#####~ Inglês ~  
+* [Perl5 in 21 days](http://wwwacs.gantep.edu.tr/docs/perl-ebook/)
+* [Beginner Perl](https://www.perl.org/books/beginning-perl/)
+* [The Hard Way](http://www.greenteapress.com/perl/)
+* [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/)
+* [Perl Tutorial Hub](http://perl-tutorial.org/)
+* [Perl in 2 hour](http://qntm.org/files/perl/perl.html)
+* [Toturial Point](www.tutorialspoint.com/perl/)
     
-    ~ Português ~  
-    Galera, material em pt-br pra Perl é complicado. Muitos desatualizados e como ninguém se interessa muito, está em falta.
-    Fico devendo no momento, mas depois dou umas vasculhada na rede pra vocês.
+>#####~ Português ~  
+* [Cooler Perl Book](https://bugsec.googlecode.com/files/book_perl_cooler.pdf)
+ 
 
-----------------------------------------------------------------------------------           
+---------------------------------------------------------------------------------- 
+#Outras
+----------------------------------------------------------------------------------
+##[- Shell Script -](http://www.tldp.org/LDP/abs/html/)
 
-    [Shell Script - No Documentation Found]
+>#####~ Inglês ~
+* [A Beginner Handbook](http://www.freeos.com/guides/lsst/)
+* [Bash Programming - How To](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc2)
+* [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/index.html)
     
-    ~ Português ~  
-    http://www.devin.com.br/shell_script/ <~~ Tutorial Shell Script
-    http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778 <~~ Introdução ao Shell Script
+>#####~ Português ~  
+* [Tutorial Shell Script](http://www.devin.com.br/shell_script/)
+* [Devmedia](http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)
+* [Introdução ao Shell - Aurélio](http://aurelio.net/shell/apostila-introducao-shell.pdf)
 
 ----------------------------------------------------------------------------------          
-##BÔNUS
-----------------------------------------------------------------------------------   
-    [Tutorials Point - www.tutorialspoint.com]
-    
-    Acervo enorme de conteúdo de diversas linguagens.
-    Imagine uma linguagem. Imaginou? Então, muito provavelmente tem o tutorial dela do Tutorials Point.
-    Dê uma olhada lá.
-----------------------------------------------------------------------------------
+##[- Lisp -](http://lispdoc.com/index)
 
-###Linguagens de Programação Funcional
-
-    [Lisp - http://lispdoc.com/index]  
-    
-    ~ Português ~  
-    Também sofre com falta de materiais em pt-br, pelo menos bons e atualizados. Façam suas próprias pesquisas.
-    
-    ~ Inglês ~  
-    http://www.franz.com/resources/educational_resources/cooper.book.pdf  <~~ Livro bem completo, mas é muito teórico.
-    http://learnlispthehardway.org/book/  <~~ Conteúdo atualizado e em desenvolvimento. 
-    https://leanpub.com/lisphackers/read  <~~ Esse é pra quem já sabe Lisp e quer aprimorar no mundo 'hacker'.
+>#####~ Inglês ~  
+* [Cooper Book](http://www.franz.com/resources/educational_resources/cooper.book.pdf)
+* [The Hard Way](http://learnlispthehardway.org/book/)
+* [Lisp Hackers](https://leanpub.com/lisphackers/read)
     
 ----------------------------------------------------------------------------------
+##[- Haskell -](https://www.haskell.org/)
 
-    [Haskell - https://www.haskell.org/]
+>#####~ Inglês ~
+* [Documentação - Vários Links](https://www.haskell.org/documentation)
     
-    ~ Português ~
-    http://haskell.tailorfontela.com.br/chapters <~~ Livro 'Aprender Haskell será um grande bem para você!'
-    https://pt.wikibooks.org/wiki/Haskell <~~ Wiki em português
-    http://learnxinyminutes.com/docs/pt-br/haskell-pt/
-    http://www.portugal-a-programar.pt/forum/88-haskell/
-    http://wiki.portugal-a-programar.pt/tag:haskell?do=showtag&tag=haskell
+>#####~ Português ~
+* [Aprenda Haskell](http://haskell.tailorfontela.com.br/chapters)
+* [Lean X in Y Minutes](http://learnxinyminutes.com/docs/pt-br/haskell-pt/)
+
+----------------------------------------------------------------------------------    
+#Frameworks
+----------------------------------------------------------------------------------
+##[- Ruby on Rails -](http://guides.rubyonrails.org/)
     
-    ~ Inglês ~
-    https://www.haskell.org/documentation <~~ Somente este link dá acesso a vários outros. Bom proveito!
-    
-----------------------------------------------------------------------------------          
+>#####~ Inglês ~
+* [The Odin Project](http://www.theodinproject.com/ruby-on-rails)
+* [Thinkful](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
+* [Build a Application](http://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application)
+* [Rails Tutorial](https://www.railstutorial.org/book)
+        
+>#####~ Português ~
+* [Caelum](http://www.caelum.com.br/apostila-ruby-on-rails/)
+* [Primeiros Passos](http://www.maujor.com/railsgirlsguide/)
+* [Codecademy](https://www.codecademy.com/pt-BR/courses/rails-auth)
 
