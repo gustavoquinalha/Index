@@ -1,5 +1,11 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
-**Ordem: Mais novo >> Mais velho**
+**Ordem: Mais novo >> Mais velho**  
+
+###[Descompactando arquivos ZIP, RAR, TAR.GZ, BZ2, TAR.BZ2, TAR.XZ, TGZ e GZ no Linux](http://cienciahacker.com.br/descompactando-arquivos-zip-rar-tar-gz-bz2-tar-bz2-tar-xz-tgz-e-gz-no-linux/)  
+Abra o terminal no Linux, e siga os seguintes comandos para realizar a descompactação.  
+
+###[XFCE – Adicionar atalhos no menu](http://cienciahacker.com.br/xfce-adicionar-atalhos-no-menu/#more-1407)
+O XFCE é uma interface gráfica preferida por muitos usuários devido à leveza. Porém, essa interface pode não ser tão prática em algumas distros em que o usuário precisa de um pequeno conhecimento para operá-la. Neste tutorial aprenderemos a criar atalhos para aplicações no menu do XFCE.  
 
 ###[LILO – Adicionar background](http://cienciahacker.com.br/lilo-adicionar-background/)  
 O Linux Loader, ou simplesmente LILO, é o gerenciador de boot padrão de algumas distros, entre elas, o Slackware. Por fazer parte do mundo Linux, deve obedecer à seguinte regra: “Keep it simple, stupid“. Vamos aprender neste tutorial a adicionar uma imagem de fundo ao LILO.
