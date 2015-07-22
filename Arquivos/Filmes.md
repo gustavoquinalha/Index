@@ -1,9 +1,17 @@
-#Filmes
+
 **OBS: Os links 'pt-BR' são referentes as suas páginas no site AdoroCinema.   
  Já os links 'en-EN' são referentes as suas páginas no site iMDb.**  
- 
+
  Última atualização feita por **Methz:** 19/07/2015 - 19:14.  
- 
+***
+
+#Indíce
+
+* [Filmes](#filmes)
+* [Séries](#séries)
+
+#Filmes  
+
 ###Blackhat [2015]
 ####[Trailer](https://www.youtube.com/watch?v=Jsj8ylQLlFg)  
  
@@ -140,4 +148,14 @@ Um jovem (Matthew Broderick) aficcionado por informática conecta seu micro acid
 [en-EN](http://www.imdb.com/title/tt0086567/)
 - - -
 
-Última atualização feita por **Methz** em 07/07/2015 - 03:23
+#Séries  
+
+###Mr.Robot [2015] [Andamento]  
+####[Trailer](https://www.youtube.com/watch?v=U94litUpZuc)  
+
+>**Sinopse:**  
+Elliot (Rami Malek) é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot se vê numa encruzilhada quando o líder (Christian Slater) de um misterioso grupo de hacker o recruta para destruir a firma que ele é pago para proteger. Motivado pelas suas crenças pessoais, ele luta para resistir à chance de destruir os CEOs da multinacional que ele acredita estarem controlando - e destruindo - o mundo.  
+[pt-BR](http://www.adorocinema.com/series/serie-17966/) |
+[en-EN](http://www.imdb.com/title/tt4158110/)  
+
+
