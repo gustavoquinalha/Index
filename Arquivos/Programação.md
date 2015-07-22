@@ -2,21 +2,33 @@
 
 #####OBS: O link referente ao nome da linguagem é a documentação oficial. 
 
-Última atualização feita por **Methz**: 19/07/2015 - 19:00  
+Última atualização feita por **Methz**: 21/07/2015 - 23:23  
 Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 - - -
 
 #Indíce
 
 * [Linguagens Web](#linguagens-web)
+ * [HTML](#html)
+ * [JavaScript](#javascript)
+ * [PHP](#php)
 * [Linguagens Desk](#linguagens-desk)
+ * [C](#c)
+ * [C++](#c-1)
+ * [Perl](#perl)
+ * [Python](#python)
+ * [Ruby](#ruby)
 * [Outras](#outras)
+ * [Haskell](#haskell) 
+ * [Lisp](#lisp)
+ * [Shell Script](#shell-script)
 * [Frameworks](#frameworks)
+ * [Ruby on Rails ](#ruby-on-rails)
 
 ---------------------------------------------------------------------------------- 
 #Linguagens Web
 ---------------------------------------------------------------------------------- 
-##[- HTML -](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+##[HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 >#####~ Inglês ~  
 * [W3schools](http://www.w3schools.com/html/default.asp)  
@@ -26,7 +38,7 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Codecademy](http://www.codecademy.com/pt-BR/tracks/web)
  
 ---------------------------------------------------------------------------------- 
-##[- JavaScript -](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+##[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 >#####~ Inglês ~   
 * [W3schools](http://www.w3schools.com/js/default.asp)
@@ -47,7 +59,7 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Universidade XTI](https://www.youtube.com/playlist?list=PLcHPNq67CaVlq6_hp77DXwS9xQgZeaKf-)
     
 ---------------------------------------------------------------------------------- 
-##[- PHP -](https://php.net/manual/pt_BR/index.php)
+##[PHP](https://php.net/manual/pt_BR/index.php)
     
 >#####~ Inglês ~
 * [PHP5 Tutorial](http://www.php5-tutorial.com/)
@@ -61,8 +73,50 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
  
 ----------------------------------------------------------------------------------          
 #Linguagens Desk
-----------------------------------------------------------------------------------     
-##[- Python -](https://www.python.org/doc/versions/)
+----------------------------------------------------------------------------------    
+##[C](http://en.cppreference.com/w/c)
+    
+>#####~ Inglês ~  
+* [The Hard Way](http://c.learncodethehardway.org/book/)
+* [Deep C](http://pt.slideshare.net/olvemaudal/deep-c)
+* [C on The Unix](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
+* [Tutorial Point](http://www.tutorialspoint.com/cprogramming/c_variables.htm)
+    
+>#####~ Português ~  
+* [De Aluno para Aluno](https://www.youtube.com/user/italogross/playlists)
+* [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
+* [Livro](https://fiorix.wordpress.com/?attachment_id=493)
+    
+----------------------------------------------------------------------------------   
+##[C++](http://en.cppreference.com/w/cpp)
+    
+>#####~ Inglês ~  
+* [Learn CPP](http://www.learncpp.com/)
+* [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/)
+* [C++ to Hackers](http://pt.slideshare.net/jonbonachon/c-for-hackers)
+* [Tutorial Point](http://www.tutorialspoint.com/cplusplus/)
+    
+>#####~ Português ~  
+* [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#)
+* [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
+    
+----------------------------------------------------------------------------------  
+##[Perl](http://doc.perl6.org/)
+    
+>#####~ Inglês ~  
+* [Perl5 in 21 days](http://wwwacs.gantep.edu.tr/docs/perl-ebook/)
+* [Beginner Perl](https://www.perl.org/books/beginning-perl/)
+* [The Hard Way](http://www.greenteapress.com/perl/)
+* [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/)
+* [Perl Tutorial Hub](http://perl-tutorial.org/)
+* [Perl in 2 hour](http://qntm.org/files/perl/perl.html)
+* [Toturial Point](www.tutorialspoint.com/perl/)
+    
+>#####~ Português ~  
+* [Cooler Perl Book](https://bugsec.googlecode.com/files/book_perl_cooler.pdf)
+ 
+---------------------------------------------------------------------------------- 
+##[Python](https://www.python.org/doc/versions/)
     
 >#####~ Inglês ~  
 * [Learn X in Y Minutes](http://learnxinyminutes.com/docs/python/)
@@ -84,7 +138,7 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
         
 ----------------------------------------------------------------------------------
-##[- Ruby -](http://ruby-doc.org/)
+##[Ruby](http://ruby-doc.org/)
     
 >#####~ Inglês ~  
 * [Ruby to Hackers](http://ruby-hacking-guide.github.io/)
@@ -100,52 +154,27 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br/)
     
 ----------------------------------------------------------------------------------
-##[- C -](http://en.cppreference.com/w/c)
-    
->#####~ Inglês ~  
-* [The Hard Way](http://c.learncodethehardway.org/book/)
-* [Deep C](http://pt.slideshare.net/olvemaudal/deep-c)
-* [C on The Unix](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
-* [Tutorial Point](http://www.tutorialspoint.com/cprogramming/c_variables.htm)
-    
->#####~ Português ~  
-* [De Aluno para Aluno](https://www.youtube.com/user/italogross/playlists)
-* [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
-* [Livro](https://fiorix.wordpress.com/?attachment_id=493)
-    
-----------------------------------------------------------------------------------   
-##[- C++ -](http://en.cppreference.com/w/cpp)
-    
->#####~ Inglês ~  
-* [Learn CPP](http://www.learncpp.com/)
-* [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/)
-* [C++ to Hackers](http://pt.slideshare.net/jonbonachon/c-for-hackers)
-* [Tutorial Point](http://www.tutorialspoint.com/cplusplus/)
-    
->#####~ Português ~  
-* [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#)
-* [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
-    
-----------------------------------------------------------------------------------  
-##[- Perl -](http://doc.perl6.org/)
-    
->#####~ Inglês ~  
-* [Perl5 in 21 days](http://wwwacs.gantep.edu.tr/docs/perl-ebook/)
-* [Beginner Perl](https://www.perl.org/books/beginning-perl/)
-* [The Hard Way](http://www.greenteapress.com/perl/)
-* [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/)
-* [Perl Tutorial Hub](http://perl-tutorial.org/)
-* [Perl in 2 hour](http://qntm.org/files/perl/perl.html)
-* [Toturial Point](www.tutorialspoint.com/perl/)
-    
->#####~ Português ~  
-* [Cooler Perl Book](https://bugsec.googlecode.com/files/book_perl_cooler.pdf)
- 
-
----------------------------------------------------------------------------------- 
 #Outras
 ----------------------------------------------------------------------------------
-##[- Shell Script -](http://www.tldp.org/LDP/abs/html/)
+##[Haskell](https://www.haskell.org/)
+
+>#####~ Inglês ~
+* [Documentação - Vários Links](https://www.haskell.org/documentation)
+    
+>#####~ Português ~
+* [Aprenda Haskell](http://haskell.tailorfontela.com.br/chapters)
+* [Lean X in Y Minutes](http://learnxinyminutes.com/docs/pt-br/haskell-pt/)
+
+---------------------------------------------------------------------------------- 
+##[Lisp](http://lispdoc.com/index)
+
+>#####~ Inglês ~  
+* [Cooper Book](http://www.franz.com/resources/educational_resources/cooper.book.pdf)
+* [The Hard Way](http://learnlispthehardway.org/book/)
+* [Lisp Hackers](https://leanpub.com/lisphackers/read)
+    
+----------------------------------------------------------------------------------
+##[Shell Script](http://www.tldp.org/LDP/abs/html/)
 
 >#####~ Inglês ~
 * [A Beginner Handbook](http://www.freeos.com/guides/lsst/)
@@ -157,28 +186,10 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Devmedia](http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)
 * [Introdução ao Shell - Aurélio](http://aurelio.net/shell/apostila-introducao-shell.pdf)
 
-----------------------------------------------------------------------------------          
-##[- Lisp -](http://lispdoc.com/index)
-
->#####~ Inglês ~  
-* [Cooper Book](http://www.franz.com/resources/educational_resources/cooper.book.pdf)
-* [The Hard Way](http://learnlispthehardway.org/book/)
-* [Lisp Hackers](https://leanpub.com/lisphackers/read)
-    
-----------------------------------------------------------------------------------
-##[- Haskell -](https://www.haskell.org/)
-
->#####~ Inglês ~
-* [Documentação - Vários Links](https://www.haskell.org/documentation)
-    
->#####~ Português ~
-* [Aprenda Haskell](http://haskell.tailorfontela.com.br/chapters)
-* [Lean X in Y Minutes](http://learnxinyminutes.com/docs/pt-br/haskell-pt/)
-
-----------------------------------------------------------------------------------    
+----------------------------------------------------------------------------------  
 #Frameworks
 ----------------------------------------------------------------------------------
-##[- Ruby on Rails -](http://guides.rubyonrails.org/)
+##[Ruby on Rails](http://guides.rubyonrails.org/)
     
 >#####~ Inglês ~
 * [The Odin Project](http://www.theodinproject.com/ruby-on-rails)
@@ -190,4 +201,3 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Caelum](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Primeiros Passos](http://www.maujor.com/railsgirlsguide/)
 * [Codecademy](https://www.codecademy.com/pt-BR/courses/rails-auth)
-
