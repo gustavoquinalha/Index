@@ -2,7 +2,7 @@
 **OBS: Os links 'pt-BR' são referentes as suas páginas no site AdoroCinema.   
  Já os links 'en-EN' são referentes as suas páginas no site iMDb.**  
 
- Última atualização feita por **Methz:** 19/07/2015 - 19:14.  
+ Última atualização feita por **Methz:** 21/07/2015 - 22:45.  
 ***
 
 #Indíce
@@ -48,7 +48,7 @@ Usando uma falha de segurança que encontrou num trabalho, Will entra no sistema
 **OBS: Algorithm é um filme indie, ou seja, não tem produtoras por trás da produção, então não tem páginas pra ele nas 'redes sociais de filmes'. Já que é assim também não vemos problemas de disponibilizar o link para [ASSISTIR](https://www.youtube.com/watch?v=6qpudAhYhpc)**
 - - - 
 
-###O Quinto Poder [2013]  
+###The Fifth Estate [2013]  
 ####[Trailer](https://www.youtube.com/watch?v=JV7S888zYm0)
 
 >**Sinopse:**
@@ -57,7 +57,7 @@ Ao fundar o polêmico website WikiLeaks, Julian Assange (Benedict Cumberbatch) c
 [en-EN](http://www.imdb.com/title/tt1837703/)
 - - - 
 
-###Underground - A História de Julian Assange [2012]
+###	Underground: The Julian Assange Story [2012]
 ####[Trailer](https://www.youtube.com/watch?v=zAVfrB5Rfro)
 
 >**Sinopse:**  
@@ -66,7 +66,7 @@ O início da carreira de Julian Assange (Alex Williams), o fundador do polêmico
 [en-EN](http://www.imdb.com/title/tt2357453/)
 - - - 
 
-###007: Operação Skyfall [2012]  
+###Skyfall [2012]  
 ####[Trailer](https://www.youtube.com/watch?v=NrG0wSyYu4M)
 
 >**Sinopse:**  
@@ -75,7 +75,7 @@ O roubo de um HD contendo informações valiosas sobre a identidade de diversos 
 [en-EN](http://www.imdb.com/title/tt1074638/)
 - - - 
 
-###Millennium: Os Homens Que Não Amavam as Mulheres [2012]  
+###The Girl With The Dragon Tattoo [2012]  
 ####[Trailer](https://www.youtube.com/watch?v=u2bH1c-R7Fg)
 
 >**Sinopse:**  
@@ -93,7 +93,7 @@ Marcelo (Wagner Moura) não consegue conviver com sua própria identidade, o que
 [en-EN](http://www.imdb.com/title/tt1235548/)
 - - -
 
-###O Ultimato Bourne [2007]  
+###The Bourne Ultimatum [2007]  
 ####[Trailer](https://www.youtube.com/watch?v=ohkW_xbPl9A)
 
 >**Sinopse:**  
@@ -102,7 +102,7 @@ Jason Bourne (Matt Damon) é um homem que vive sem país e sem passado após ter
 [en-EN](http://www.imdb.com/title/tt0440963/)
 - - - 
 
-###Duro de Matar 4.0 [2007]  
+###Live Free or Die Hard [2007]  
 ####[Trailer](https://www.youtube.com/watch?v=hKe3DVOX4RY)
 
 >**Sinopse:**  
@@ -111,26 +111,61 @@ Os Estados Unidos sofrem um novo ataque terrorista, desta vez através da inform
 [en-EN](http://www.imdb.com/title/tt0337978/)
 - - - 
 
-###Matrix Reloaded [2003]  
+###The Matrix Reloaded [2003]  
 ####[Trailer](https://www.youtube.com/watch?v=kYzz0FSgpSU)
 
 >**Sinopse:**  
 Após derrotar as máquinas em seu combate inicial, Neo (Keanu Reeves) ainda vive na Nabuconodosor ao lado de Morpheus (Laurence Fishburne), Trinity (Carrie-Anne Moss) e Link (Harold Perrineau Jr.), o novo tripulante da nave. As máquinas estão realizando uma grande ofensiva contra Zion, onde 250 mil máquinas estão escavando rumo à cidade e podem alcançá-la em poucos dias. A Nabucodonosor é convocada para retornar a Zion, para participar da reunião que definirá o contra-ataque humano às máquinas. Entretanto, um recado enviado pelo Oráculo (Gloria Foster) faz com que a nave parta novamente, levando Neo de volta à matrix. Lá ele descobre que precisa encontrar o Chaveiro (Randall Duk Kim), um ser que possui a chave para todos os caminhos da matrix e que é mantido como prisioneiro por Merovingian (Lambert Wilson) e sua esposa, Persephone (Monica Bellucci).  
 [pt-BR](http://www.adorocinema.com/filmes/filme-28540/) |
 [en-EN](http://www.imdb.com/title/tt0234215/)
-
 - - -
-###Hackers 2 - Caçada Virtual [2000]  
+
+###The Matrix Revolutions [2003]  
+####[Trailer](https://www.youtube.com/watch?v=psNlHckYlVs)  
+
+>**Sinopse:**  
+Após enfrentar os sentinelas no mundo real, Neo (Keanu Reeves) tem sua mente presa em um local que fica entre a Matrix e a realidade, do qual apenas poderá sair com a ajuda de Trainman (Bruce Spence). Após perceberem que as ondas cerebrais de Neo são idênticas as de uma pessoa conectada à Matrix, Trinity (Carrie-Anne Moss) e Morpheus (Laurence Fishburne) buscam a ajuda da Oráculo (Mary Alice) e Seraph (Sing Ngai). Trinity, Morpheus e Seraph vão em busca de Merovingian (Lambert Wilson), que possui controle sobre Trainman e pode libertar Neo. Após obterem sucesso no resgate, o trio se divide em duas missões: enquanto Morpheus e a tripulação de duas naves parte rumo a Zion, na tentativa de ajudar no combate contra as máquinas, Neo e Trinity se dirigem à cidadela das máquinas.  
+[pt-BR](http://www.adorocinema.com/filmes/filme-28546/) |
+[en-EN](http://www.imdb.com/title/tt0242653/)  
+- - -
+
+###Antitrust [2001]  
+####[Trailer](https://www.youtube.com/watch?v=I7hhqX1PANU)  
+
+>**Sinopse:**  
+Milo (Ryan Phillippe) é um jovem gênio da informática, que namora uma artista (Claire Forlani) e tem um futuro brilhante pela frente. Ele está prestes a abrir uma nova empresa juntamente com seu amigo Teddy, até que recebe uma proposta irrecusável para trabalhar na empresa de seu ídolo, Gary Winston (Tim Robbins). Milo aceita a oferta, mas logo descobre que a empresa em que agora está trabalhando tem sérias implicações com a lei antitruste americana.  
+[pt-BR](http://www.adorocinema.com/filmes/filme-27062/) |
+[en-EN](http://www.imdb.com/title/tt0218817/)  
+- - -
+
+###Takedown [2000]  
 ####[Trailer](https://www.youtube.com/watch?v=md-3lzwqeek)
 
 >**Sinopse:**  
 This film is based on the story of the capture of computer hacker "Kevin Mitnick".  
 Este filme é baseado na história da captura do Hacker "Kevin Mitnick".  
-pt-BR |
 [en-EN](http://www.imdb.com/title/tt0159784/)
 - - -
 
-###Hackers - Piratas de Computador [1995]  
+###The Matrix [1999]
+####[Trailer](https://www.youtube.com/watch?v=m8e-FF8MsqU)  
+
+>**Sinopse:**  
+Em um futuro próximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cubículo escuro, é atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que é, assim como outras pessoas, vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta à realidade e à liberdade.  
+[pt-BR](http://www.adorocinema.com/filmes/filme-19776/) |
+[en-EN](http://www.imdb.com/title/tt0133093/)  
+- - -
+
+###The Net [1995]  
+####[Trailer]()  
+
+>**Sinopse:**  
+Angela Bennett (Sandra Bullock) é uma especialista em corrigir sistemas de informática, que se vê repentinamente envolvida em uma trama pelo fato de ter recebido um disquete que revela graves segredos. Para destruí-la um esquema é criado, com a finalidade de mudar seu nome e passado. Logo ela é conhecida na polícia como prostituta, viciada e ladra, sendo que provar quem é de verdade fica cada vez mais difícil.   
+[pt-BR](http://www.adorocinema.com/filmes/filme-13212/) |
+[en-EN](http://www.imdb.com/title/tt0113957/)  
+- - -
+
+###Hackers [1995]  
 ####[Trailer](https://www.youtube.com/watch?v=Ql1uLyuWra8)  
 
 >**Sinopse:**  
@@ -139,7 +174,7 @@ Um adolescente conhecido como Zero Cool (Jonny Lee Miller) é uma lenda entre os
 [en-EN](http://www.imdb.com/title/tt0113243/)
 - - -
 
-###Jogos de Guerra [1983]  
+###War Games [1983]  
 ####[Trailer](https://www.youtube.com/watch?v=hbqMuvnx5MU)
 
 >**Sinopse:**  
@@ -150,12 +185,27 @@ Um jovem (Matthew Broderick) aficcionado por informática conecta seu micro acid
 
 #Séries  
 
-###Mr.Robot [2015] [Andamento]  
+###Mr.Robot [2015] [Em andamento]  
 ####[Trailer](https://www.youtube.com/watch?v=U94litUpZuc)  
 
 >**Sinopse:**  
 Elliot (Rami Malek) é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot se vê numa encruzilhada quando o líder (Christian Slater) de um misterioso grupo de hacker o recruta para destruir a firma que ele é pago para proteger. Motivado pelas suas crenças pessoais, ele luta para resistir à chance de destruir os CEOs da multinacional que ele acredita estarem controlando - e destruindo - o mundo.  
 [pt-BR](http://www.adorocinema.com/series/serie-17966/) |
 [en-EN](http://www.imdb.com/title/tt4158110/)  
+- - -
 
+###Scorpion  [2014] [Em andamento]  
+####[Trailer](https://www.youtube.com/watch?v=j9-6DRiLsYE)  
 
+>**Sinopse:**  
+A série acompanha a vida de um excêntrico gênio e sua rede internacional de contatos de super-gênios. Juntos, eles formam uma linha de defesa contra todas as ameaças do mundo moderno.   
+[pt-BR](http://www.adorocinema.com/series/serie-17288/) |
+[en-EN](http://www.imdb.com/title/tt3514324/)
+- - -
+
+###Betas [2013-2014] [Finalizada]  
+####[Trailer](https://www.youtube.com/watch?v=sQkwKLJi3bM)  
+
+>**Sinopse:**  
+Betas é uma comédia que teve apenas uma temporada produzida. Criada por Evan Endicott e Josh Stoddard, a série é situada no Vale do Silício, onde estão diversas empresas do ramo de novas tecnologias. A história acompanha quatro gênios dos computadores que se esforçam por criar um novo app para celulares que poderá torná-los famosos.  
+[en-EN](http://www.imdb.com/title/tt3012184/)
