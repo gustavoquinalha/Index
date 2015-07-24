@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Permissões de arquivos com chmod](http://cienciahacker.com.br/linux-permissoes-de-arquivos-com-chmod/)  
+Algo muito discutido e até “amedrontador” para alguns usuários Linux é a questão de permissões de arquivos. Muitos usuários veem esse assunto como uma verdadeira “hidra”. Então, caro usuário, aproxime-se e elimine de vez esse pensamento de sua cabeça.  
+
 ###[Descompactando arquivos ZIP, RAR, TAR.GZ, BZ2, TAR.BZ2, TAR.XZ, TGZ e GZ no Linux](http://cienciahacker.com.br/descompactando-arquivos-zip-rar-tar-gz-bz2-tar-bz2-tar-xz-tgz-e-gz-no-linux/)  
 Abra o terminal no Linux, e siga os seguintes comandos para realizar a descompactação.  
 
