@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Windows 10, saindo da versão Jack Sparrow](http://cienciahacker.com.br/windows-10-saindo-da-versao-jack-sparrow/)
+Com a vinda do mais novo Windows 10 surgiu a dúvida, já existe ativador seguro para essa versão ? Sim, existe e nesse tutorial vamos descobrir como ativa-lo permanentemente. Com o lançamento do Windows 8, 8.1 e Windows 10  a Micro$oft se preocupou em tornar a vida de quem gosta de usar o Windows piratão mais difícil. Sem a devida ativação você não pode personalizar e fazer configurações mais complexas no sistema. Mas como ninguém para a pirataria já existem formas de ativa-los sem ter original. Para a ativação eu vou usar o Windows 10 pro build 10240.
+
 ###[Permissões de arquivos com chmod](http://cienciahacker.com.br/linux-permissoes-de-arquivos-com-chmod/)  
 Algo muito discutido e até “amedrontador” para alguns usuários Linux é a questão de permissões de arquivos. Muitos usuários veem esse assunto como uma verdadeira “hidra”. Então, caro usuário, aproxime-se e elimine de vez esse pensamento de sua cabeça.  
 
