@@ -21,9 +21,8 @@ Biblioteca 07 <~~ https://goo.gl/qTUPRc
  
 >Hacking 01 <~~ https://goo.gl/sYWzUT  
 Hacking 02 <~~ https://goo.gl/5tnAJH  
-Hacking 03 <~~ https://goo.gl/ePx5Kd  
-Hacking 04 <~~ https://goo.gl/CzlLGa  
-Hacking 05 <~~ https://goo.gl/qp1R0m
+Hacking 03 <~~ https://goo.gl/CzlLGa  
+Hacking 04 <~~ https://goo.gl/qp1R0m
 
 - - -
 ###Programação apenas
@@ -33,6 +32,13 @@ Hacking 05 <~~ https://goo.gl/qp1R0m
 Linguagens de Programação 02 <~~ https://goo.gl/InArZQ  
 Linguagens de Programação 03 <~~ https://goo.gl/Av5sgs  
 Linguagens de Programação 04 <~~ https://goo.gl/isKoxu  
+
+
+- - -
+###Redes
+- - -
+
+>Redes 01 <~~ https://goo.gl/ePx5Kd 
 
 
 - - -
