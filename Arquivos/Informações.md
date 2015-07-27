@@ -2,7 +2,7 @@
 
 #####OBS: Essa lista é apenas uma indicação de conteúdo, em nenhum momento afirmamos terem os melhores conteúdos, muito menos que todos contém informações verídicas.  
 
-Última atualização feita por **Methz** - 23/07/2015 - 21:45
+Última atualização feita por **Methz** - 27/07/2015 - 17:00
 - - -
 #Linux  
 
@@ -18,6 +18,7 @@
 >* [**Coruja de TI**](http://blog.corujadeti.com.br/)  
 * [**InfoWester**](http://www.infowester.com/)
 * [**Blog Clavis**](http://www.blog.clavis.com.br/)
+* [**O Analista**](http://www.oanalista.com.br/)
 
 - - -
 #Tecnologia  
