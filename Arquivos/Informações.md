@@ -56,9 +56,9 @@
 - - -
 #Podcast
 
->* [**Castálio**](http://castalio.info/) **(Geral/Programação)**
-* [**Grok**](http://www.grokpodcast.com/) **(Programação)**
-* [**Turing Incomplete**](http://turing.cool/) **(Programação)**
-* [**Hanselminutes**](http://hanselminutes.com/) **(Programação)**
-* [**Hacker Public Radio**](http://hackerpublicradio.org/) **(Hacking/Dicas)**
+>* [**Castálio**](http://castalio.info/) **(Geral/Programação)** **(pt-BR)**  
+* [**Grok**](http://www.grokpodcast.com/) **(Programação)** **(pt-BR)**  
+* [**Turing Incomplete**](http://turing.cool/) **(Programação)** **(en-EN)**  
+* [**Hanselminutes**](http://hanselminutes.com/) **(Programação)**  **(en-EN)**  
+* [**Hacker Public Radio**](http://hackerpublicradio.org/) **(Hacking/Dicas)** **(en-EN)**  
 
