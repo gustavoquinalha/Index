@@ -29,7 +29,7 @@
 * [**Portal GSTI**](http://www.portalgsti.com.br/)
 * [**Tecnologia**](http://www.tecnologia.com.pt/)      
 * [**Canaltech**](http://canaltech.com.br/)  
-* [**Olhar Digital>**](http://olhardigital.uol.com.br/)  
+* [**Olhar Digital**](http://olhardigital.uol.com.br/)  
 * [**Profissionais TI**](http://www.profissionaisti.com.br/)  
 
 - - -
