@@ -41,6 +41,7 @@
 #Inglês  
 
 >* [**TED**](http://www.ted.com/) **(Geral)** 
+* [**99u**](http://99u.com/) **(Geral)**  
 * [**Wired**](http://www.wired.com/) **(Geral)**  
 * [**Mashable**](http://mashable.com/) **(Geral)**  
 * [**The Next Web**](http://thenextweb.com/) **(Geral)**
