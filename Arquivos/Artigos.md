@@ -1,6 +1,11 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[[Linux] Compilando o Kernel](http://cienciahacker.com.br/linux-compilando-o-kernel/)  
+Hoje trataremos de um assunto polêmico discutido entre os usuários Linux: a compilação do Kernel.
+
+Muitos usuários pensam que a compilação de um Kernel é algo “de outro mundo”. Provaremos o contrário neste post.
+
 ###[Anonimato e segurança por Proxy, guia para Windows 10](http://cienciahacker.com.br/windows-10-adicionando-proxies-garantindo-o-anonimato-basico/)  
 O uso do proxy é altamente recomendado para pessoas que desejam ter uma maior segurança e querem evitar ataques de negação de serviço (DDos) e vários outros ataques realizados em cima de seu endereço IP. Isso sem precisar ter muito conhecimento em informática. Proxies não são recomendados para pessoas que desejam um alto nível de anonimato, eles funcionam de forma simples e não garantem anonimato absoluto e podem ser quebrados mais facilmente do que métodos mais sofisticados.
 
