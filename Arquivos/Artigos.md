@@ -1,6 +1,10 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+
+###[DoNotSpy10 – Ferramenta anti espionagem para Windows 10](http://cienciahacker.com.br/donotspy10-ferramenta-anti-espionagem-para-windows-10/)  
+Com o lançamento do Windows 10, várias novas funcionalidades surgiram. Para manter o padrão ‘Microsoft de ser’, junto com essas novas funcionalidades, ela trouxe muitos serviços de diagnóstico para ajudarem na coleta de dados na hora de solucionar um problema. Obviamente alguns usuários ficaram preocupados com a privacidade e a segurança de seus dados, nessa linha de pensamento que surgiu o DoNotSpy10, a primeira ferramenta anti ‘espionagem’ para Windows 10.  
+
 ###[[Linux] Compilando o Kernel](http://cienciahacker.com.br/linux-compilando-o-kernel/)  
 Hoje trataremos de um assunto polêmico discutido entre os usuários Linux: a compilação do Kernel.
 
