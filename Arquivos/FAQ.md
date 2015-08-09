@@ -54,7 +54,7 @@ testar por sí mesmo. Uma vez descoberta a(s) falha(s) é só explorar.
  
 Scanners de Vulnerabilidade: Acunetix, Vega, W3AF, Nessus, WPScan, Nmap...
  
-Brinde: Servidores Apache até a versão 2.2.26 são vulneráveis a ataque DDoS
+Brinde: Servidores Apache até a versão 2.2.22 são vulneráveis a ataque DDoS
 na sétima camada. Utilize a ferramenta Slowloris.pl (google it)
 
 *[VIDEO AULA](http://youtu.be/4oAmUnnSwJs?list=UUZPg5KlsbPsbxX3YQ_y_kRQ)*
