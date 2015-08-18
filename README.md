@@ -27,6 +27,11 @@
 * [**Filmes Hackers**](https://github.com/cienciahacker/index/blob/master/Arquivos/Filmes.md)
 * [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/Informações.md)
 
+##### Teste seu conhecimento
+
+* [**Sites para testes**](https://github.com/cienciahacker/index/blob/master/Arquivos/vuln_sites.md)
+* [**Wargames**](https://github.com/cienciahacker/index/blob/master/Arquivos/wargames.md)  
+
 ##### Licença
 
     Copyright (C) 2015  Ciência Hacker
