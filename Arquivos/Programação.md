@@ -2,7 +2,7 @@
 
 #####OBS: O link referente ao nome da linguagem é a documentação oficial. 
 
-Última atualização feita por **Methz**: 21/07/2015 - 23:23  
+Última atualização feita por **Methz**: 18/08/2015 - 17:45  
 Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 - - -
 
@@ -23,7 +23,9 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
  * [Lisp](#lisp)
  * [Shell Script](#shell-script)
 * [Frameworks](#frameworks)
- * [Ruby on Rails ](#ruby-on-rails)
+ * [Ruby on Rails](#ruby-on-rails)
+ * [Bootstrap](#bootstrap)
+ * [Django](#django)
 
 ---------------------------------------------------------------------------------- 
 #Linguagens Web
@@ -201,3 +203,32 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Caelum](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Primeiros Passos](http://www.maujor.com/railsgirlsguide/)
 * [Codecademy](https://www.codecademy.com/pt-BR/courses/rails-auth)
+
+----------------------------------------------------------------------------------
+##[Bootstrap](https://bootstrapdocs.com/)  
+
+>#####~ Inglês ~  
+* [Twitter Bootstrap Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap)  
+* [Twitter Bootstrap Succinctly 3](http://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap3)  
+
+>#####~ Português ~
+* [Canal Tekzoom](https://www.youtube.com/playlist?list=PLZL68elhOXv8w18dKzui2qZ2KjH6X8gIG)  
+* [Canal JCursos](https://www.youtube.com/playlist?list=PLdRLfw1rdyFEtDGAcPoPFQg5po6i3XJtz)  
+* [Canal PontoCanal](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVqVsGPcq1eojBJH5Lxq8hTQ)  
+* [Canal FalconMaster](https://www.youtube.com/playlist?list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW)  
+
+----------------------------------------------------------------------------------
+##[Django](https://docs.djangoproject.com/en/1.8/)  
+
+>#####~ Inglês ~
+* [Django by Example 1.2](http://www.lightbird.net/dbe/)  
+* [Django by Example 1.7](http://www.lightbird.net/dbe2/)  
+* [Djen of Django](http://agiliq.com/books/djenofdjango/)  
+* [The Django Book](http://www.djangobook.com/en/2.0/)  
+* [Effective Django](http://www.effectivedjango.com/)  
+* [Getting Started with Django](http://gettingstartedwithdjango.com/)  
+
+>#####~ Portugês ~
+* [Python e Django](https://osantana.me/curso-de-python-e-django/)  
+* [Mixincode](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd)  
+
