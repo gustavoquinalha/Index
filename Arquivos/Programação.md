@@ -6,7 +6,7 @@
 Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 - - -
 
-#Indíce
+#Índice
 
 * [Linguagens Web](#linguagens-web)
  * [HTML](#html)
