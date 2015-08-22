@@ -1,6 +1,11 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Android Hacking: Explorando redes WiFi com zANTI](http://cienciahacker.com.br/android-hacking-explorando-redes-wifi-com-zanti/)  
+Todos nós estamos acostumados a usar ferramentas sofisticadas para pegar logins e senhas em redes WiFi que só poderiam ser usadas em computadores potentes e com sistemas feitos para isso. E se a partir de um simples celular você tivesse acesso a ferramentas tão poderosas quanto? Isso é possível. E vamos aprender a usar uma delas agora.
+
+###[[Vídeo] Como instalar ferramentas para PenTest usando Organon](http://cienciahacker.com.br/como-instalar-ferramentas-para-pentest-usando-organon/)  
+Uma demonstração de como automatizar o download de ferramentas para Pentest usando o Organon.
 
 ###[DoNotSpy10 – Ferramenta anti espionagem para Windows 10](http://cienciahacker.com.br/donotspy10-ferramenta-anti-espionagem-para-windows-10/)  
 Com o lançamento do Windows 10, várias novas funcionalidades surgiram. Para manter o padrão ‘Microsoft de ser’, junto com essas novas funcionalidades, ela trouxe muitos serviços de diagnóstico para ajudarem na coleta de dados na hora de solucionar um problema. Obviamente alguns usuários ficaram preocupados com a privacidade e a segurança de seus dados, nessa linha de pensamento que surgiu o DoNotSpy10, a primeira ferramenta anti ‘espionagem’ para Windows 10.  
