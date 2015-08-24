@@ -6,7 +6,7 @@
 * Youtube > www.youtube.com/cienciahacker
 * Vimeo > www.vimeo.com/cienciahacker
 
-**Ementa:**
+**Ementa:**  
 1) Dicas de perguntas  
 2) Perguntas e respostas frequentes  
     2.01. Por onde começar?  
@@ -20,7 +20,7 @@
     2.09. Como camuflar o endereço MAC  
     2.10. Duvidas sobre Deep Web e como navegar  
     2.11. Programação. Como começar?  
-    2.12. Preciso do Kali para poder realizar testes de penetração?
+    2.12. Preciso do Kali para poder realizar testes de penetração?  
     2.13. Backtrack ou Kali?  
     2.14. Qual o melhor Linux?  
 3) Links mais pedidos  
@@ -67,11 +67,13 @@ As ferramentas mais famosas para estas tarefas são: Reaver ou Bully e Aircrack-
 ------------------------------------------------------------------------------
 ##### 2.04 - Como quebrar senhas (hashes)
  
-R: Quebra de senhas é uma arte vai muito além de programas, porém sem programas o processo seria infinitamente mais demorado. Vocês podem utilizar o google, sites especializados, e ferramentas com foco no cracking(quebra) de senhas.  
- 
-Ferramentas: John The Ripper, Hashcat, hash-identifier, findmyhash...
+R: Para quebrar uma hash (senha cifrada) é necessário antes identificar o tipo da hash como Md5, Md4, Sha1, Des, entre outras. A identificação dela é fundamental para decifrar a senha, os meio mais utilizado é o brute force a qual ele verifica dentro uma lista de senhas qual é igual a ela. Podemos utilizar sites especializados, e ferramentas para fazer o processo deciframento.
 
-*[VIDEO AULA](http://youtu.be/N7kR0ttcrxY?list=UUZPg5KlsbPsbxX3YQ_u_kRQ)*
+Ferramentas: John The Ripper, Hashcat, hash-identifier, findmyhash.
+
+[VIDEO AULA](http://youtu.be/N7kR0ttcrxY?list=UUZPg5KlsbPsbxX3YQ_y_kRQ)
+
+[TUTORIAL](http://cienciahacker.com.br/identificando-tipos-de-hash)
 
 ------------------------------------------------------------------------------
 ##### 2.05 - Posso hackear utilizando o Android?  
@@ -92,21 +94,27 @@ Mas que fique claro que esta foi um EXCESSÃO.
 
 *[VIDEO AULA](https://youtu.be/37Sgx5r93kM)*
 
+Não existe meio de invadir um Facebook de uma pessoa com um ataque direto, pois isso existe meio de invadi-lo persuadindo a pessoa que chamamos de Engenharia Social (que pode ser feito através de Keyloggers ou Pishing). Outro meio usado, mas apenas em rede interna é o Sniffer que captura senhas, exemplo da ferramenta Cain e Wireshark.
+
 ------------------------------------------------------------------------------
 ##### 2.07 - Me hackearam no (face, gmail, lol, caralho a 4), me ajudem!  
  
 R: Busque ajuda com o provedor do serviço.
  
 ------------------------------------------------------------------------------
-##### 2.08 - Como camuflar o IP  
- 
-R: Procure a utilização de uma VPN ou proxy free. Para a utilização de uma
-VPN, recomendamos o Cyberghost ou SecurityKiss pelo fato de não guardarem
-informações como sites acessados, tempo de conexão, etc. Lembre-se de ler o
-contrato de prestação de serviço antes de utilizar.  
-Eu em particular acho que o melhor método de anonimato ainda é a rede TOR.  
- 
-Uma boa pedida é usar o `proxychains`. Temos um artigo no site sobre ele: [artigo](http://cienciahacker.com.br/instalando-e-usando-o-proxychains/).
+##### 2.08 - Como camuflar o IP? Como ficar anonimo e seguro na rede?
+
+R: Para camuflar IP (que nada mais é um processo de você obter um novo IP sobre outro servidor) existe serviços de VPN ou Proxy. Para maior segurança recomendamos a utilização de uma VPN devido a criptografia da sua conexão com servidor deles, garantindo maior segurança durante a navegação de seus dados. Recomendamos o Cyberghost ou SecurityKiss pelo fato de não guardarem informações como sites acessados, tempo de conexão, etc. Lembre-se de ler o contrato de prestação de serviço antes de utilizar.
+
+Outros meio que recomendamos é usar utilizar o Whonix, que usa a rede TOR como gateway na rede. Tendo anonimato devido a criptografia que ele faz na rede, e possui ferramenta embutida no Whonix como firewall.
+
+[VIDEO AULA 1](https://www.youtube.com/watch?v=0isHTWPt-tE)
+
+[VIDEO AULA 2](https://www.youtube.com/watch?v=XCdz7lUUazY)
+
+[TUTORIAL 1](http://cienciahacker.com.br/windows-10-adicionando-proxies-garantindo-o-anonimato-basico/)
+
+[TUTORIAL 2](http://cienciahacker.com.br/instalando-e-usando-o-proxychains/)
 
 ###### Lista de Proxy Free:  
 * http://www.proxy4free.com/list/webproxy1.html
@@ -117,7 +125,7 @@ Uma boa pedida é usar o `proxychains`. Temos um artigo no site sobre ele: [arti
 ------------------------------------------------------------------------------
 ##### 2.09 - Como camuflar o endereço MAC  
  
-R: No linux basta utilizar o macchanger. Windows utilizem o Tmac.
+R: A importância de camuflar o MAC Address é para não rastrear sua placa de rede, assim fazem no endereço IP. No Linux basta utilizar o macchanger e no Windows utilizem a ferramenta Tmac.
 
 *[VIDEO AULA](http://youtu.be/54-M57HWA6w?list=UUZPg5KIsbPsbxX3YQ_y_kRQ)*
 
