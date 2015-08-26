@@ -1,6 +1,8 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[“Confiança não se compra, se conquista” parte 1](http://cienciahacker.com.br/confianca-nao-se-compra-se-conquista-parte-1/)  
+Muitas vezes nós (estudantes da área de Tecnologia) e principalmente “usuários finais”, não nos preocupamos com a navegação propriamente dita, não sabemos a origem do nosso navegador, a empresa por trás dele, seus projetos e desenvolvimento. Isso pode ser um erro na hora de escolher seu navegador favorito, pois existem vários recursos ‘escondidos’ em alguns sites que são capazes de usar sua webcam e seu microfone, rastrear sua localização, enviar dados da sua navegação, por exemplo. Em seguida vou apresentar algumas das ferramentas e funcionalidades específicas do Firefox para você que se preocupa com sua privacidade.
 ###[Android Hacking: Explorando redes WiFi com zANTI](http://cienciahacker.com.br/android-hacking-explorando-redes-wifi-com-zanti/)  
 Todos nós estamos acostumados a usar ferramentas sofisticadas para pegar logins e senhas em redes WiFi que só poderiam ser usadas em computadores potentes e com sistemas feitos para isso. E se a partir de um simples celular você tivesse acesso a ferramentas tão poderosas quanto? Isso é possível. E vamos aprender a usar uma delas agora.
 
