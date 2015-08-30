@@ -8,7 +8,6 @@
 * [**Página Facebook**](https://fb.com/cienciahacker)
 * [**Grupo Facebook**](https://fb.com/groups/cienciahacker)
 * [**Canal Youtube**](http://goo.gl/gn0or1)
-* [**Canal Vimeo**](http://goo.gl/Jb1piO)
 * [**Twitter**](https://twitter.com/cienciahacker)
 * [**IRC**](http://cienciahacker.com.br/irc)
 
