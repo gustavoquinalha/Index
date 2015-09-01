@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Como criar um Sistema Operacional | Unix](http://cienciahacker.com.br/como-criar-um-sistema-operacional/)  
+Esse é um livro digital sobre como escrever um sistema operacional em C/C++ a partir do zero.
+
 ###[O que é Ethical Hacking? Conhecendo a filosofia Hacker](http://cienciahacker.com.br/o-que-e-ethical-hacking-conhecendo-a-filosofia-hacker/)  
 O “Ethical Hacking” (conhecido como ética hacker) é muito confundido em sua definição atual, criando uma bifurcação entre profissionais de segurança da informação e a comunidade hacking. Em sua real definição o ethical hacking trata de valores morais e filosóficos empregado dentro da comunidade hacker, não se limitando apenas em na ética humana, mas em valores trazidos ao longo da cultura e do desenvolvimento tecnológico. 
 
