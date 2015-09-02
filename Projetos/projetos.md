@@ -1,3 +1,14 @@
+## Perl Brasil
+
+*Comunidade que visa compartilhar conhnecimento e informações sobre Perl, já que a linguagem contém um material muito excasso em nosso idioma.*
+
+Redes Sociais:  
+* [Página Facebook](https://www.facebook.com/PerlBrOficial)
+* [Grupo Facebook](https://www.facebook.com/groups/PerlBrasilOficial/)
+* [Twitter](https://twitter.com/Perl_Brasil)  
+
+Repositório: https://github.com/HeitorG/Perl-Brasil
+
 ## Organon - Package Manager
 
 *Este programa foca em automatizar o download, resolução de dependências e instalação de programas com foco em análise de vulnerabilidades e pentest.*  
