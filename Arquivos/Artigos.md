@@ -1,6 +1,18 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Organon (instalando ferramentas de segurança)](http://cienciahacker.com.br/organon-instalando-ferramentas-de-seguranca/)  
+Organon é um ferramenta que tem como objetivo facilitar a instalação de ferramentas para pentest em distribuições GNU/Linux como Ubuntu, Debian, Arch linux entre outras. No momento apenas suporta distribuições que possuam os gerenciadores de pacotes APT e PACMAN, pois depende deles para instalar as dependências necessárias para o bom funcionamento das ferramentas que serão instaladas pelo usuário.  
+
+###[Cangibrina – Dashboard Finder](http://cienciahacker.com.br/cangibrina-dashboard-finder/)  
+Hoje trarei uma ferramenta desenvolvida por mim mesmo – UAU – cujo desenvolvimento inicial teve como motivação a aprendizagem da linguagem de programação Python. Portanto, fui adicionando ao longo do tempo vários recursos que achava interessante.  
+
+###[Explorando vulnerabilidades no WordPress com Wpscan](http://cienciahacker.com.br/explorando-vulnerabilidades-no-wordpress-com-wpscan/)  
+Muito utiliza-se CMS (como WordPress, Drupal e Joomla) atualmente, devido o fácil gerenciamento que ele permite fazer em websites, porém o que muitos não sabem é a quantidade de falhas contidas nesses serviços. Traremos hoje a ferramenta Wpscan que é utilizada para fazer varreduras em sites gerenciados por WordPress, buscando por falhas de segurança, nos outros artigos traremos ferramentas de scanners para outros tipos de CMS.  
+
+###[\[Linux\] Como criptografar e descriptografar seus arquivos com Ccrypt](http://cienciahacker.com.br/linux-como-criptografar-e-descriptografar-seus-arquivos-com-ccrypt/)  
+A criptografia é um dos meios que garante a segurança e proteção de nossos dados, deixando a informação ilegível a quem tenta obtê-la sem autorização. Além de garantir a integridade de seus arquivos, ela permite que o acesso seja feito apenas para quem tem a chave (senha) para descriptografa-la. Veremos sobre a ferramenta Ccrypt a qual usaremos no processo para criptografar/descriptografar nossos arquivos.  
+
 ###[Como criar um Sistema Operacional | Unix](http://cienciahacker.com.br/como-criar-um-sistema-operacional/)  
 Esse é um livro digital sobre como escrever um sistema operacional em C/C++ a partir do zero.
 
@@ -12,9 +24,6 @@ Muitas vezes nós (estudantes da área de Tecnologia) e principalmente “usuár
 ###[Android Hacking: Explorando redes WiFi com zANTI](http://cienciahacker.com.br/android-hacking-explorando-redes-wifi-com-zanti/)  
 Todos nós estamos acostumados a usar ferramentas sofisticadas para pegar logins e senhas em redes WiFi que só poderiam ser usadas em computadores potentes e com sistemas feitos para isso. E se a partir de um simples celular você tivesse acesso a ferramentas tão poderosas quanto? Isso é possível. E vamos aprender a usar uma delas agora.
 
-###[[Vídeo] Como instalar ferramentas para PenTest usando Organon](http://cienciahacker.com.br/como-instalar-ferramentas-para-pentest-usando-organon/)  
-Uma demonstração de como automatizar o download de ferramentas para Pentest usando o Organon.
-
 ###[DoNotSpy10 – Ferramenta anti espionagem para Windows 10](http://cienciahacker.com.br/donotspy10-ferramenta-anti-espionagem-para-windows-10/)  
 Com o lançamento do Windows 10, várias novas funcionalidades surgiram. Para manter o padrão ‘Microsoft de ser’, junto com essas novas funcionalidades, ela trouxe muitos serviços de diagnóstico para ajudarem na coleta de dados na hora de solucionar um problema. Obviamente alguns usuários ficaram preocupados com a privacidade e a segurança de seus dados, nessa linha de pensamento que surgiu o DoNotSpy10, a primeira ferramenta anti ‘espionagem’ para Windows 10.  
 
@@ -25,7 +34,6 @@ Muitos usuários pensam que a compilação de um Kernel é algo “de outro mund
 
 ###[Anonimato e segurança por Proxy, guia para Windows 10](http://cienciahacker.com.br/windows-10-adicionando-proxies-garantindo-o-anonimato-basico/)  
 O uso do proxy é altamente recomendado para pessoas que desejam ter uma maior segurança e querem evitar ataques de negação de serviço (DDos) e vários outros ataques realizados em cima de seu endereço IP. Isso sem precisar ter muito conhecimento em informática. Proxies não são recomendados para pessoas que desejam um alto nível de anonimato, eles funcionam de forma simples e não garantem anonimato absoluto e podem ser quebrados mais facilmente do que métodos mais sofisticados.
-
 
 ###[Windows 10, saindo da versão Jack Sparrow](http://cienciahacker.com.br/windows-10-saindo-da-versao-jack-sparrow/)
 Com a vinda do mais novo Windows 10 surgiu a dúvida, já existe ativador seguro para essa versão ? Sim, existe e nesse tutorial vamos descobrir como ativa-lo permanentemente. Com o lançamento do Windows 8, 8.1 e Windows 10  a Micro$oft se preocupou em tornar a vida de quem gosta de usar o Windows piratão mais difícil. Sem a devida ativação você não pode personalizar e fazer configurações mais complexas no sistema. Mas como ninguém para a pirataria já existem formas de ativa-los sem ter original. Para a ativação eu vou usar o Windows 10 pro build 10240.
