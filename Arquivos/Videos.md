@@ -3,6 +3,10 @@
 
 ####YouTube
 
+######[Análise de segurança e anonimato com Proxy e VPN](https://www.youtube.com/watch?v=ZXL4CyTwDCw)  
+-------
+* Vídeo aula explicando a diferença de Proxy e VPN, ressaltando a questão do anonimato e segurança de dados na rede.
+
 ######[Como instalar ferramentas para PenTest usando Organon](https://www.youtube.com/watch?v=lpPauu2uY4E)
 -------
 * Organon é uma ferramenta que visa auxiliar a instalação de ferramentas para pentest a partir de seu código fonte. Organon suporta Debian, Ubuntu, Mint e Arch.  
