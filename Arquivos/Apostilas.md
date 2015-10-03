@@ -53,6 +53,7 @@
 [Nmap Guia de referencia](https://www.facebook.com/groups/cienciahacker/1097804103567808/)  
 [O Guia do Hacker por Nicholas Ferreira](https://www.facebook.com/groups/cienciahacker/1134467876568097/)  
 [O que é Criptografia](https://www.facebook.com/groups/cienciahacker/971386029542950/)  
+[Perl Basico](https://www.facebook.com/groups/cienciahacker/1178144535533764/)  
 [Programação Neurolinguística](https://www.facebook.com/groups/cienciahacker/971391469542406/)  
 [Segurança de Redes e Sistemas](https://www.facebook.com/groups/cienciahacker/1034994769848742/)  
 [Segurança em Redes Sem Fio](https://www.facebook.com/groups/cienciahacker/1035005753180977/)  
