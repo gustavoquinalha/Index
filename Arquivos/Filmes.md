@@ -203,6 +203,15 @@ A série acompanha a vida de um excêntrico gênio e sua rede internacional de c
 [en-EN](http://www.imdb.com/title/tt3514324/)
 - - -
 
+###Silicon Valley  [2014] [Em andamento]  
+####[Trailer](https://www.youtube.com/watch?v=69V__a49xtw)  
+
+>**Sinopse:**  
+Silicon Valley é um sitcom dos Estados Unidos, que conta a história de seis programadores que tentam construir uma carreira bem sucedida no Vale do Silício, Califórnia. 
+[pt-BR](http://www.adorocinema.com/series/serie-11701/) |
+[en-EN](http://www.imdb.com/title/tt2575988/)
+- - -
+
 ###Betas [2013-2014] [Finalizada]  
 ####[Trailer](https://www.youtube.com/watch?v=sQkwKLJi3bM)  
 
