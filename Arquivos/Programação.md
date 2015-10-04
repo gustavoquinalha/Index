@@ -2,7 +2,7 @@
 
 #####OBS: O link referente ao nome da linguagem é a documentação oficial. 
 
-Última atualização feita por **Methz**: 18/08/2015 - 17:45  
+Última atualização feita por **Methz**: 04/10/2015 - 11:01.  
 Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 - - -
 
@@ -15,9 +15,13 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Linguagens Desk](#linguagens-desk)
  * [C](#c)
  * [C++](#c-1)
+ * [C#](#c-sharp)
+ * [Java](#java)
  * [Perl](#perl)
  * [Python](#python)
  * [Ruby](#ruby)
+* [Mobile](#mobile)
+ * [Android](#android)
 * [Outras](#outras)
  * [Haskell](#haskell) 
  * [Lisp](#lisp)
@@ -72,6 +76,7 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Codecademy](http://www.codecademy.com/pt-BR/tracks/php)
 * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-php-iniciante/)  
 * [PHP Do Jeito Certo](http://br.phptherightway.com/)
+* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)
  
 ----------------------------------------------------------------------------------          
 #Linguagens Desk
@@ -88,6 +93,7 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [De Aluno para Aluno](https://www.youtube.com/user/italogross/playlists)
 * [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
 * [Livro](https://fiorix.wordpress.com/?attachment_id=493)
+* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)  
     
 ----------------------------------------------------------------------------------   
 ##[C++](http://en.cppreference.com/w/cpp)
@@ -100,9 +106,23 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
     
 >#####~ Português ~  
 * [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#)
-* [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
+* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
     
 ----------------------------------------------------------------------------------  
+##[C Sharp](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)  
+
+>#####~ Português ~  
+* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SFffgnOcITHnCJavMf0ArD)  
+
+---------------------------------------------------------------------------------- 
+##[Java](http://docs.oracle.com/javase/7/docs/api/)  
+
+>#####~ Português ~  
+* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD)  
+* [eXcript - Java Orientado a Objetos](https://www.youtube.com/playlist?list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y)
+* [eXcript - Java8 Lambda](https://www.youtube.com/playlist?list=PLesCEcYj003SbwnNhQ9eyF7IjPlEK0uVg)
+
+---------------------------------------------------------------------------------- 
 ##[Perl](http://doc.perl6.org/)
     
 >#####~ Inglês ~  
@@ -116,6 +136,7 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
     
 >#####~ Português ~  
 * [Cooler Perl Book](https://bugsec.googlecode.com/files/book_perl_cooler.pdf)
+* [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/perl-basico.pdf)
  
 ---------------------------------------------------------------------------------- 
 ##[Python](https://www.python.org/doc/versions/)
@@ -136,6 +157,8 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
     
 >#####~ Português ~  
 * [Codecademy](http://www.codecademy.com/pt-BR/tracks/python)
+* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
+* [eXcript - Python+SQLite](https://www.youtube.com/playlist?list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog)
 * [Python para Zumbi](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 * [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
         
@@ -154,7 +177,17 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 * [Codecademy](http://www.codecademy.com/pt-BR/tracks/ruby)
 * [Why Ruby](http://why.carlosbrando.com/)
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br/)
+
+----------------------------------------------------------------------------------          
+#Mobile
+----------------------------------------------------------------------------------    
+##[Android](http://developer.android.com/reference/org/w3c/dom/Document.html)
     
+>#####~ Português ~  
+* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QeYKOo6NyjmHub4QKue63g)
+* [eXcript - Cadastro de Clientes](https://www.youtube.com/playlist?list=PLesCEcYj003QaHBxk_6NC6JmQSCJZ_YjX)
+* [eXcript - Jogo da Velha](https://www.youtube.com/playlist?list=PLesCEcYj003QQirPgaBRBsF4bxH1HeJBP)
+
 ----------------------------------------------------------------------------------
 #Outras
 ----------------------------------------------------------------------------------
