@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Como efetuar ataque de Brute Force com Hydra e como se proteger](http://cienciahacker.com.br/ataque-bruteforce-com-hydra-parte-1/)  
+O método de ataque conhecido como bruteforce (ou “força bruta”) é um dos métodos de ataque mais usado e questionado em relação na sua eficiência nos dias de hoje, criando um certo preconceito nesse método. Abordaremos detalhes sobre o método de ataque, demonstrando o uso da ferramenta THC Hydra, que explicaremos como utilizar seus recursos e configurar seu ataque.
+
 ###[Beholder](http://cienciahacker.com.br/beholder/)  
 O Beholder é uma ferramenta feita em python3 usando o django desenvolvida pelo Pasknel Ribeiro com o intuito de levantar informações em redes sociais. O funcionamento da ferramenta é bem simples, você escolhe um local do nosso planeta, só não vale a Antártida porque o Happy Feet derrubou a net de lá, e dentro de um raio de X metros você pega os posts do twitter, instagram, flickr e foursquare daquele local.
 
