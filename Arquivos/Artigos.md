@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[\[Parte 2\] “Confiança não se compra, se conquista”](http://cienciahacker.com.br/confianca-nao-se-compra-se-conquista-parte-2/)   
+Dando continuação à [Parte 1] do artigo “Confiança não se compra, se conquista”, veremos Proteção Antirrastreamento (diferente do Não Me Rastreie), como criar Senha Mestra e entender um pouco sobre Conexões Seguras. Recomendados que você leia o primeiro artigo para entender alguns conceitos importantes e outras funcionalidades já demonstradas.
+
 ###[Como efetuar ataque de Brute Force com Hydra e como se proteger](http://cienciahacker.com.br/ataque-bruteforce-com-hydra-parte-1/)  
 O método de ataque conhecido como bruteforce (ou “força bruta”) é um dos métodos de ataque mais usado e questionado em relação na sua eficiência nos dias de hoje, criando um certo preconceito nesse método. Abordaremos detalhes sobre o método de ataque, demonstrando o uso da ferramenta THC Hydra, que explicaremos como utilizar seus recursos e configurar seu ataque.
 
@@ -25,7 +28,7 @@ Esse é um livro digital sobre como escrever um sistema operacional em C/C++ a p
 ###[O que é Ethical Hacking? Conhecendo a filosofia Hacker](http://cienciahacker.com.br/o-que-e-ethical-hacking-conhecendo-a-filosofia-hacker/)  
 O “Ethical Hacking” (conhecido como ética hacker) é muito confundido em sua definição atual, criando uma bifurcação entre profissionais de segurança da informação e a comunidade hacking. Em sua real definição o ethical hacking trata de valores morais e filosóficos empregado dentro da comunidade hacker, não se limitando apenas em na ética humana, mas em valores trazidos ao longo da cultura e do desenvolvimento tecnológico. 
 
-###[“Confiança não se compra, se conquista” parte 1](http://cienciahacker.com.br/confianca-nao-se-compra-se-conquista-parte-1/)  
+###[\[Parte 1\] “Confiança não se compra, se conquista”](http://cienciahacker.com.br/confianca-nao-se-compra-se-conquista-parte-1/)  
 Muitas vezes nós (estudantes da área de Tecnologia) e principalmente “usuários finais”, não nos preocupamos com a navegação propriamente dita, não sabemos a origem do nosso navegador, a empresa por trás dele, seus projetos e desenvolvimento. Isso pode ser um erro na hora de escolher seu navegador favorito, pois existem vários recursos ‘escondidos’ em alguns sites que são capazes de usar sua webcam e seu microfone, rastrear sua localização, enviar dados da sua navegação, por exemplo. Em seguida vou apresentar algumas das ferramentas e funcionalidades específicas do Firefox para você que se preocupa com sua privacidade.
 ###[Android Hacking: Explorando redes WiFi com zANTI](http://cienciahacker.com.br/android-hacking-explorando-redes-wifi-com-zanti/)  
 Todos nós estamos acostumados a usar ferramentas sofisticadas para pegar logins e senhas em redes WiFi que só poderiam ser usadas em computadores potentes e com sistemas feitos para isso. E se a partir de um simples celular você tivesse acesso a ferramentas tão poderosas quanto? Isso é possível. E vamos aprender a usar uma delas agora.
