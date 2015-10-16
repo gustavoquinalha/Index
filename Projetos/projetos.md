@@ -34,3 +34,9 @@ Repositório: https://github.com/HackerOrientado/BypassCF
 *Script feito em Shell Script que automatiza a instalação e configuração do WordPress em sistemas GNU/Linux*
 
 Repositório: https://github.com/fnk0c/wp-installer
+
+## Hash Identifier
+
+*Script feito em PHP para identificação de hashes
+
+Ferramenta: http://cienciahacker.com.br/tools/hash.php
