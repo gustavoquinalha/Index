@@ -7,30 +7,30 @@
 * [**Site**](http://cienciahacker.com.br)
 * [**Página Facebook**](https://fb.com/cienciahacker)
 * [**Grupo Facebook**](https://fb.com/groups/cienciahacker)
-* [**Canal Youtube**](http://goo.gl/gn0or1)
+* [**Canal Youtube**](https://www.youtube.com/user/cienciahacker)
 * [**Twitter**](https://twitter.com/cienciahacker)
 * [**IRC**](http://cienciahacker.com.br/irc)
 
 ##### Materiais
 
-* [**Apostilas**](https://github.com/cienciahacker/index/blob/master/Arquivos/Apostilas.md)
-* [**Artigos**](https://github.com/cienciahacker/index/blob/master/Arquivos/Artigos.md)
-* [**Biblioteca Hacker**](https://github.com/cienciahacker/index/blob/master/Arquivos/Biblioteca.md)
-* [**Compilado Programação**](https://github.com/cienciahacker/index/blob/master/Arquivos/Programação.md)
-* [**F.A.Q.**](http://goo.gl/gUzSa0)
-* [**Projetos de Membros**](https://github.com/cienciahacker/index/blob/master/Projetos/projetos.md)
-* [**Regras**](http://goo.gl/7n9CeV)
-* [**Vídeos**](https://github.com/cienciahacker/index/blob/master/Arquivos/Videos.md)
+* [**Apostilas**](Arquivos/Apostilas.md)
+* [**Artigos**](Arquivos/Artigos.md)
+* [**Biblioteca Hacker**](Arquivos/Biblioteca.md)
+* [**Compilado Programação**](Arquivos/Programação.md)
+* [**F.A.Q.**](Arquivos/FAQ.md)
+* [**Projetos de Membros**](Projetos/projetos.md)
+* [**Regras**](Arquivos/Regras.md)
+* [**Vídeos**](Arquivos/Videos.md)
 
 ##### Notícias sobre o mundo da tecnologia
 
-* [**Filmes Hackers**](https://github.com/cienciahacker/index/blob/master/Arquivos/Filmes.md)
-* [**Informações**](https://github.com/cienciahacker/index/blob/master/Arquivos/Informações.md)
+* [**Filmes Hackers**](Arquivos/Filmes.md)
+* [**Informações**](Arquivos/Informações.md)
 
 ##### Teste seu conhecimento
 
-* [**Sites para testes**](https://github.com/cienciahacker/index/blob/master/Arquivos/vuln_sites.md)
-* [**Wargames**](https://github.com/cienciahacker/index/blob/master/Arquivos/wargames.md)  
+* [**Sites para testes**](Arquivos/vuln_sites.md)
+* [**Wargames**](Arquivos/wargames.md)  
 
 ##### Licença
 
