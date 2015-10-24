@@ -2,13 +2,21 @@
 **OBS: Os links 'pt-BR' são referentes as suas páginas no site AdoroCinema.   
  Já os links 'en-EN' são referentes as suas páginas no site iMDb.**  
 
- Última atualização feita por **Methz:** 21/07/2015 - 22:45.  
-***
-
 #Indíce
 
+* [Animes](#animes)
 * [Filmes](#filmes)
-* [Séries](#séries)
+* [PodCasts](#podcasts)
+* [Séries](#series)
+
+# Animes
+
+### Battle Programmer Shirase [2003]
+#### [Trailer](https://www.youtube.com/watch?v=6WxJECOFg8w)
+> **Sinopse**
+Se passa em torno do programador freelancer Akira Shirase. Bastante talentoso e um tanto quanto misterioso. É contratado por muitas pessoas diferentes para alguns serviços para empresas ou não. É montado sob o esteriótipo de um rapaz da computação: tímido, quieto, mora só...
+[en-EN](http://www.imdb.com/title/tt1587391/?ref_=fn_al_tt_1)
+- - -
 
 #Filmes  
 
@@ -183,7 +191,17 @@ Um jovem (Matthew Broderick) aficcionado por informática conecta seu micro acid
 [en-EN](http://www.imdb.com/title/tt0086567/)
 - - -
 
-#Séries  
+# PodCasts
+
+* [Direito Digital](http://josemilagre.com.br/blog/podcast/)
+* [Hack'n'Cast](http://mindbending.org/pt/category/hack-n-cast)
+* [I Shot The Sheriff](http://www.naopod.com.br/)
+* [OpenCast](http://tecnologiaaberta.com.br/category/opencast/)
+* [Security Cast](https://www.youtube.com/user/securitycast)
+* [Segurança Legal](http://www.segurancalegal.com/)
+* [Stay Safe](http://www.staysafepodcast.com.br/)
+
+# Series  
 
 ###Mr.Robot [2015] [Em andamento]  
 ####[Trailer](https://www.youtube.com/watch?v=U94litUpZuc)  

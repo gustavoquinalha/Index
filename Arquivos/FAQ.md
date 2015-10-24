@@ -132,7 +132,7 @@ R: A importância de camuflar o MAC Address é para não rastrear sua placa de r
 ------------------------------------------------------------------------------
 ##### 2.10 - Duvidas sobre Deep Web e como navegar  
  
-*[Leia a apostila](https://docs.google.com/document/d/1wZXvpL5EEDKiznAvHrMACFE7SM14t0SsX-cUlZZow2Y/edit)*
+*[Leia a apostila](FAQ_DeepWeb.md)*
  
 ------------------------------------------------------------------------------
 ##### 2.11 - Programação. Como começar?  
@@ -141,7 +141,7 @@ R: Caso esteja em dúvida sobre qual linguagem escolher, olhe alguns códigos de
 
 Feito isso, vá até o link a seguir e verifique os sites que possuem material sobre programação da linguagem escolhida por você.  
  
-*[Compilado programação](http://pastebin.com/6UWaP7zN)*
+*[Compilado programação](Programação.md)*
  
 ------------------------------------------------------------------------------
 ##### 2.12 - Preciso do Kali para poder realizar testes de penetração?  
