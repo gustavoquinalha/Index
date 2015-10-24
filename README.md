@@ -25,7 +25,7 @@
 
 ##### Notícias sobre o mundo da tecnologia
 
-* [**Filmes Hackers**](Arquivos/Filmes.md)
+* [**Entretenimento**](Arquivos/Entretenimento.md)
 * [**Informações**](Arquivos/Informações.md)
 
 ##### Teste seu conhecimento
