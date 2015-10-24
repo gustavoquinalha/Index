@@ -18,6 +18,7 @@
 * [**Biblioteca Hacker**](Arquivos/Biblioteca.md)
 * [**Compilado Programação**](Arquivos/Programação.md)
 * [**F.A.Q.**](Arquivos/FAQ.md)
+* [**F.A.Q. DeepWeb**](Arquivos/FAQ_DeepWeb.md)
 * [**Projetos de Membros**](Projetos/projetos.md)
 * [**Regras**](Arquivos/Regras.md)
 * [**Vídeos**](Arquivos/Videos.md)
