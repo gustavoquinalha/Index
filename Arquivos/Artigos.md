@@ -1,6 +1,15 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Se Precavendo Contra Roubo de Celular](http://cienciahacker.com.br/se-precavendo-contra-roubo-de-celular/)  
+Muitas de nossas informações estão em nossos smartphones, logo é bom ter planos para caso ele fuja de sua mão, seja por perda, furto ou roubo. Portanto, é bom pensarmos nisso e vamos lá!  
+
+###[\[Apache\] Rodar scripts CGI](http://cienciahacker.com.br/apache-rodar-scripts-cgi/)  
+Para utilizarmos algumas linguagens, como o Perl e o Python na web, precisamos configurar o CGI, que permite a junção entre os dois “lados da moeda”.  
+
+###[Lockpicking – A arte de abrir fechaduras](http://cienciahacker.com.br/lockpicking-a-arte-de-abrir-fechaduras/)  
+Muitos já viram em filmes hollywoodianos pessoas que abrem fechaduras de carros, casas, cofres e cadeados, e sim, é realmente possível fazer isso, essa técnica é chamada de Lockpicking. Iremos abordar neste artigo conceitos e detalhes dessa técnica, lembrando que o mal uso dela é considerado crime como o Artigo 24 prevê na lei.  
+
 ###[\[Linux\] Montando mídias e partições](http://cienciahacker.com.br/linux-montando-midias-e-particoes/)  
 Muitos usuários pensam que montar uma mídia no Linux por meio de linha de comando é uma tarefa complexa que exige um bom conhecimento. Desmistificaremos isso neste post.  
 
