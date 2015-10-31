@@ -191,6 +191,15 @@ Um jovem (Matthew Broderick) aficcionado por informática conecta seu micro acid
 [en-EN](http://www.imdb.com/title/tt0086567/)
 - - -
 
+###Ex Machina [2015]  
+####[Trailer](https://www.youtube.com/watch?v=XYGzRB4Pnq8)
+
+>**Sinopse:**  
+Caleb (Domhnall Gleeson), um jovem programador de computadores, ganha um concurso na empresa onde trabalha para passar uma semana na casa de Nathan Bateman (Oscar Isaac), o brilhante e recluso presidente da companhia. Após sua chegada, Caleb percebe que foi o escolhido para participar de um teste com a última criação de Nathan: Ava (Alicia Vikander), uma robô com inteligência artificial. Mas essa criatura se apresenta sofisticada e sedutora de uma forma que inguém poderia prever, complicando a situação ao ponto que Caleb não sabe mais em quem confiar. 
+[pt-BR](http://www.adorocinema.com/filmes/filme-219931/) |
+[en-EN](http://www.imdb.com/title/tt0470752/)
+- - -
+
 # PodCasts
 
 * [Direito Digital](http://josemilagre.com.br/blog/podcast/)
