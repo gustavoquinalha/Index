@@ -252,5 +252,5 @@ Betas é uma comédia que teve apenas uma temporada produzida. Criada por Evan E
 
 >**Sinopse**  
 Ambientada após os eventos de O Exterminador do Futuro 2: O Julgamento Final (1991). Sarah e John, querendo respostas sobre a volta dos exterminadores em suas vidas, decidem parar de fugir e tentam deter o criador da Skynet. Ao mesmo tempo, Sarah está sendo procurada pelo Agente James Ellison, que está convicto de que ela está louca, e precisam evitar que a Skynet seja criada no futuro.
-[pt-BR](http://www.adorocinema.com/series/serie-3242/)
+[pt-BR](http://www.adorocinema.com/series/serie-3242/) | 
 [en-EN](http://www.imdb.com/title/tt0851851/)
