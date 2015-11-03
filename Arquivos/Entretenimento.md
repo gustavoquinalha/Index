@@ -245,3 +245,12 @@ Silicon Valley é um sitcom dos Estados Unidos, que conta a história de seis pr
 >**Sinopse:**  
 Betas é uma comédia que teve apenas uma temporada produzida. Criada por Evan Endicott e Josh Stoddard, a série é situada no Vale do Silício, onde estão diversas empresas do ramo de novas tecnologias. A história acompanha quatro gênios dos computadores que se esforçam por criar um novo app para celulares que poderá torná-los famosos.  
 [en-EN](http://www.imdb.com/title/tt3012184/)
+- - -
+
+###Terminator: The Sarah Connor Chronicles [2008-2009] [Finalizada]
+####[Trailer](https://www.youtube.com/watch?v=i0fXTDI1egY)  
+
+>**Sinopse**  
+Ambientada após os eventos de O Exterminador do Futuro 2: O Julgamento Final (1991). Sarah e John, querendo respostas sobre a volta dos exterminadores em suas vidas, decidem parar de fugir e tentam deter o criador da Skynet. Ao mesmo tempo, Sarah está sendo procurada pelo Agente James Ellison, que está convicto de que ela está louca, e precisam evitar que a Skynet seja criada no futuro.
+[pt-BR](http://www.adorocinema.com/series/serie-3242/) | 
+[en-EN](http://www.imdb.com/title/tt0851851/)
