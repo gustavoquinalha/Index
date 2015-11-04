@@ -52,3 +52,9 @@ Repositório: https://github.com/HackerOrientado/CannonBytes
 *Virgulino é um simples experimento de estenografia, fazendo com que o texto seja criptografado antes de ser escondido.*
 
 Repositório: https://github.com/lampiaosec/virgulino
+
+## Jack the Stripper
+
+*Jack The Stripper é uma ferramenta para ataques automatizados de MITM (man in the middle) e DNS Poisoning.*
+
+Repositório: https://github.com/lampiaosec/jackthestripper
