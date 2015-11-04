@@ -22,7 +22,7 @@ Ferramenta: http://cienciahacker.com.br/tools/hash.php
 *Este programa foca em automatizar o download, resolução de dependências e instalação de programas com foco em análise de vulnerabilidades e pentest.*  
 
 Repositório: https://github.com/fnk0c/organon  
-Vídeo: https://www.youtube.com/watch?v=lpPauu2uY4E  
+Vídeo: https://www.youtube.com/watch?v=lpPauu2uY4E
 
 ## Perl Brasil
 
@@ -41,4 +41,14 @@ Repositório: https://github.com/HeitorG/Perl-Brasil
 
 Repositório: https://github.com/fnk0c/wp-installer
 
+## CannonBytes
 
+*Script para ataque Denial of Service (DOS)*
+
+Repositório: https://github.com/HackerOrientado/CannonBytes
+
+## Virgulino
+
+*Virgulino é um simples experimento de estenografia, fazendo com que o texto seja criptografado antes de ser escondido.*
+
+Repositório: https://github.com/lampiaosec/virgulino
