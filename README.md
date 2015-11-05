@@ -1,8 +1,8 @@
-## Sejam Bem Vindos ao Repositório do Ciência Hacker!
+### Ciência Hacker
 
-### Nessa página inicial você terá acesso aos atalhos para todos os conteúdos contidos, esperamos que possa ser de grande ajuda. Volte sempre!
+#### Nessa página inicial você terá acesso aos atalhos para todos os conteúdos contidos.
 
-#### [Redes Sociais]
+##### Redes Sociais
 
 * [**Site**](http://cienciahacker.com.br)
 * [**Página Facebook**](https://fb.com/cienciahacker)
@@ -10,13 +10,13 @@
 * [**Canal Youtube**](https://www.youtube.com/user/cienciahacker)
 * [**Twitter**](https://twitter.com/cienciahacker)
 
-#### [FAQ & Regras]
+##### FAQ & Regras
 
 * [**F.A.Q.**](Arquivos/FAQ.md)
 * [**F.A.Q. DeepWeb**](Arquivos/FAQ_DeepWeb.md)
 * [**Regras**](Arquivos/Regras.md)
 
-#### [Materiais]
+##### Materiais
 
 * [**Apostilas do Grupo**](Arquivos/Apostilas.md)
 * [**Nossos Artigos**](Arquivos/Artigos.md)
@@ -24,23 +24,23 @@
 * [**Aprenda Programação**](Arquivos/Programação.md)
 * [**Nossos Vídeos**](Arquivos/Videos.md)
 
-#### [Ferramentas]
+##### Ferramentas
 
 * [**IRC**](http://cienciahacker.com.br/irc)
 * [**Hash Finder**](http://cienciahacker.com.br/tools/hash.php)
 
-#### [Outros]
+##### Outros
 
 * [**Entretenimento**](Arquivos/Entretenimento.md)
 * [**Mantenha-se Informado**](Arquivos/Informações.md)
 
-#### [Teste seu conhecimento]
+##### Teste seu conhecimento
 
 * [**Sites Para Testes**](Arquivos/vuln_sites.md)
 * [**Wargames**](Arquivos/wargames.md)  
 
 
-#### [Licença]
+##### Licença
 
     Copyright (C) 2015  Ciência Hacker
 
