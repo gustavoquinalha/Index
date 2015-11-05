@@ -1,39 +1,46 @@
-# Ciência Hacker
+## Sejam Bem Vindos ao Repositório do Ciência Hacker!
 
-***Neste arquivo vocês encontrarão links referentes ao F.A.Q, regras, compilado de programação, dentre outros materiais interessantes.***
+### Nessa página inicial você terá acesso aos atalhos para todos os conteúdos contidos, esperamos que possa ser de grande ajuda. Volte sempre!
 
-##### Social
+#### [Redes Sociais]
 
 * [**Site**](http://cienciahacker.com.br)
 * [**Página Facebook**](https://fb.com/cienciahacker)
 * [**Grupo Facebook**](https://fb.com/groups/cienciahacker)
 * [**Canal Youtube**](https://www.youtube.com/user/cienciahacker)
 * [**Twitter**](https://twitter.com/cienciahacker)
-* [**IRC**](http://cienciahacker.com.br/irc)
 
-##### Materiais
+#### [FAQ & Regras]
 
-* [**Apostilas**](Arquivos/Apostilas.md)
-* [**Artigos**](Arquivos/Artigos.md)
-* [**Biblioteca Hacker**](Arquivos/Biblioteca.md)
-* [**Compilado Programação**](Arquivos/Programação.md)
 * [**F.A.Q.**](Arquivos/FAQ.md)
 * [**F.A.Q. DeepWeb**](Arquivos/FAQ_DeepWeb.md)
-* [**Projetos de Membros**](Projetos/projetos.md)
 * [**Regras**](Arquivos/Regras.md)
-* [**Vídeos**](Arquivos/Videos.md)
 
-##### Notícias sobre o mundo da tecnologia
+#### Materiais
+
+* [**Apostilas do Grupo**](Arquivos/Apostilas.md)
+* [**Nossos Artigos**](Arquivos/Artigos.md)
+* [**Biblioteca Hacker**](Arquivos/Biblioteca.md)
+* [**Aprenda Programação**](Arquivos/Programação.md)
+* [**Nossos Vídeos**](Arquivos/Videos.md)
+
+#### Ferramentas
+
+* [**IRC**](http://cienciahacker.com.br/irc)
+* [**Hash Finder**](http://cienciahacker.com.br/tools/hash.php)
+
+#### Outros
 
 * [**Entretenimento**](Arquivos/Entretenimento.md)
-* [**Informações**](Arquivos/Informações.md)
+* [**Mantenha-se Informado**](Arquivos/Informações.md)
 
-##### Teste seu conhecimento
+#### Teste seu conhecimento
 
-* [**Sites para testes**](Arquivos/vuln_sites.md)
+* [**Sites Para Testes**](Arquivos/vuln_sites.md)
 * [**Wargames**](Arquivos/wargames.md)  
 
-##### Licença
+
+#### Licença
 
     Copyright (C) 2015  Ciência Hacker
 
