@@ -2,7 +2,7 @@
 **OBS: Os links 'pt-BR' são referentes as suas páginas no site AdoroCinema.   
  Já os links 'en-EN' são referentes as suas páginas no site iMDb.**  
 
-#Indíce
+#Índice
 
 * [Animes](#animes)
 * [Filmes](#filmes)
