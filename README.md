@@ -16,7 +16,7 @@
 * [**F.A.Q. DeepWeb**](Arquivos/FAQ_DeepWeb.md)
 * [**Regras**](Arquivos/Regras.md)
 
-#### Materiais
+#### [Materiais]
 
 * [**Apostilas do Grupo**](Arquivos/Apostilas.md)
 * [**Nossos Artigos**](Arquivos/Artigos.md)
@@ -24,23 +24,23 @@
 * [**Aprenda Programação**](Arquivos/Programação.md)
 * [**Nossos Vídeos**](Arquivos/Videos.md)
 
-#### Ferramentas
+#### [Ferramentas]
 
 * [**IRC**](http://cienciahacker.com.br/irc)
 * [**Hash Finder**](http://cienciahacker.com.br/tools/hash.php)
 
-#### Outros
+#### [Outros]
 
 * [**Entretenimento**](Arquivos/Entretenimento.md)
 * [**Mantenha-se Informado**](Arquivos/Informações.md)
 
-#### Teste seu conhecimento
+#### [Teste seu conhecimento]
 
 * [**Sites Para Testes**](Arquivos/vuln_sites.md)
 * [**Wargames**](Arquivos/wargames.md)  
 
 
-#### Licença
+#### [Licença]
 
     Copyright (C) 2015  Ciência Hacker
 
