@@ -1,6 +1,32 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Fazendo varredura e levantando vulnerabilidades com Nikto](http://cienciahacker.com.br/fazendo-varredura-e-levantando-vulnerabilidades-com-nikto/)  
+O Nikto é uma ferramenta em Perl desenvolvida por Chris Solo e David Lodge, a qual foi escrita para validação de vulnerabilidade suportando diversas plataformas, entre elas Windows, Linux e UNIX. Ao contrário de alguns scanners de segurança, o Nikto foi projetado para operar em um modo furtivo, mesmo assim ele causa um ruído como os demais scanners.  
+
+###[Lista de Dorks – Joomla](http://cienciahacker.com.br/lista-de-dorks-joomla/)  
+Lista de Dorks utilizadas para Joomla  
+
+###[GnuPG](http://cienciahacker.com.br/gnupg/)  
+Gnu Privacy Guard [0] (ou GnuPG, ou mais reduzido ainda, GPG) é uma implementação do protocolo de cifragem de mensagens OpenPGP.  
+
+Em uma vídeo aula [1], disponibilizada no canal Ciência Hacker, foi mostrado o uso do GPG. Aqui vai um artigo para introduzir o conceito e utilização dele ao leitor.  
+
+###[Lista de Dorks – Câmeras de Vídeo](http://cienciahacker.com.br/lista-de-dork-cameras-de-video/)  
+Lista de Dorks utilizadas para Câmeras de Vídeo  
+
+###[Lista de Dorks – XSS](http://cienciahacker.com.br/lista-de-dork-xss/)  
+Lista de Dorks utilizadas para XSS  
+
+###[Lista de Dorks – LFI](http://cienciahacker.com.br/lista-de-dork-lfi/)  
+Lista de Dorks utilizadas para LFI  
+
+###[Lista de Dorks – RFI](http://cienciahacker.com.br/lista-de-dork-rfi/)  
+Lista de Dorks utilizadas para RFI  
+
+###[Lista de Dorks – SQLi](http://cienciahacker.com.br/lista-de-dork-sqli/)  
+Lista de Dorks utilizadas para SQLi  
+
 ###[Se Precavendo Contra Roubo de Celular](http://cienciahacker.com.br/se-precavendo-contra-roubo-de-celular/)  
 Muitas de nossas informações estão em nossos smartphones, logo é bom ter planos para caso ele fuja de sua mão, seja por perda, furto ou roubo. Portanto, é bom pensarmos nisso e vamos lá!  
 
