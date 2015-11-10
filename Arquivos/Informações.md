@@ -1,8 +1,8 @@
 ##Alguns sites para acompanhar notícias, dicas e tutoriais.  
 
-#####OBS: Essa lista é apenas uma indicação de conteúdo, em nenhum momento afirmamos terem os melhores conteúdos, muito menos que todos contém informações verídicas.  
+#####OBS: Essa lista é apenas uma indicação de conteúdo, em nenhum momento afirmamos serem os melhores, muito menos que todos contém informações verídicas.  
 
-Última atualização feita por **Methz** - 18/08/2015 - 15:50
+Última atualização feita por **Methz** - 10/11/2015 - 02:15
 - - -
 #Índice
 
@@ -61,15 +61,20 @@
 * [**Hacker News**](https://news.ycombinator.com/news) **(Hacking)**
 * [**LWN.net**](http://lwn.net/) **(Linux)**
 * [**Phoronix**](http://www.phoronix.com/) **(Linux)**
-* [**Changelog**](https://changelog.com/) **(Programação)**
-* [**Medium**](https://medium.com/) **(Programação)**
+* [**Changelog**](https://changelog.com/) **(Programação)**  
 
 - - -
 #Podcast
 
 >* [**Castálio**](http://castalio.info/) **(Geral/Programação)** **(pt-BR)**  
 * [**Grok**](http://www.grokpodcast.com/) **(Programação)** **(pt-BR)**  
-* [**Turing Incomplete**](http://turing.cool/) **(Programação)** **(en-EN)**  
+* [**Direito Digital**](http://josemilagre.com.br/blog/podcast/) **(Direito Digital)** **(pt-BR)**
+* [**Hack'n'Cast**](http://hackncast.org/) **(Geral/Programação/Hacking)** **(pt-BR)**
+* [**I Shot The Sheriff**](http://www.naopod.com.br/) **(Hacking)** **(pt-BR)**
+* [**OpenCast**](http://tecnologiaaberta.com.br/category/opencast/) **(Open Source/Linux)** **(pt-BR)**
+* [**Security Cast**](https://www.youtube.com/user/securitycast)  **(Geral/Direito Digital/Hacking)** **(pt-BR)**
+* [**Segurança Legal**](http://www.segurancalegal.com/) **(Geral/Direito Digital/Hacking)** **(pt-BR)**
+* [**Stay Safe**](http://www.staysafepodcast.com.br/) **(Geral/Hacking)** **(pt-BR)**
+* [**Turing Incomplete**](http://turing.cool/) **(Programação)** **(en-EN)** 
 * [**Hanselminutes**](http://hanselminutes.com/) **(Programação)**  **(en-EN)**  
-* [**Hacker Public Radio**](http://hackerpublicradio.org/) **(Hacking/Dicas)** **(en-EN)**  
-
+* [**Hacker Public Radio**](http://hackerpublicradio.org/) **(Hacking/Dicas)** **(en-EN)** 
