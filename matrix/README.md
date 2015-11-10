@@ -3,7 +3,7 @@
 
 ## Assista 
 
-* [Animes]()
+* [Animes](arquivos/animes.md)
 * [Documentários]()
 * [Filmes]()
 * [Séries]()
