@@ -22,7 +22,7 @@
 
 ## Aprenda
 
-* [Biblioteca](arquivos/biblioteca.md)  
+* [Biblioteca Hacker](arquivos/biblioteca.md)  
 * [Aprenda Programação](arquivos/programação.md)  
 
 ## Se Informe
