@@ -2,7 +2,7 @@
 
 #### Nessa página inicial você terá acesso aos atalhos para todos os conteúdos contidos.
 
-##### Redes Sociais
+>##### Redes Sociais
 
 * [**Site**](http://cienciahacker.com.br)
 * [**Página Facebook**](https://fb.com/cienciahacker)
@@ -10,35 +10,18 @@
 * [**Canal Youtube**](https://www.youtube.com/user/cienciahacker)
 * [**Twitter**](https://twitter.com/cienciahacker)
 
-##### FAQ & Regras
+>##### Ciência Hacker
 
-* [**F.A.Q.**](Arquivos/FAQ.md)
-* [**F.A.Q. DeepWeb**](Arquivos/FAQ_DeepWeb.md)
-* [**Regras**](Arquivos/Regras.md)
+* [**Apostilas do Grupo**](cienciaHacker/apostilas.md)
+* [**Nossos Artigos**](cienciaHacker/artigos.md)
+* [**Nossos Vídeos**](cienciaHacker/vídeos.md)
+* [**Regras**](cienciaHacker/regras.md)
 
-##### Materiais
+>##### Entre Na Matrix
 
-* [**Apostilas do Grupo**](Arquivos/Apostilas.md)
-* [**Nossos Artigos**](Arquivos/Artigos.md)
-* [**Biblioteca Hacker**](Arquivos/Biblioteca.md)
-* [**Aprenda Programação**](Arquivos/Programação.md)
-* [**Nossos Vídeos**](Arquivos/Videos.md)
-
-##### Ferramentas
-
-* [**IRC**](http://cienciahacker.com.br/irc)
-* [**Hash Finder**](http://cienciahacker.com.br/tools/hash.php)
-
-##### Outros
-
-* [**Entretenimento**](Arquivos/Entretenimento.md)
-* [**Mantenha-se Informado**](Arquivos/Informações.md)
-
-##### Teste seu conhecimento
-
-* [**Sites Para Testes**](Arquivos/vuln_sites.md)
-* [**Wargames**](Arquivos/wargames.md)  
-
+* [Biblioteca Hacker](matrix/arquivos/biblioteca.md)  
+* [Aprenda Programação](matrix/arquivos/programação.md) 
+* [Acessar Matrix](matrix/)   
 
 ##### Licença
 
