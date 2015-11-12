@@ -4,15 +4,14 @@
 ## Assista 
 
 * [Animes](arquivos/animes.md)  
-* [Documentários]()  
+* [Documentários](arquivos/documentários.md)  
 * [Filmes](arquivos/filmes.md)  
 * [Séries](arquivos/séries.md)  
 
 ## Leia 
 
 * [FAQ Ciência Hacker](arquivos/faq.md)  
-* [FAQ Deep Web](arquivos/faq-deepweb.md)  
-* [Livros]()  
+* [FAQ Deep Web](arquivos/faq-deepweb.md)   
 * [Regras](../cienciaHacker/regras.md)  
 
 ## Use 
@@ -32,4 +31,4 @@
 
 ## Outros  
 
-* [Wallpapers](https://github.com/cienciahacker/index/tree/master/matrix/wallpapers/)
+* [Wallpapers](wallpapers/)
