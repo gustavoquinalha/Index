@@ -12,10 +12,10 @@
 
 ##### Ciência Hacker
 
->* [**Apostilas do Grupo**](cienciaHacker/apostilas.md)
-* [**Nossos Artigos**](cienciaHacker/artigos.md)
-* [**Nossos Vídeos**](cienciaHacker/vídeos.md)
-* [**Regras**](cienciaHacker/regras.md)
+>* [**Apostilas do Grupo**](cienciaHacker/arquivos/apostilas.md)
+* [**Nossos Artigos**](cienciaHacker/arquivos/artigos.md)
+* [**Nossos Vídeos**](cienciaHacker/arquivos/vídeos.md)
+* [**Regras**](cienciaHacker/arquivos/regras.md)
 
 ##### Entre Na Matrix
 
