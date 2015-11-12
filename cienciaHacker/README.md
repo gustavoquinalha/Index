@@ -2,13 +2,13 @@
 ### Todos materiais criados por nós e por terceiros.    
 
 ## [Apostilas do Grupo](apositlas.md)  
-Apostilas disponibilizadas por nós e membros do grupo. 
+#Apostilas disponibilizadas por nós e membros do grupo. 
 
 ## [Nossos Artigos](artigos.md)  
-Todos os Artigos publicados.  
+#Todos os Artigos publicados.  
 
 ## [Nossos Vídeos](vídeos.md)  
-Todos os Vídeos produzidos.  
+#Todos os Vídeos produzidos.  
 
 ## [Regras](regras.md)  
-Regras para nosso convívio.
+#Regras para nosso convívio.
