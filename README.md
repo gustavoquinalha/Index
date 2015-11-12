@@ -2,26 +2,26 @@
 
 #### Nessa página inicial você terá acesso aos atalhos para todos os conteúdos contidos.
 
->##### Redes Sociais
+##### Redes Sociais
 
-* [**Site**](http://cienciahacker.com.br)
+>* [**Site**](http://cienciahacker.com.br)
 * [**Página Facebook**](https://fb.com/cienciahacker)
 * [**Grupo Facebook**](https://fb.com/groups/cienciahacker)
 * [**Canal Youtube**](https://www.youtube.com/user/cienciahacker)
 * [**Twitter**](https://twitter.com/cienciahacker)
 
->##### Ciência Hacker
+##### Ciência Hacker
 
-* [**Apostilas do Grupo**](cienciaHacker/apostilas.md)
+>* [**Apostilas do Grupo**](cienciaHacker/apostilas.md)
 * [**Nossos Artigos**](cienciaHacker/artigos.md)
 * [**Nossos Vídeos**](cienciaHacker/vídeos.md)
 * [**Regras**](cienciaHacker/regras.md)
 
->##### Entre Na Matrix
+##### Entre Na Matrix
 
-* [Biblioteca Hacker](matrix/arquivos/biblioteca.md)  
-* [Aprenda Programação](matrix/arquivos/programação.md) 
-* [Acessar Matrix](matrix/)   
+>* [**Biblioteca Hacker**](matrix/arquivos/biblioteca.md)  
+* [**Aprenda Programação**](matrix/arquivos/programação.md) 
+* [**Acessar Matrix**](matrix/)   
 
 ##### Licença
 
