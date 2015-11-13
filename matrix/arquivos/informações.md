@@ -29,6 +29,7 @@
 * [**InfoWester**](http://www.infowester.com/)
 * [**Blog Clavis**](http://www.blog.clavis.com.br/)
 * [**O Analista**](http://www.oanalista.com.br/)
+* [**Nanoshots**](http://www.nanoshots.com.br/)
 
 - - -
 #Tecnologia  
