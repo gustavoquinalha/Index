@@ -1,5 +1,6 @@
 ## Material upado por membros do [grupo](https://fb.com/groups/cienciahacker)
 
+[10 Things Security Experts Wish End Users Knew](https://www.facebook.com/groups/cienciahacker/1161636380517913/)  
 [300 Ideias para Programar](https://www.facebook.com/groups/cienciahacker/1046062562075296/)  
 [4Linux Pen Test Técnicas de Intrusão em Redes Corporativas](https://www.facebook.com/groups/cienciahacker/1034992193182333/)  
 [A descoberta e a análise de vínculos na complexidade da investigação criminal moderna](https://www.facebook.com/groups/cienciahacker/1043442499003969/)  
@@ -63,6 +64,7 @@
 [Teste de Intrusão em Redes Corporativas](https://www.facebook.com/groups/cienciahacker/1060132220668330/)  
 [Teste de Invasao - Enumeração e Identificação](https://www.facebook.com/groups/cienciahacker/1032720946742791/)  
 [Teste de Invasão Web](https://www.facebook.com/groups/cienciahacker/1035006739847545/)  
+[The Database Hacker_s Handbook: Defending Database Servers](https://www.facebook.com/groups/cienciahacker/1161637700517781/)  
 [Todos os comandos básicos de A a Z - Kali](https://www.facebook.com/groups/cienciahacker/1157174660964085/)  
 [Ubuntu - Guia do Iniciante 2.0](https://www.facebook.com/groups/cienciahacker/1060128617335357/)  
 [Web Penetration Testing with Kali Linux](https://www.facebook.com/groups/cienciahacker/971390869542466/)   
