@@ -15,7 +15,6 @@
 >* [**Apostilas do Grupo**](cienciaHacker/arquivos/apostilas.md)
 * [**Nossos Artigos**](cienciaHacker/arquivos/artigos.md)
 * [**Nossos Vídeos**](cienciaHacker/arquivos/vídeos.md)
-* [**Regras**](cienciaHacker/arquivos/regras.md)
 
 #### Entre Na Matrix
 
