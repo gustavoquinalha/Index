@@ -42,6 +42,8 @@
 * [**Canaltech**](http://canaltech.com.br/)  
 * [**Olhar Digital**](http://olhardigital.uol.com.br/)  
 * [**Profissionais TI**](http://www.profissionaisti.com.br/)  
+* [**Profissionais TI**](http://suporteninja.com/)  
+
 
 - - -
 #Programação  
