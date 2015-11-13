@@ -6,5 +6,3 @@
 * #### [Nossos Artigos](arquivos/artigos.md)  
  
 * #### [Nossos Vídeos](arquivos/vídeos.md)  
- 
-* #### [Regras](arquivos/regras.md)  
