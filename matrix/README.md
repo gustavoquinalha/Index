@@ -12,7 +12,7 @@
 
 * [FAQ Ciência Hacker](arquivos/faq.md)  
 * [FAQ Deep Web](arquivos/faq-deepweb.md)   
-* [Regras](../cienciaHacker/regras.md)  
+* [Regras](../cienciaHacker/arquivos/regras.md)  
 
 ## Use 
 

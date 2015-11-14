@@ -15,12 +15,13 @@
 >* [**Apostilas do Grupo**](cienciaHacker/arquivos/apostilas.md)
 * [**Nossos Artigos**](cienciaHacker/arquivos/artigos.md)
 * [**Nossos Vídeos**](cienciaHacker/arquivos/vídeos.md)
+* [**Contribua**](cienciaHacker/arquivos/contribua.md)
 
 #### Entre Na Matrix
 
->* [**Biblioteca Hacker**](matrix/arquivos/biblioteca.md)  
+>* [**Acessar Matrix**](matrix/)   
+* [**Biblioteca Hacker**](matrix/arquivos/biblioteca.md)  
 * [**Aprenda Programação**](matrix/arquivos/programação.md) 
-* [**Acessar Matrix**](matrix/)   
 
 #### Licença
 

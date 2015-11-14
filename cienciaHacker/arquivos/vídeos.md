@@ -14,7 +14,7 @@ Artigo: http://cienciahacker.com.br/no-tech-h/
 
 - - -
 ####[Checando a Integridade em Transferências de Dados](https://www.youtube.com/watch?v=XjkEXpv37Nw)  
-Post: https://gjuniioor.wordpress.com/2015/
+Post: http://gjuniioor.github.io/blog/verificando-integridade-dados/
 
 Integridade dos dados é um dos 5 pilares da segurança da informação, através dela podemos garantir a confiabilidade, autenticidade, legalidade e disponibilidade. Veremos como checar a integridade de um arquivo através de hash's, verificando se o arquivo do donwload foi alterado de modo malicioso ou se é uma malware evitando que uma possível infecção.  
 
