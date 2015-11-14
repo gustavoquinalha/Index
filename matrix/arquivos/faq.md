@@ -34,22 +34,28 @@
 ## Perguntas frequentes
 ##### 2.01 - Sou iniciante neste mundo, por onde começar?
  
-R: Tudo depende de seu intuito uma vez que a palavra "hackear" é muito
-genérica. Hackear pode ir desde invasão à sites até modificação de kernels
-para funcionamento em arquiteturas diferentes das quais foram projetadas. Ache um objetivo e mantenha o foco.
+R: Para dominar o "hacking" (nada mais é que um especialista em uma determinada área) é necessário foco no conhecimento, a ansiedade e a pressa é o grande problema da maioria que começa, atrapalhando todo aprendizado. Os conhecimentos que abrange um hacker relaciona no conhecimento máximo nas diversas área da tecnologia, pois a partir disso é possível explorar as vulnerabilidades nos ambientes presentes. Destacamos os estudos em:
+
+Ethical Hacker: valores e conduta morais que o um "hacker" tem.
+
+Redes: conhecimento de protocolos, endereçamentos, estrutura e topologias de rede. 
+
+Sistemas operacionais: conhecimento máximo na maior quantidade de sistemas existentes como Linux(fundamental para mexer nas ferramentas) Windows e Mac.
+
+Website/web-service: ter entendimento das plataformar webs, que recursos são usados no ambiente como linguagens, aplicações, redirecionamentos de DNS, entre outras informações
+
+Tendo conhecimento nesses requisitos ficá fácil dominar qualquer conhecimento de técnicas de invasão. Lembre-se que o ethical hacking é o principal elemento de um "hacker" e jamais se esqueçam disso!
+
+Deixo link para quem quiser ler um guia interessante de como começar, abordando a mesma visão mas de forma mais contextualizada.
+
+https://linux.ime.usp.br/~rcaetano/docs/hacker-howto-pt.html
  
 - - -
 ##### 2.02 - Como invadir/derrubar um site?
  
-R: Não existe mistério. Para que você possa assumir o controle de um servidor ou serviço é necessário que o mesmo apresente algumas falha ou vulnerabilidade.  
- 
-Para descobrir estas vulnerabilidades você pode fazer uso de softwares ou
-testar por sí mesmo. Uma vez descoberta a(s) falha(s) é só explorar.  
- 
-Scanners de Vulnerabilidade: Acunetix, Vega, W3AF, Nessus, WPScan, Nmap...
- 
-Brinde: Servidores Apache até a versão 2.2.22 são vulneráveis a ataque DDoS
-na sétima camada. Utilize a ferramenta Slowloris.pl (google it)
+R: Umas das perguntas mais feita no nosso grupo e descartada devido a repetides dela. Para "derrubar ou invadir" qualquer alvo, necessita que você descubra alguma falha nele como exemplo fazer scanning no site/servidor procurando vulnerabilidade para explora-la, lembre que um site pode possuir falhas relacionado a sua aplicação (onde podemos explorar a falha derrubando o site com a ferramenta Slowloris), no banco de dados (invasão de site explorando a falha SQL injetcion), recursos e ferramentas do sistemas, como as falha encontradas em CMS (Joomla e Wordpress), entro outras milhares de formas.
+
+Para descobrir estas vulnerabilidades você pode fazer uso de softwares (scanners) ou testar por si mesmo, como exemplo das ferramentas Acunetix, Vega, W3AF, Nessus, WPScan, Nmap.
 
 *[VIDEO AULA](http://youtu.be/4oAmUnnSwJs?list=UUZPg5KlsbPsbxX3YQ_y_kRQ)*
 
@@ -156,7 +162,7 @@ Certamente seu propósito é hacking e, falando superficialmente, qualquer distr
  
 Falando de Kali e Parrot, para mim, eles não são muito diferentes, a diferença é questão de facilidade ou até vaidade.  
  
-Se Platão conhecesse linux, ele diria que a melhor distro está somente no campo das ideias (a distro ideal) e as que podemos usar são somente cópias imperfeitas e subjetivas da perfeita, logo não existe a melhor distro.  
+Se Platão conhecesse Linux, ele diria que a melhor distro está somente no campo das ideias (a distro ideal) e as que podemos usar são somente cópias imperfeitas e subjetivas da perfeita, logo não existe a melhor distro.  
 
 Se quiser ver uma lista de distribuições GNU/Linux e algumas informações sobre elas, fique a vontade para visitar o [Distro Watch](http://distrowatch.com/index.php?language=PT).
  
@@ -166,6 +172,7 @@ Se quiser ver uma lista de distribuições GNU/Linux e algumas informações sob
 
 ##### Wordlist
 
+- http://cienciahacker.com.br/downloads/wordlists/
 - http://hashkiller.co.uk/downloads.aspx  
 - https://downloads.skullsecurity.org/passwords/  
 
