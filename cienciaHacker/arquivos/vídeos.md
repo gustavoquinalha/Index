@@ -3,6 +3,9 @@
 
 ###YouTube
 
+####[Auditando e Invadindo Servidores SSH com Hydra e Metasploit](https://www.youtube.com/watch?v=y3c3DhqPmdE)  
+Simples roteiro de teste de intrusão em servidores Linux utilizando o serviço SSH
+
 ####[NO TECH HACKING - Lockpicking (Abrindo cadeados)](https://www.youtube.com/watch?v=Kzr6PJpngTI)  
 Advertência:  
 
