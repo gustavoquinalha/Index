@@ -10,9 +10,9 @@
 
 ## Leia 
 
+* [Contribua](../cienciaHacker/arquivos/contribua.md)  
 * [FAQ Ciência Hacker](arquivos/faq.md)  
 * [FAQ Deep Web](arquivos/faq-deepweb.md)   
-* [Regras](../cienciaHacker/arquivos/regras.md)  
 
 ## Use 
 
