@@ -57,7 +57,7 @@ Muitos usuários pensam que montar uma mídia no Linux por meio de linha de coma
 ###[\[Cálculo\] Conversão de bases numéricas – Binário x Decimal](http://cienciahacker.com.br/calculo-conversao-de-bases-numericas-binario-x-decimal/)
 Hoje trataremos de um assunto muito importante em toda a Informática: a conversão de bases numéricas. Neste post, aprenderemos a converter uma unidade em binário para decimal e vice-versa.  
 
-###[Passando por antivírus com shikata_ga_nai](Passando por antivírus com shikata_ga_nai)  
+###[Passando por antivírus com shikata_ga_nai](http://cienciahacker.com.br/passando-por-antivirus-com-shikata_ga_nai/)  
 Descarte a ideia de se sentir protegido apenas por ter um bom antivírus, após ver esta postagem você vai entender que qualquer antivírus pode ser burlado com certa facilidade.  
 
 ###[\[Parte 2\] “Confiança não se compra, se conquista”](http://cienciahacker.com.br/confianca-nao-se-compra-se-conquista-parte-2/)   
