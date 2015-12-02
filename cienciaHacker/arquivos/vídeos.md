@@ -3,6 +3,9 @@
 
 ###YouTube
 
+####[Configurando DNS dinâmico em servidor doméstico](https://www.youtube.com/watch?v=YHk9cphAngA)  
+Neste vídeo utilizaremos a aplicação ddclient em conjunto com o DNS Dinâmico do NO-IP para realizar a configuração de um servidor web caseiro
+
 ####[Auditando e Invadindo Servidores SSH com Hydra e Metasploit](https://www.youtube.com/watch?v=y3c3DhqPmdE)  
 Simples roteiro de teste de intrusão em servidores Linux utilizando o serviço SSH
 
