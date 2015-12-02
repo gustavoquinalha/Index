@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Explorando e tratando a falha de Cross-site-scripting (XSS)](http://cienciahacker.com.br/explorando-e-tratando-a-falha-de-cross-site-scripting-xss/)  
+Muito pouco falada e com alto nível crítico dentro das vulnerabilidades relatadas, o Cross-site-scripting (XSS) ocorre na aplicação web em que os parâmetros inseridos no servidor não são tratados devidamente, permitindo que o usuário mal intencionado insira códigos (como em HTML e JavaScript) que manipulam instruções, como as estruturas de documentos HTML, roubo de sessões no sistema/credenciais, redirecionamento para sites maliciosos, entre outras coisas.  
+
 ###[Entendendo a fundo os conceitos e práticas sobre Engenharia Social](http://cienciahacker.com.br/entendendo-a-fundo-os-conceitos-e-praticas-sobre-engenharia-social/)  
 A engenharia social é conhecida como a técnica de persuadir e ludibriar pessoas com o fim de obtenção de informações privilegiadas cujas são muito utilizadas para extração de login/senhas, dados pessoais, credenciais, entre outras informações. Sendo explorada tanto em ambiente corporativo ou com vítimas aleatórias que aproveita-se de fraquezas emocionais podendo ser feita fisicamente ou mediante algum meio tecnológico. Abordaremos os tipos de ataques utilizados na engenharia social, os meios que se utiliza e como entrar a fundo nesse meio.  
 
