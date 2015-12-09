@@ -1,6 +1,12 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[O malware por trás dos atalhos](http://cienciahacker.com.br/o-malware-por-tras-dos-atalhos/)  
+Um tipo de malware vem causando vários transtornos aos usuários. Trata-se de um vírus que infecta o pendrive, transformando todos os arquivos e documentos em atalhos. Encontrado com diversos nomes, nós iremos chamá-lo de COOL.vbs.
+
+###[Decifrando senhas do Shadow com John The Ripper](http://cienciahacker.com.br/decifrando-senhas-do-shadow-com-john-the-ripper/)  
+Hoje traremos um artigo especialmente para aqueles que gostam de participar de campeonatos de Capture the Flag (CTF). Para quem participou do Roadsec, viu um desafio relacionado a decifrar uma senha de um usuário do shadow. Por isso demonstraremos como você pode decifrar a hash e também como pegar as senhas dos respectivos serviços de um host.
+
 ###[Explorando e tratando a falha de Cross-site-scripting (XSS)](http://cienciahacker.com.br/explorando-e-tratando-a-falha-de-cross-site-scripting-xss/)  
 Muito pouco falada e com alto nível crítico dentro das vulnerabilidades relatadas, o Cross-site-scripting (XSS) ocorre na aplicação web em que os parâmetros inseridos no servidor não são tratados devidamente, permitindo que o usuário mal intencionado insira códigos (como em HTML e JavaScript) que manipulam instruções, como as estruturas de documentos HTML, roubo de sessões no sistema/credenciais, redirecionamento para sites maliciosos, entre outras coisas.  
 
