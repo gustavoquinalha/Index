@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Footprint – Levantando informações do alvo](http://cienciahacker.com.br/footprint-levantando-informacoes-do-alvo/)  
+Hoje iremos abordar sobre a técnica de arrecadamento de informações, conhecida como Footprint. Ela consiste em levantar o máximo de informações possíveis para mapear a estratégia de ataque num alvo. Veremos como elaborar o passo a passo, os mecanismos e ferramentas utilizadas nesse processo para fazer uma coleta eficiente.  
+
 ###[O malware por trás dos atalhos](http://cienciahacker.com.br/o-malware-por-tras-dos-atalhos/)  
 Um tipo de malware vem causando vários transtornos aos usuários. Trata-se de um vírus que infecta o pendrive, transformando todos os arquivos e documentos em atalhos. Encontrado com diversos nomes, nós iremos chamá-lo de COOL.vbs.
 
