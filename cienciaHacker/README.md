@@ -10,4 +10,4 @@
 
 ### Contribua conosco
 
-[Guia de Contribuição](arquivos/contribua.md)
+#### [Guia de Contribuição](arquivos/contribua.md)
