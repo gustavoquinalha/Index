@@ -3,6 +3,10 @@
 
 ###YouTube
 
+####[Buscando exploits utilizando Pompem (através do CygWin e apt-cyg) ](https://www.youtube.com/watch?v=h6VVXmukcmI)  
+Neste vídeo utilizaremos a ferramenta Pompem para realizar a busca de exploits.
+Estaremos também apresentando o emulador de terminal linux para Windows, CygWin, e ensinando a instalar o APT-CYG (gerenciador de pacotes)
+
 ####[Configurando DNS dinâmico em servidor doméstico](https://www.youtube.com/watch?v=YHk9cphAngA)  
 Neste vídeo utilizaremos a aplicação ddclient em conjunto com o DNS Dinâmico do NO-IP para realizar a configuração de um servidor web caseiro
 
