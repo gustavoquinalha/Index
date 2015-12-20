@@ -27,6 +27,12 @@ Ferramenta: http://cienciahacker.com.br/tools/hash.php
 Repositório: https://github.com/lampiaosec/jackthestripper
 
 - - -
+### Laufey
+
+*Bloqueia tela do usuário toda vez que o pendrive é desconectado. Criando uma autenticação de dois fatores na máquina.*  
+
+Repositório: https://github.com/fnk0c/laufey
+- - -
 ### Organon - Package Manager
 
 *Este programa foca em automatizar o download, resolução de dependências e instalação de programas com foco em análise de vulnerabilidades e pentest.*  
