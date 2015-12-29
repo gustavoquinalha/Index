@@ -6,7 +6,6 @@
 
 >* [**Site**](http://cienciahacker.com.br)
 * [**Página Facebook**](https://fb.com/cienciahacker)
-* [**Grupo Facebook**](https://fb.com/groups/cienciahacker)
 * [**Canal Youtube**](https://www.youtube.com/user/cienciahacker)
 * [**Twitter**](https://twitter.com/cienciahacker)
 * [**Telegram**](https://telegram.me/cienciahacker)
