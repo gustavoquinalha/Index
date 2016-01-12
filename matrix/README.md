@@ -18,7 +18,10 @@
 
 * [IRC Ciência Hacker](http://cienciahacker.com.br/irc/)  
 * [Hash Finder](http://cienciahacker.com.br/tools/hash.php)  
-* [Seu IP](http://cienciahacker.com.br/tools/ip.php)  
+* [Seu IP](http://cienciahacker.com.br/tools/ip.php)   
+
+- - -
+* [Tools de Parceiros](arquivos/tools.md)
 
 ## Aprenda
 
