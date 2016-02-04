@@ -27,7 +27,7 @@ Bloqueia tela do usuário toda vez que o pendrive é desconectado. Criando uma a
 - - -
 ##### Maintenance
 **Owner:** [Franco Colombino](https://github.com/fnk0c)  
-**Repo:** [Laufey](https://github.com/fnk0c/maintenance)  
+**Repo:** [Maintenance](https://github.com/fnk0c/maintenance)  
 **Description:**
 Realiza rotinas de manutenção como backups e atualizações do sistema.  
 
