@@ -3,35 +3,30 @@ Veja todos os nossos projetos e de nossos parceiros.
 #### Projetos Ciência Hacker
 
 ##### ByPass CloudFlare  
-**Owner:** [HackerOrientado](https://github.com/HackerOrientado)  
 **Repo:** [ByPass](https://github.com/HackerOrientado/BypassCF)  
 **Description:**
 Script feito em Perl para realizar o Bypass sobre o CloudFlare e assim revelar o real IP do servidor.  
 
 - - -
 ##### Cangibrina - Dashboard Finder  
-**Owner:** [Fnkoc](https://github.com/fnk0c)  
 **Repo:** [Cangibrina](https://github.com/fnk0c/cangibrina)  
 **Description:**
 Um rápido e poderoso Dashboad Finder (admin finder) feito em Python. Utiliza diversas técnicas para atingir o objetivo em questão.  
 
 - - -
 ##### Laufey  
-**Owner:** [Fnkoc](https://github.com/fnk0c)  
 **Repo:** [Laufey](https://github.com/fnk0c/laufey)  
 **Description:**
 Bloqueia tela do usuário toda vez que o pendrive é desconectado. Criando uma autenticação de dois fatores na máquina.  
 
 - - -
 ##### Maintenance
-**Owner:** [Fnkoc](https://github.com/fnk0c)  
 **Repo:** [Maintenance](https://github.com/fnk0c/maintenance)  
 **Description:**
 Realiza rotinas de manutenção como backups e atualizações do sistema.  
 
 - - -
 ##### Organon - Package Manager  
-**Owner:** [Fnkoc](https://github.com/fnk0c)  
 **Repo:** [Organon](https://github.com/fnk0c/organon)  
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=lpPauu2uY4E)  
 **Description:**
@@ -39,14 +34,12 @@ Este programa foca em automatizar o download, resolução de dependências e ins
 
 - - -
 ##### Sn0w  
-**Owner:** [S0ph0s](https://github.com/54l0m0n)  
 **Repo:** [Sn0w](https://github.com/54l0m0n/Sn0w)  
 **Description:** 
 Ferramenta de captura de pacotes na rede (sniffer). 
 
 - - -
 ##### Wp-Installer  
-**Owner:** [Fnkoc](https://github.com/fnk0c)    
 **Repo:** [Wp-Installer](https://github.com/fnk0c/wp-installer)   
 **Description:**
 Script feito em Shell Script que automatiza a instalação e configuração do WordPress em sistemas GNU/Linux.  
