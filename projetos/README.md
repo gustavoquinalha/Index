@@ -1,47 +1,52 @@
 Veja todos os nossos projetos e de nossos parceiros.  
-  
-Última atualização feita por **Methz:** 12/01/2016 - 18:20.    
 
 #### Projetos Ciência Hacker
 
 ##### ByPass CloudFlare  
-**Owner:** [Carlos](https://github.com/HackerOrientado)  
+**Owner:** [HackerOrientado](https://github.com/HackerOrientado)  
 **Repo:** [ByPass](https://github.com/HackerOrientado/BypassCF)  
 **Description:**
 Script feito em Perl para realizar o Bypass sobre o CloudFlare e assim revelar o real IP do servidor.  
 
 - - -
 ##### Cangibrina - Dashboard Finder  
-**Owner:** [Franco Colombino](https://github.com/fnk0c)  
+**Owner:** [Fnkoc](https://github.com/fnk0c)  
 **Repo:** [Cangibrina](https://github.com/fnk0c/cangibrina)  
 **Description:**
 Um rápido e poderoso Dashboad Finder (admin finder) feito em Python. Utiliza diversas técnicas para atingir o objetivo em questão.  
 
 - - -
 ##### Laufey  
-**Owner:** [Franco Colombino](https://github.com/fnk0c)  
+**Owner:** [Fnkoc](https://github.com/fnk0c)  
 **Repo:** [Laufey](https://github.com/fnk0c/laufey)  
 **Description:**
 Bloqueia tela do usuário toda vez que o pendrive é desconectado. Criando uma autenticação de dois fatores na máquina.  
 
 - - -
 ##### Maintenance
-**Owner:** [Franco Colombino](https://github.com/fnk0c)  
+**Owner:** [Fnkoc](https://github.com/fnk0c)  
 **Repo:** [Maintenance](https://github.com/fnk0c/maintenance)  
 **Description:**
 Realiza rotinas de manutenção como backups e atualizações do sistema.  
 
 - - -
 ##### Organon - Package Manager  
-**Owner:** [Franco Colombino](https://github.com/fnk0c)  
+**Owner:** [Fnkoc](https://github.com/fnk0c)  
 **Repo:** [Organon](https://github.com/fnk0c/organon)  
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=lpPauu2uY4E)  
 **Description:**
 Este programa foca em automatizar o download, resolução de dependências e instalação de programas com foco em análise de vulnerabilidades e pentest.  
 
 - - -
+##### Sn0w  
+**Owner:** [S0ph0s](https://github.com/54l0m0n)  
+**Repo:** [Sn0w](https://github.com/54l0m0n/Sn0w)  
+**Description:** 
+Ferramenta de captura de pacotes na rede (sniffer). 
+
+- - -
 ##### Wp-Installer  
-**Owner:** [Franco Colombino](https://github.com/fnk0c)    
+**Owner:** [Fnkoc](https://github.com/fnk0c)    
 **Repo:** [Wp-Installer](https://github.com/fnk0c/wp-installer)   
 **Description:**
 Script feito em Shell Script que automatiza a instalação e configuração do WordPress em sistemas GNU/Linux.  
@@ -76,13 +81,6 @@ Comunidade que visa compartilhar conhnecimento e informações sobre Perl, já q
 * [Página Facebook](https://www.facebook.com/PerlBrOficial)
 * [Grupo Facebook](https://www.facebook.com/groups/PerlBrasilOficial/)
 * [Twitter](https://twitter.com/Perl_Brasil)   
-
-- - -
-##### Sn0w  
-**Owner:** [S0ph0s](https://github.com/54l0m0n)  
-**Repo:** [Sn0w](https://github.com/54l0m0n/Sn0w)  
-**Description:** 
-Ferramenta de captura de pacotes na rede (sniffer).  
 
 - - -
 ##### Virgulino  
