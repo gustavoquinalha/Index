@@ -4,44 +4,51 @@ Veja todos os nossos projetos e de nossos parceiros.
 
 ##### ByPass CloudFlare  
 **Repo:** [ByPass](https://github.com/HackerOrientado/BypassCF)  
-**Description:**
+**Linguagem:** Perl  
+**Descrição:**
 Script feito em Perl para realizar o Bypass sobre o CloudFlare e assim revelar o real IP do servidor.  
 
 - - -
 ##### Cangibrina - Dashboard Finder  
 **Repo:** [Cangibrina](https://github.com/fnk0c/cangibrina)  
-**Description:**
+**Linguagem:** Python  
+**Descrição:**
 Um rápido e poderoso Dashboad Finder (admin finder) feito em Python. Utiliza diversas técnicas para atingir o objetivo em questão.  
 
 - - -
 ##### Laufey  
 **Repo:** [Laufey](https://github.com/fnk0c/laufey)  
-**Description:**
+**Linguagem:** Python  
+**Descrição:**
 Bloqueia tela do usuário toda vez que o pendrive é desconectado. Criando uma autenticação de dois fatores na máquina.  
 
 - - -
 ##### Maintenance
 **Repo:** [Maintenance](https://github.com/fnk0c/maintenance)  
-**Description:**
+**Linguagem:** Shell Script  
+**Descrição:**
 Realiza rotinas de manutenção como backups e atualizações do sistema.  
 
 - - -
 ##### Organon - Package Manager  
 **Repo:** [Organon](https://github.com/fnk0c/organon)  
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=lpPauu2uY4E)  
-**Description:**
+**Linguagem:** Python  
+**Descrição:**
 Este programa foca em automatizar o download, resolução de dependências e instalação de programas com foco em análise de vulnerabilidades e pentest.  
 
 - - -
 ##### Sn0w  
 **Repo:** [Sn0w](https://github.com/54l0m0n/Sn0w)  
-**Description:** 
+**Linguagem:** Python  
+**Descrição:**
 Ferramenta de captura de pacotes na rede (sniffer). 
 
 - - -
 ##### Wp-Installer  
 **Repo:** [Wp-Installer](https://github.com/fnk0c/wp-installer)   
-**Description:**
+**Linguagem:** Shell Script  
+**Descrição:**
 Script feito em Shell Script que automatiza a instalação e configuração do WordPress em sistemas GNU/Linux.  
 
 #### Projetos de Parceiros  
