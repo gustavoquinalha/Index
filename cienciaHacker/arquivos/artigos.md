@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](http://blog.cienciahacker.com.br)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Montando um laboratório para análise de malware](https://blog.cienciahacker.ch/montando-um-laboratorio-para-analise-de-malware/)  
+Há duas maneiras iniciais para se montar um laboratório de análise. Máquinas Virtuais Máquinas Físicas Máquinas físicas? Sim! Você pode usar aquele seu laptop da Xuxa que não podia ver uma smoke na dust2 que o PC explodia ou você pode optar por usar máquinas virtuais, processo mais rápido, fácil porém há malwares que conseguem identificar …
+
 ###[Realizando varreduras e descoberta de vulnerabilidades com Arachni Web Scanner](http://blog.cienciahacker.com.br/realizando-varreduras-e-descoberta-de-vulnerabilidades-com-arachni-web-scanner/) 
 O Arachni é uma ferramenta de análise de vulnerabilidades em servidores e aplicações Web, ideal para análises White/Gray Box devido ao alto número de requisições e barulho no servidor alvo.
 Ele é totalmente escrito em Ruby e possui uma plataforma para rodar em Shell e um painel Web, onde é possível realizar várias análises e gerar relatórios e gráficos administrativos sobre o alvo.
