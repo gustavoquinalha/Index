@@ -45,6 +45,13 @@ Este programa foca em automatizar o download, resolução de dependências e ins
 Ferramenta de captura de pacotes na rede (sniffer). 
 
 - - -
+##### Web2pdf  
+**Repo:** [web2pdf](https://github.com/fnk0c/web2pdf)   
+**Linguagem:** Python  
+**Descrição:**
+Gera PDF de todos os artigos do Ciência Hacker presentes na lista de artigos do GitHub.   
+
+- - -
 ##### Wp-Installer  
 **Repo:** [Wp-Installer](https://github.com/fnk0c/wp-installer)   
 **Linguagem:** Shell Script  
