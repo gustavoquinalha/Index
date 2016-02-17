@@ -78,7 +78,7 @@ O KillRouter é um script mega simples que criei durante um experiência onde ne
 
 - - -
 ##### Perl Brasil  
-**Owner:** [Heitor Golvea](https://github.com/HeitorG)  
+**Owner:** [Heitor Gouvea](https://github.com/HeitorG)  
 **Repo:** [Perl Brasil](https://github.com/HeitorG/Perl-Brasil)  
 **Description:** 
 Comunidade que visa compartilhar conhnecimento e informações sobre Perl, já que a linguagem contém um material muito excasso em nosso idioma.  
