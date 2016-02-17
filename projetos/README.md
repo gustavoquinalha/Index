@@ -62,25 +62,25 @@ Script feito em Shell Script que automatiza a instalação e configuração do W
 
 - - -
 ##### Jack the Stripper  
-**Owner:** [LampiaoSec](https://github.com/lampiaosec)  
+**Proprietário:** [LampiaoSec](https://github.com/lampiaosec)  
 **Repo:** [Jack Stripper](https://github.com/lampiaosec/jackthestripper)  
-**Description:**
+**Descrição:**
 Jack The Stripper é uma ferramenta para ataques automatizados de MITM (man in the middle) e DNS Poisoning.  
 
 - - -
 ##### Kill-Router
-**Owner:** [Matheus Fidélis](https://github.com/msfidelis)  
+**Proprietário:** [Matheus Fidélis](https://github.com/msfidelis)  
 **Repo:** [Kill-Router](https://github.com/msfidelis/Kill-Router-)  
-**Description:**
+**Descrição:**
 Ferramenta para quebrar senhas administrativas de roteadores Wireless, routers, switches e outras plataformas de gestão de serviços de rede autenticados.
 
 O KillRouter é um script mega simples que criei durante um experiência onde necessitava de uma ferramenta que me auxiliasse em um brute force de senhas simples em um roteador autenticado via JavaScript. Pedindo ajuda ao Dr. Google e aos universitários, obrigado Gambler, encontrei um método de enviar o request junto com a solicitação de usuário e senha no header para o roteador. É claro que existe o projeto THC Hydra, que inclusive gosto muito, nesse aspecto a ferramenta deixa um pouco a deseja no quesito de performance, podendo até enviar requisições perdidas por aí, e isso me levou a pensar em uma forma de simplificar o processo e executar a operação de uma forma quase 3 vezes mais rápida usando Python.
 
 - - -
 ##### Perl Brasil  
-**Owner:** [Heitor Gouvea](https://github.com/HeitorG)  
+**Proprietário:** [Heitor Gouvea](https://github.com/HeitorG)  
 **Repo:** [Perl Brasil](https://github.com/HeitorG/Perl-Brasil)  
-**Description:** 
+**Descrição:** 
 Comunidade que visa compartilhar conhnecimento e informações sobre Perl, já que a linguagem contém um material muito excasso em nosso idioma.  
 
 **Redes Sociais:**  
@@ -91,15 +91,15 @@ Comunidade que visa compartilhar conhnecimento e informações sobre Perl, já q
 
 - - -
 ##### Virgulino  
-**Owner:** [LampiaoSec](https://github.com/lampiaosec)  
+**Proprietário:** [LampiaoSec](https://github.com/lampiaosec)  
 **Repo:** [Virgulino](https://github.com/lampiaosec/virgulino)  
-**Description:** 
+**Descrição:** 
 Virgulino é um simples experimento de estenografia, fazendo com que o texto seja criptografado antes de ser escondido.  
 
 - - -
 #### Sherlock ####
-**Owner:** [Matheus Fidélis](https://github.com/msfidelis)  
+**Proprietário:** [Matheus Fidélis](https://github.com/msfidelis)  
 **Repo:** [Sherlock](https://github.com/msfidelis/Sherlock)  
-**Description:**
+**Descrição:**
 Sherlock is simple Python Tool design to find vulnerabilities, open directories and files in 
 Top Frameworks and Web Applications for my Web Scraping Studies and Academic Purposes.
