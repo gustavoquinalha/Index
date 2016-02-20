@@ -4,7 +4,7 @@
 
 #### Redes Sociais
 
->* [**Site**](http://cienciahacker.com.br)
+>* [**Site**](https://cienciahacker.ch)
 * [**Página Facebook**](https://fb.com/cienciahacker)
 * [**Canal Youtube**](https://www.youtube.com/user/cienciahacker)
 * [**Twitter**](https://twitter.com/cienciahacker)
