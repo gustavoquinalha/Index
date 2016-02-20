@@ -101,5 +101,5 @@ Virgulino é um simples experimento de estenografia, fazendo com que o texto sej
 **Proprietário:** [Matheus Fidélis](https://github.com/msfidelis)  
 **Repo:** [Sherlock](https://github.com/msfidelis/Sherlock)  
 **Descrição:**
-Sherlock is simple Python Tool design to find vulnerabilities, open directories and files in 
-Top Frameworks and Web Applications for my Web Scraping Studies and Academic Purposes.
+Sherlock é uma simples ferramenta escrita em python para encontrar vulnerabilidas,
+diretorios e arquivos abertos nas principais estruturas web.
