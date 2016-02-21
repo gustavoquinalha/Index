@@ -107,9 +107,7 @@ diretorios e arquivos abertos nas principais estruturas web.
 - - -
 #### I30 ####
 **Proprietário:** [Igor Oliveira](https://github.com/DevIgor)
-
 **Repo:** [I30](https://github.com/DevIgor/I30)
-
 **Descrição**
 Script feto para facilitar algumas tarefas como Brute Force em roteadores,
 Localização de um IP, Coletar Links de um site,Coletar Subdominios de um site
