@@ -1,4 +1,4 @@
-## Relação de todos os artigos já publicados em nosso [site](https://blog.cienciahacker.ch)
+## Relação de todos os artigos já publicados em nosso [blog](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
 ###[Escalação de privilégio com PowerShell](https://blog.cienciahacker.ch/escalacao-de-privilegio-com-powershell/)  
