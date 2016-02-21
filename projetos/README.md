@@ -103,3 +103,12 @@ Virgulino é um simples experimento de estenografia, fazendo com que o texto sej
 **Descrição:**
 Sherlock é uma simples ferramenta escrita em python para encontrar vulnerabilidas,
 diretorios e arquivos abertos nas principais estruturas web.
+
+- - -
+#### I30 ####
+**Proprietário:** [Igor Oliveira](https://github.com/DevIgor)
+**Repo:** [I30](https://github.com/DevIgor/I30)
+**Descrição**
+Script feto para facilitar algumas tarefas como Brute Force em roteadores,
+Localização de um IP, Coletar Links de um site,Coletar Subdominios de um site
+e Descriptografar Hash MD5 com o banco de dados do site md5.gromweb.com.
