@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [site](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Escalação de privilégio com PowerShell](https://blog.cienciahacker.ch/escalacao-de-privilegio-com-powershell/)  
+Escalação de privilégio é uma tarefa que se prova ser difícil às vezes. No passado, se poderia confiar no Metasploit como um framework de exploração completo. Com o Metasploit, não só seria capaz de explorar uma vulnerabilidade mas também rapidamente elevar os privilégios com o comando ‘getsystem’. De qualquer maneira, com o cenário da cybersegurança constantemente em mudança, foi apenas uma questão de tempo antes que administradores de rede implementassem novos avanços tecnológicos que detectariam e preveniriam a maioria dos payloads do Metasploit. Com uma das ferramentas favoritas de pentesters agora sendo detectada, os profissionais de segurança precisavam encontrar uma solução alternativa.
+
 ###[Montando um laboratório para análise de malware](https://blog.cienciahacker.ch/montando-um-laboratorio-para-analise-de-malware/)  
 Há duas maneiras iniciais para se montar um laboratório de análise. Máquinas Virtuais Máquinas Físicas Máquinas físicas? Sim! Você pode usar aquele seu laptop da Xuxa que não podia ver uma smoke na dust2 que o PC explodia ou você pode optar por usar máquinas virtuais, processo mais rápido, fácil porém há malwares que conseguem identificar …
 
