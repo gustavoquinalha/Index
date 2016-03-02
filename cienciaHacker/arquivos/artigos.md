@@ -1,6 +1,12 @@
 ## Relação de todos os artigos já publicados em nosso [blog](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Evidenciando e identificando servidores SSL/TLS vulneráveis](https://blog.cienciahacker.ch/evidenciando-e-identificando-servidores-ssltls-vulneraveis/)  
+Na análise de vulnerabilidade em infraestrutura, uma das verificações a serem feitas é na versão do serviço do SSL/TLS, caso esteja numa versão obsoleta, é possível explorar vulnerabilidades sobre alguns vetores de ataque como gênero (MITM Main The Middle). Com ferramentas como SSLScan, SSLyze e Nmap, podemos recolher informações da versão do serviço rodando e as cifras que …  
+
+###[Introdução à binários ELF no Linux: Compreensão e Análise](https://blog.cienciahacker.ch/intro-a-binarios-elf-no-linux-compreensao-e-analise/)  
+Executable and Linkable Format [ELF] Formato executável e de ligação Um profundo mergulho em arquivos ELF: resposta a incidentes de segurança, desenvolvimento e uma melhor compreensão Nós muitas vezes não percebemos as habilidades de outros pois as concebemos como normais. Uma dessas coisas é o uso de ferramentas comuns, como ps e ls. Mesmo que …  
+
 ###[Escalação de privilégio com PowerShell](https://blog.cienciahacker.ch/escalacao-de-privilegio-com-powershell/)  
 Escalação de privilégio é uma tarefa que se prova ser difícil às vezes. No passado, se poderia confiar no Metasploit como um framework de exploração completo. Com o Metasploit, não só seria capaz de explorar uma vulnerabilidade mas também rapidamente elevar os privilégios com o comando ‘getsystem’. De qualquer maneira, com o cenário da cybersegurança constantemente em mudança, foi apenas uma questão de tempo antes que administradores de rede implementassem novos avanços tecnológicos que detectariam e preveniriam a maioria dos payloads do Metasploit. Com uma das ferramentas favoritas de pentesters agora sendo detectada, os profissionais de segurança precisavam encontrar uma solução alternativa.
 
