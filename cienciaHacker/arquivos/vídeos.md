@@ -3,6 +3,9 @@
 
 ###YouTube
 
+####[DNS - O que você precisa saber](https://www.youtube.com/watch?v=1ZQTs10lmcQ)  
+Uma explicação sobre DNS indo além do 'serve para traduzir nomes'. É um bom começo para estudar, mas não se limite à esse vídeo.
+
 ####[Buscando exploits utilizando Pompem (através do CygWin e apt-cyg) ](https://www.youtube.com/watch?v=h6VVXmukcmI)  
 Neste vídeo utilizaremos a ferramenta Pompem para realizar a busca de exploits.
 Estaremos também apresentando o emulador de terminal linux para Windows, CygWin, e ensinando a instalar o APT-CYG (gerenciador de pacotes)
