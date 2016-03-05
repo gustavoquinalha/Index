@@ -157,20 +157,3 @@ Exemplo 2: #hydra -L senhas.txt -P senhas.txt 192.168.0.100 rdp
 - - -
 ####[Invadindo site explorando a falha do Ocomon (Invasão de Website)](https://www.youtube.com/watch?v=yaIecU7Z5rk)
 * Nessa vídeo aula estarei falando sobre a falha do Ocomon onde é possível injetar string em seu banco de dados, ganhando acesso sobre o painel administrativo.
-
-###Vimeo
-
-####[Aula 1 - Instalando Code Block: Introdução a Programção C/C++](https://vimeo.com/111950459)
-* Nessa vídeo aula ensinaremos como instalar o compilador Code Block no ambiente Linux.
-
-- - -
-####[Aula 2 - Começando a programar o primeiro "Hello World"](https://vimeo.com/117006557)
-* Começando a programar o primeiro "Hello World"
-
-- - -
-####[Aula 03 - Variáveis int](https://vimeo.com/124822942)
-* Variáveis int
-
-- - -
-####[Identificando senhas dos usuarios com John the Ripper](https://vimeo.com/115620209)
-* O título é auto-explicativo
