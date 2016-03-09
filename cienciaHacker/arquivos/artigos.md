@@ -1,6 +1,9 @@
 ## Relação de todos os artigos já publicados em nosso [blog](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Criando e encriptando backdoor com Msfvenom](https://blog.cienciahacker.ch/criando-e-encriptando-backdoor-com-msfvenom/)  
+Com a nova atualização da ferramenta do Metasploit, mudaram alguns comandos e sintaxes para gerar backdoors. Deixaremos as novas sintaxes e dicas das novas funcionalidades e sintaxe do Msfvenom.
+
 ###[Evidenciando e identificando servidores SSL/TLS vulneráveis](https://blog.cienciahacker.ch/evidenciando-e-identificando-servidores-ssltls-vulneraveis/)  
 Na análise de vulnerabilidade em infraestrutura, uma das verificações a serem feitas é na versão do serviço do SSL/TLS, caso esteja numa versão obsoleta, é possível explorar vulnerabilidades sobre alguns vetores de ataque como gênero (MITM Main The Middle). Com ferramentas como SSLScan, SSLyze e Nmap, podemos recolher informações da versão do serviço rodando e as cifras que …  
 
