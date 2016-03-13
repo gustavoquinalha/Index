@@ -3,6 +3,9 @@
 
 ###YouTube
 
+####[Como evitar ter seu roteador sequestrado](https://www.youtube.com/watch?v=48y5ggg5sY8)
+Este vídeo tem como propósito mostrar o quão vulnerável algumas pessoas estão devido a erros humanos na configuração de seus roteadores e/ou modens. E também mostrar como verificar e resolver este problema.
+
 ####[DNS - O que você precisa saber](https://www.youtube.com/watch?v=1ZQTs10lmcQ)  
 Uma explicação sobre DNS indo além do 'serve para traduzir nomes'. É um bom começo para estudar, mas não se limite à esse vídeo.
 
