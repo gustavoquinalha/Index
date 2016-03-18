@@ -1,6 +1,11 @@
 ## Relação de todos os artigos já publicados em nosso [blog](https://blog.cienciahacker.ch)
 **Ordem: Mais novo >> Mais velho**  
 
+###[Explorando recursos de ataque do Meterpreter](https://blog.cienciahacker.ch/explorando-recursos-de-ataque-do-meterpreter/)
+Adentrando ao mundo do Metasploit, o payload Meterpreter (Meta-intérprete) está disponível para a utilização de seus recursos.
+
+Com a finalidade de fornecer diversas funcionalidades que seriam complicadas e/ou entediantes para implementação manual, seu funcionamento permite que os atacantes escrevam suas próprias extensões em forma de arquivos de objetos compartilhados (DLL), que podem ser  injetados e carregados em um processo em execução no computador de destino do atacante após a exploração.
+
 ###[Criando e encriptando backdoor com Msfvenom](https://blog.cienciahacker.ch/criando-e-encriptando-backdoor-com-msfvenom/)  
 Com a nova atualização da ferramenta do Metasploit, mudaram alguns comandos e sintaxes para gerar backdoors. Deixaremos as novas sintaxes e dicas das novas funcionalidades e sintaxe do Msfvenom.
 
