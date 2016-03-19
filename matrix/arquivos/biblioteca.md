@@ -1,7 +1,7 @@
-### Links para você buscar material de estudo em diversas áreas.
-#####OBS: Os materiais estão mesclados entre pt-BR e en-EN.    
+### Links para você buscar materiais de estudo em diversas áreas.
+#####OBS: Os materiais estão mesclados em português e inglês.    
 
-Última atualização feita por **Methz:** 10/11/2015 - 00:59.    
+Última atualização feita por **Methz:** 19/03/2016 - 14:30.    
 
 #### Conteúdo Misto
 - - -
@@ -10,31 +10,19 @@
 [Biblioteca 03](http://goo.gl/FtyXIe)  
 [Biblioteca 04](https://goo.gl/v5iVKE)  
 [Biblioteca 05](https://goo.gl/8v6Jtc)    
-[Biblioteca 06](https://goo.gl/zOHKRJ)    
-[Biblioteca 07](https://goo.gl/qTUPRc)    
-[Biblioteca 08](https://goo.gl/IUq1mK)  
+[Biblioteca 06](https://goo.gl/qTUPRc)    
+[Biblioteca 07](https://goo.gl/IUq1mK)  
 - - -
 
-### Hacking apenas 
+### Hacking  
 - - -
  
 >[Hacking 01](https://goo.gl/sYWzUT)  
 [Hacking 02](https://goo.gl/5tnAJH)    
 [Hacking 03](https://goo.gl/CzlLGa)    
 [Hacking 04](https://goo.gl/qp1R0m)  
-[Hacking 05](https://goo.gl/wV7nW1)    
-[Hacking 06](https://goo.gl/vU244w)      
-[Hacking 07](https://goo.gl/5TW96S)
-
-- - -
-### Programação apenas
-- - -
-
->[Linguagens de Programação 01](https://goo.gl/AzlVMc)  
-[Linguagens de Programação 02](https://goo.gl/InArZQ)      
-[Linguagens de Programação 03](https://goo.gl/Av5sgs)    
-[Linguagens de Programação 04](https://goo.gl/isKoxu)     
-
+[Hacking 05](https://goo.gl/vU244w)      
+[Hacking 06](https://goo.gl/5TW96S)
 
 - - -
 ### Redes
@@ -44,16 +32,13 @@
 
 
 - - -
-### Livros apenas
+### Livros  
 - - -
 
 >[Livros 01](https://goo.gl/uxHqqY)        
 [Livros 02](https://goo.gl/NwKsVx)    
-[Livros 03](https://goo.gl/zMSl7J)  
-[Livros 04](https://goo.gl/26NK23)    
-[Livros 05](https://goo.gl/OkEITY)      
-[Livros 06](https://goo.gl/VoR8SA)    
-
+[Livros 03](https://goo.gl/OkEITY)      
+[Livros 04](https://goo.gl/VoR8SA)    
 
 - - -
 ### Cursos Completos
@@ -63,13 +48,9 @@
 [DDOS](https://goo.gl/H7rLGM)  
 
 - - -
-### Torrent Apenas
+### Torrent  
 - - -
 
 >[Torrent 01](https://goo.gl/j07eJ1)  
 
 - - -
-###Sistemas Operacionais
-- - -
-
->[OS 01](https://goo.gl/2kzaAn)  
