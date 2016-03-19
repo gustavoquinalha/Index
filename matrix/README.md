@@ -16,9 +16,9 @@
 
 ## Use 
 
-* [IRC Ciência Hacker](http://cienciahacker.com.br/irc/)  
-* [Hash Finder](http://cienciahacker.com.br/tools/hash.php)  
-* [Seu IP](http://cienciahacker.com.br/tools/ip.php)   
+* [IRC Ciência Hacker]() [Manutenção]  
+* [Hash Finder]() [Manutenção]  
+* [Seu IP]() [Manutenção]  
 
 ## Aprenda
 
