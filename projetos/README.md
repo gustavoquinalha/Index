@@ -10,57 +10,57 @@
 
 #### ByPass CloudFlare  
 **Repositório:** [ByPass](https://github.com/HackerOrientado/BypassCF)  
-**Linguagem:** Perl  
+**Linguagem:** [Perl](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#perl)  
 **Descrição:**
 Script feito em Perl para realizar o Bypass sobre o CloudFlare e assim revelar o real IP do servidor.  
 
 - - -
 #### Cangibrina - Dashboard Finder  
 **Repositório:** [Cangibrina](https://github.com/fnk0c/cangibrina)  
-**Linguagem:** Python  
+**Linguagem:** [Python](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#python)   
 **Descrição:**
 Um rápido e poderoso Dashboad Finder (admin finder) feito em Python. Utiliza diversas técnicas para atingir o objetivo em questão.  
 
 - - -
 #### Laufey  
 **Repositório:** [Laufey](https://github.com/fnk0c/laufey)  
-**Linguagem:** Python  
+**Linguagem:** [Python](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#python)  
 **Descrição:**
 Bloqueia tela do usuário toda vez que o pendrive é desconectado. Criando uma autenticação de dois fatores na máquina.  
 
 - - -
 #### Maintenance
 **Repositório:** [Maintenance](https://github.com/fnk0c/maintenance)  
-**Linguagem:** Shell Script  
+**Linguagem:** [Shell Script](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#shell-script) 
 **Descrição:**
 Realiza rotinas de manutenção como backups e atualizações do sistema.  
 
 - - -
 #### Organon - Package Manager  
 **Repositório:** [Organon](https://github.com/fnk0c/organon)  
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=lpPauu2uY4E)  
-**Linguagem:** Python  
+**Linguagem:** [Python](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#python)   
 **Descrição:**
 Este programa foca em automatizar o download, resolução de dependências e instalação de programas com foco em análise de vulnerabilidades e pentest.  
+**Vídeo:** [YouTube](https://www.youtube.com/watch?v=lpPauu2uY4E)
 
 - - -
 #### Sn0w  
 **Repositório:** [Sn0w](https://github.com/54l0m0n/Sn0w)  
-**Linguagem:** Python  
+**Linguagem:** [Python](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#python)  
 **Descrição:**
 Ferramenta de captura de pacotes na rede (sniffer). 
 
 - - -
 #### Web2pdf  
 **Repositório:** [web2pdf](https://github.com/fnk0c/web2pdf)   
-**Linguagem:** Python  
+**Linguagem:** [Python](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#python)   
 **Descrição:**
 Gera PDF de todos os artigos do Ciência Hacker presentes na lista de artigos do GitHub.   
 
 - - -
 #### Wp-Installer  
 **Repositório:** [Wp-Installer](https://github.com/fnk0c/wp-installer)   
-**Linguagem:** Shell Script  
+**Linguagem:** [Shell Script](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#shell-script) 
 **Descrição:**
 Script feito em Shell Script que automatiza a instalação e configuração do WordPress em sistemas GNU/Linux.  
 
@@ -87,7 +87,7 @@ O KillRouter é um script mega simples que criei durante um experiência onde ne
 **Proprietário:** [Heitor Gouvea](https://github.com/HeitorG)  
 **Repositório:** [Perl Brasil](https://github.com/HeitorG/Perl-Brasil)  
 **Descrição:** 
-Comunidade que visa compartilhar conhnecimento e informações sobre Perl, já que a linguagem contém um material muito excasso em nosso idioma.  
+Comunidade que visa compartilhar conhecimento e informações sobre Perl já que a linguagem contém um material muito escasso em nosso idioma.  
 
 **Redes Sociais:**  
 
