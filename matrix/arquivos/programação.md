@@ -1,10 +1,10 @@
-###Links para te auxíliar na busca de conhecimento sobre Programação.
+###Links para te auxíliar na busca de conhecimento em desenvolvimento.
 
 #####OBS: O link referente ao nome da linguagem é a documentação oficial. 
 
-Última atualização feita por **Methz**: 10/11/2015 - 00:11.    
+Última atualização feita por **Methz**: 19/03/2016 - 20:00.    
 
-Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
+Qualquer link quebrado, dúvida ou sugestão, mande um PR.
 - - -
 
 #Índice
@@ -38,46 +38,42 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 ##[HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 >##### Inglês  
+* [Udemy - HTML5 from Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)  
 * [W3schools](http://www.w3schools.com/html/default.asp)  
  
 >##### Português   
-* [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-de-html5/)
-* [Codecademy](http://www.codecademy.com/pt-BR/tracks/web)
+* [Codecademy](https://www.codecademy.com/pt-BR/learn/web)
+* [Dive Into HTML5](https://diveintohtml5.com.br/)
  
 ---------------------------------------------------------------------------------- 
 ##[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 >##### Inglês    
-* [W3schools](http://www.w3schools.com/js/default.asp)
-* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
-* [JS Enlightenment](http://www.javascriptenlightenment.com/)
-* [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
-* [Build a Framework JS](http://dailyjs.com/files/build-a-javascript-framework.pdf) Download direto
-* [Human JS](http://read.humanjavascript.com/)
 * [Concise JS](http://slides.com/concise/js#/)
 * [Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [JavaScript Tutorial](http://javascript.info/)
-* [Kuripa](http://www.kirupa.com/html5/learn_javascript.htm)
 * [Eloquente JS](http://eloquentjavascript.net/)
-* [Speaking JS](http://speakingjs.com/es5/index.html)           
+* [Human JS](http://read.humanjavascript.com/)
+* [Kuripa](http://www.kirupa.com/html5/learn_javascript.htm)
+* [Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)
+* [Speaking JS](http://speakingjs.com/es5/index.html)
+* [W3schools](http://www.w3schools.com/js/default.asp)
 
 >##### Português 
-* [Codecademy](http://www.codecademy.com/pt-BR/tracks/javascript)
-* [Universidade XTI](https://www.youtube.com/playlist?list=PLcHPNq67CaVlq6_hp77DXwS9xQgZeaKf-)
+* [Codecademy](http://www.codecademy.com/pt-BR/learn/javascript)
+* [Desvendando a Linguagem JS](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+* [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico)
     
 ---------------------------------------------------------------------------------- 
 ##[PHP](https://php.net/manual/pt_BR/index.php)
     
 >##### Inglês 
-* [PHP5 Tutorial](http://www.php5-tutorial.com/)
 * [MySQL + PHP Tutorial](http://tut.php-quake.net/en/index.html)
+* [PHP5 Tutorial](http://www.php5-tutorial.com/)
 * [The Right Way](http://www.phptherightway.com/)
         
 >##### Português  
 * [Codecademy](http://www.codecademy.com/pt-BR/tracks/php)
-* [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-php-iniciante/)  
 * [PHP Do Jeito Certo](http://br.phptherightway.com/)
-* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)
  
 ----------------------------------------------------------------------------------          
 #Linguagens Desk
@@ -85,109 +81,85 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 ##[C](http://en.cppreference.com/w/c)
     
 >##### Inglês   
-* [The Hard Way](http://c.learncodethehardway.org/book/)
-* [Deep C](http://pt.slideshare.net/olvemaudal/deep-c)
 * [C on The Unix](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
-* [Tutorial Point](http://www.tutorialspoint.com/cprogramming/c_variables.htm)
-    
+* [Deep C](http://pt.slideshare.net/olvemaudal/deep-c)
+* [The Hard Way](http://c.learncodethehardway.org/book/)
+* [Tutorial Point](http://www.tutorialspoint.com/cprogramming/index.htm)
+
 >##### Português   
 * [De Aluno para Aluno](https://www.youtube.com/user/italogross/playlists)
-* [Excript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
-* [Livro](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) Download Direto
-* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)  
+* [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) Download Direto
+* [Unicamp - Introdução ao Curso de C](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html)
     
 ----------------------------------------------------------------------------------   
 ##[C++](http://en.cppreference.com/w/cpp)
     
 >##### Inglês   
-* [Learn CPP](http://www.learncpp.com/)
-* [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/)
 * [C++ for Hackers](http://pt.slideshare.net/jonbonachon/c-for-hackers)
+* [Cplusplus Tutorial](http://www.cplusplus.com/doc/tutorial/)
+* [Learn CPP](http://www.learncpp.com/)
 * [Tutorial Point](http://www.tutorialspoint.com/cplusplus/)
     
 >##### Português   
+* [Apostila Linguagem C++ - Silvio Lago](http://www.ime.usp.br/%7Eslago/slago-C++.pdf)
 * [C++ da UFRJ](http://orion.lcg.ufrj.br/C++/curso/#)
-* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
+* [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf)
     
 ----------------------------------------------------------------------------------  
 ##[C Sharp](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)  
 
 >##### Português   
-* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003SFffgnOcITHnCJavMf0ArD)  
-
----------------------------------------------------------------------------------- 
-##[Java](http://docs.oracle.com/javase/7/docs/api/)  
-
->##### Português  
-* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD)  
-* [eXcript - Java Orientado a Objetos](https://www.youtube.com/playlist?list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y)
-* [eXcript - Java8 Lambda](https://www.youtube.com/playlist?list=PLesCEcYj003SbwnNhQ9eyF7IjPlEK0uVg)
+* [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)  
 
 ---------------------------------------------------------------------------------- 
 ##[Perl](http://doc.perl6.org/)
     
 >##### Inglês   
-* [Perl5 in 21 days](http://wwwacs.gantep.edu.tr/docs/perl-ebook/)
 * [Beginner Perl](https://www.perl.org/books/beginning-perl/)
-* [The Hard Way](http://www.greenteapress.com/perl/perl.pdf) Download Direto
 * [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/)
-* [Perl Tutorial Hub](http://perl-tutorial.org/)
 * [Perl in 2 hour](http://qntm.org/files/perl/perl.html)
+* [Perl5 in 21 days](http://wwwacs.gantep.edu.tr/docs/perl-ebook/)
+* [The Hard Way](http://www.greenteapress.com/perl/perl.pdf) Download Direto
 * [Toturial Point](http://www.tutorialspoint.com/perl/)
     
 >##### Português   
-* [Cooler Perl Book](https://bugsec.googlecode.com/files/book_perl_cooler.pdf) Download Direto
+* [Cooler Perl Book](www.docfoc.com/download/documents/book-perl-cooler)
 * [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
  
 ---------------------------------------------------------------------------------- 
 ##[Python](https://www.python.org/doc/versions/)
     
 >##### Inglês   
-* [Learn X in Y Minutes](http://learnxinyminutes.com/docs/python/)
-* [The Hard Way](http://learnpythonthehardway.org/book/)
-* [Python to Beginners](http://opentechschool.github.io/python-beginners/en/index.html)
-* [Learn Break Python](http://learnpythonbreakpython.com/)
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
-* [How to Think like a Scientist](http://openbookproject.net/thinkcs/python/english3e/)
-* [Google Developer](https://developers.google.com/edu/python/)
-* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-* [Practice Python](http://anandology.com/python-practice-book/)
 * [Dive Into Python](http://www.diveintopython.net/toc/index.html)
 * [Fundamental Python](https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/index.html)
-* [Tutorial Point](http://www.tutorialspoint.com/python/index.htm)
+* [Google Developer](https://developers.google.com/edu/python/)
+* [How to Think like a Scientist](http://openbookproject.net/thinkcs/python/english3e/)
+* [Learn Break Python](http://learnpythonbreakpython.com/)
+* [Practice Python](http://anandology.com/python-practice-book/)
+* [Python to Beginners](http://openteool.github.io/python-beginners/en/index.html)
+* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+* [The Hard Way](http://learnpythonthehardway.org/book/)
     
 >##### Português   
 * [Codecademy](http://www.codecademy.com/pt-BR/tracks/python)
-* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
-* [eXcript - Python+SQLite](https://www.youtube.com/playlist?list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog)
-* [Python para Zumbi](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 * [Python para Desenvolvedores 2ed](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) Download Direto
+* [Python para Zumbi](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
         
 ----------------------------------------------------------------------------------
 ##[Ruby](http://ruby-doc.org/)
     
 >##### Inglês   
-* [Ruby to Hackers](http://ruby-hacking-guide.github.io/)
-* [YouTube](https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp)
-* [The Hard Way](http://learnrubythehardway.org/book/)
 * [Ruby for Kids](http://mrdougwright.gitbooks.io/rubykin/content/)
-* [Poignant Guide](http://mislav.uniqpath.com/poignant-guide/book/)
-* [Tutorial Point](http://www.tutorialspoint.com/ruby/index.htm)
+* [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
+* [Ruby Programming Tutorials ](https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp)
+* [The Hard Way](http://learnrubythehardway.org/book/)
     
 >##### Português   
-* [Codecademy](http://www.codecademy.com/pt-BR/tracks/ruby)
-* [Why Ruby](http://why.carlosbrando.com/)
+* [Codecademy](http://www.codecademy.com/pt-BR/learn/ruby)
+* [O Guia (comovente) de Ruby](http://why.carlosbrando.com/)
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br/)
 
-----------------------------------------------------------------------------------          
-#Mobile
-----------------------------------------------------------------------------------    
-##[Android](http://developer.android.com/reference/org/w3c/dom/Document.html)
-    
->##### Português   
-* [eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QeYKOo6NyjmHub4QKue63g)
-* [eXcript - Cadastro de Clientes](https://www.youtube.com/playlist?list=PLesCEcYj003QaHBxk_6NC6JmQSCJZ_YjX)
-* [eXcript - Jogo da Velha](https://www.youtube.com/playlist?list=PLesCEcYj003QQirPgaBRBsF4bxH1HeJBP)
 
 ----------------------------------------------------------------------------------
 #Outras
@@ -195,7 +167,7 @@ Qualquer link quebrado, dúvida ou sugestão, mande um Pull.
 ##[Haskell](https://www.haskell.org/)
 
 >##### Inglês 
-* [Documentação - Vários Links](https://www.haskell.org/documentation)
+* [Documentation - Many Links](https://www.haskell.org/documentation)
     
 >##### Português 
 * [Aprenda Haskell](http://haskell.tailorfontela.com.br/chapters)
