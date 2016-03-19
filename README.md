@@ -14,7 +14,7 @@
 
 >* [**Artigos**](cienciaHacker/arquivos/artigos.md)
 * [**Vídeos**](cienciaHacker/arquivos/vídeos.md)
-* [**Contribua**](cienciaHacker/arquivos/contribua.md)
+* [**Projetos**](projetos/README.md)
 
 #### Entre Na Matrix
 
