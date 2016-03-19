@@ -17,8 +17,8 @@
 ## Use 
 
 * [IRC Ciência Hacker]() [Manutenção]  
-* [Hash Finder]() [Manutenção]  
-* [Seu IP]() [Manutenção]  
+* [Hash Finder](https://projetos.cienciahacker.ch/tools/hash.php)  
+* [Seu IP](https://projetos.cienciahacker.ch/tools/ip.php)  
 
 ## Aprenda
 
