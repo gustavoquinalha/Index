@@ -31,7 +31,7 @@ Bloqueia tela do usuário toda vez que o pendrive é desconectado. Criando uma a
 - - -
 #### Maintenance
 **Repositório:** [Maintenance](https://github.com/fnk0c/maintenance)  
-**Linguagem:** [Shell Script](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#shell-script) 
+**Linguagem:** [Shell Script](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#shell-script)  
 **Descrição:**
 Realiza rotinas de manutenção como backups e atualizações do sistema.  
 
@@ -39,9 +39,9 @@ Realiza rotinas de manutenção como backups e atualizações do sistema.
 #### Organon - Package Manager  
 **Repositório:** [Organon](https://github.com/fnk0c/organon)  
 **Linguagem:** [Python](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#python)   
+**Vídeo:** [YouTube](https://www.youtube.com/watch?v=lpPauu2uY4E)  
 **Descrição:**
 Este programa foca em automatizar o download, resolução de dependências e instalação de programas com foco em análise de vulnerabilidades e pentest.  
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=lpPauu2uY4E)
 
 - - -
 #### Sn0w  
@@ -60,7 +60,7 @@ Gera PDF de todos os artigos do Ciência Hacker presentes na lista de artigos do
 - - -
 #### Wp-Installer  
 **Repositório:** [Wp-Installer](https://github.com/fnk0c/wp-installer)   
-**Linguagem:** [Shell Script](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#shell-script) 
+**Linguagem:** [Shell Script](https://github.com/cienciahacker/index/blob/master/matrix/arquivos/programação.md#shell-script)  
 **Descrição:**
 Script feito em Shell Script que automatiza a instalação e configuração do WordPress em sistemas GNU/Linux.  
 
