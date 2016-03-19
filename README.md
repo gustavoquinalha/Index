@@ -1,6 +1,6 @@
 ## Ciência Hacker
 
-### Nessa página inicial você terá acesso aos atalhos para todos os conteúdos contidos.
+### Nessa página inicial você terá acesso aos atalhos para todos os conteúdos.
 
 #### Redes Sociais
 
@@ -12,9 +12,8 @@
 
 #### Ciência Hacker
 
->* [**Apostilas do Grupo**](cienciaHacker/arquivos/apostilas.md)
-* [**Nossos Artigos**](cienciaHacker/arquivos/artigos.md)
-* [**Nossos Vídeos**](cienciaHacker/arquivos/vídeos.md)
+>* [**Artigos**](cienciaHacker/arquivos/artigos.md)
+* [**Vídeos**](cienciaHacker/arquivos/vídeos.md)
 * [**Contribua**](cienciaHacker/arquivos/contribua.md)
 
 #### Entre Na Matrix
@@ -25,7 +24,7 @@
 
 #### Licença
 
-    Copyright (C) 2015  Ciência Hacker
+    Copyright (C) 2016  Ciência Hacker
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
